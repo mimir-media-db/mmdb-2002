@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_1940s_house",
+  "title": "The 1940s House",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7711779",
+    "imdb": "tt0375237",
+    "tmdb": 21513
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}
