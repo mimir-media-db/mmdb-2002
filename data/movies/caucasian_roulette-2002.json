@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_caucasian_roulette_2002",
+  "title": "Caucasian Roulette",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19616358",
+    "imdb": "tt0371771",
+    "tmdb": 624469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

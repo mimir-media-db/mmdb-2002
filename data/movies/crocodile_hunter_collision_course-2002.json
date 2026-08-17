@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crocodile_hunter_collision_course_2002",
+  "title": "The Crocodile Hunter: Collision Course",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1140738",
+    "imdb": "tt0305396",
+    "tmdb": 17043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

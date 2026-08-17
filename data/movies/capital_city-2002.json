@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_capital_city_2002",
+  "title": "Capital City",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11351345",
+    "imdb": "tt0404855"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

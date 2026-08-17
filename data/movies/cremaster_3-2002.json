@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cremaster_3_2002",
+  "title": "Cremaster 3",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3002438",
+    "imdb": "tt0321781",
+    "tmdb": 23986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 182
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_charlie_chaplin_2002",
+  "title": "Charlie Chaplin",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5084682",
+    "imdb": "tt7238390",
+    "tmdb": 280968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

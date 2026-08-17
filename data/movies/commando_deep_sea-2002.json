@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_commando_deep_sea_2002",
+  "title": "Commando Deep Sea",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2670631",
+    "imdb": "tt0293166",
+    "tmdb": 75605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

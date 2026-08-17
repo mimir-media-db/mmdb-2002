@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cannibalism_the_last_supper_2002",
+  "title": "Cannibalism: The Last Supper",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12105369",
+    "imdb": "tt0309418",
+    "tmdb": 1411406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

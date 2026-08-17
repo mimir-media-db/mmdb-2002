@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casus_belli_2002",
+  "title": "Casus belli",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4208461",
+    "imdb": "tt0372203",
+    "tmdb": 62771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 125
+}

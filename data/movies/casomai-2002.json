@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casomai_2002",
+  "title": "Casomai",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q738308",
+    "imdb": "tt0319147",
+    "tmdb": 62545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 114
+}
