@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_venus_talking_2002",
+  "title": "Venus Talking",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59316835",
+    "imdb": "tt0281339",
+    "tmdb": 177581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-06-20"
+}

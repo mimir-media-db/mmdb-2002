@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vastupurush_2002",
+  "title": "Vastupurush",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30635376",
+    "imdb": "tt0396963",
+    "tmdb": 91527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

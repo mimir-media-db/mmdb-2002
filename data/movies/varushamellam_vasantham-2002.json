@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_varushamellam_vasantham_2002",
+  "title": "Varushamellam Vasantham",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255106",
+    "imdb": "tt12458882",
+    "tmdb": 505127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-03"
+}
