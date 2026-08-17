@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_khooni_bistar_2002",
+  "title": "Khooni Bistar",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55615949",
+    "imdb": "tt3813222"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

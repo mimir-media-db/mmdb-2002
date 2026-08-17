@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kontrabas_2002",
+  "title": "Kontrabas",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41292311",
+    "imdb": "tt5332470",
+    "tmdb": 532603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

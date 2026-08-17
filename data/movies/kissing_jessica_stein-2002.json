@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kissing_jessica_stein_2002",
+  "title": "Kissing Jessica Stein",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1475299",
+    "imdb": "tt0264761",
+    "tmdb": 15647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-25",
+  "runtime_minutes": 97
+}

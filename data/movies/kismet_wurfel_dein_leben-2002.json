@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kismet_wurfel_dein_leben_2002",
+  "title": "Kismet – Würfel dein Leben",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64732742",
+    "imdb": "tt0457398",
+    "tmdb": 1073176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-01",
+  "runtime_minutes": 79
+}

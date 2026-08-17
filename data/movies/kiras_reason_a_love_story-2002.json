@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kiras_reason_a_love_story_2002",
+  "title": "Kira's Reason: A Love Story",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1742410",
+    "imdb": "tt0285280",
+    "tmdb": 15842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-24",
+  "runtime_minutes": 92
+}

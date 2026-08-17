@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kalu_sudu_mal_2002",
+  "title": "Kalu Sudu Mal",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30637229",
+    "imdb": "tt7956588"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-22"
+}
