@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_kruger_sieht_alles",
+  "title": "Krüger sieht alles",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1790696",
+    "imdb": "tt0360276"
+  },
+  "last_updated": "2026-08-17"
+}

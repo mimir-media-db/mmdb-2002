@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_knal_kar",
+  "title": "Kınalı Kar",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q4119866",
+    "imdb": "tt0426735",
+    "tmdb": 5362
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 90
+}

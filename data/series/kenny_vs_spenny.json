@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kenny_vs_spenny",
+  "title": "Kenny vs. Spenny",
+  "start_year": 2001,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1739004",
+    "imdb": "tt0384746",
+    "tmdb": 3540
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 87
+}
