@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_second_century_2002",
+  "title": "Second Century",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21402511",
+    "imdb": "tt0232612",
+    "tmdb": 348130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-17",
+  "runtime_minutes": 110
+}

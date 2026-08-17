@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nightstalker_2002",
+  "title": "Nightstalker",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16942410",
+    "imdb": "tt0342835",
+    "tmdb": 64929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-10",
+  "runtime_minutes": 95
+}

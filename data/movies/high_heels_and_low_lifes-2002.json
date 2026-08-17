@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_high_heels_and_low_lifes_2002",
+  "title": "High Heels and Low Lifes",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q498814",
+    "imdb": "tt0253126",
+    "tmdb": 10034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-30",
+  "runtime_minutes": 86
+}

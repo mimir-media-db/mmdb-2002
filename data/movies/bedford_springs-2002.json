@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bedford_springs_2002",
+  "title": "Bedford Springs",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45927655",
+    "imdb": "tt0299512",
+    "tmdb": 132423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 88
+}

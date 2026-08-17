@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_phone_2002",
+  "title": "Phone",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q685838",
+    "imdb": "tt0323630",
+    "tmdb": 32242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-26",
+  "runtime_minutes": 103
+}

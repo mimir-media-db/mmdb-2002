@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nuvvu_leka_nenu_lenu_2002",
+  "title": "Nuvvu leka nenu lenu",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7070656",
+    "imdb": "tt1575646",
+    "tmdb": 82253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-14"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_turn_it_up_2002",
+  "title": "Turn It Up",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79998723",
+    "imdb": "tt0307599",
+    "tmdb": 416354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

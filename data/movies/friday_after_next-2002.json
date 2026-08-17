@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_friday_after_next_2002",
+  "title": "Friday After Next",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q580006",
+    "imdb": "tt0293815",
+    "tmdb": 10426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-22",
+  "runtime_minutes": 81
+}

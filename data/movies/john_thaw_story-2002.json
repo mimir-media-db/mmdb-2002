@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_john_thaw_story_2002",
+  "title": "The John Thaw Story",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24451507",
+    "imdb": "tt0337653"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

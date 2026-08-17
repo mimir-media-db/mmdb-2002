@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nandanam_2002",
+  "title": "Nandanam",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13112801",
+    "imdb": "tt0357946",
+    "tmdb": 192677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-12-20"
+}

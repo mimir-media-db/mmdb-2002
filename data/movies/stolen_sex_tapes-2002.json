@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stolen_sex_tapes_2002",
+  "title": "Stolen Sex Tapes",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30730692",
+    "imdb": "tt0364028",
+    "tmdb": 464538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

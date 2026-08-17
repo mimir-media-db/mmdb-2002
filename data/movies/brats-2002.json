@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brats_2002",
+  "title": "The Brats",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7546528",
+    "imdb": "tt0314686",
+    "tmdb": 295623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-26",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_slow_century_2002",
+  "title": "Slow Century",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7541967",
+    "imdb": "tt0358631",
+    "tmdb": 38971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-22"
+}

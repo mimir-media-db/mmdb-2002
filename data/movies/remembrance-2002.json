@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_remembrance_2002",
+  "title": "Remembrance",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16061780",
+    "imdb": "tt1227882",
+    "tmdb": 497982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-14"
+}

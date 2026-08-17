@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_pie_2002",
+  "title": "Perfect Pie",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104852735",
+    "imdb": "tt0293899",
+    "tmdb": 253176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

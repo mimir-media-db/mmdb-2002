@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mother_and_son_2002",
+  "title": "Mother and Son",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2290357",
+    "imdb": "tt0119711",
+    "tmdb": 44361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-24",
+  "runtime_minutes": 73
+}

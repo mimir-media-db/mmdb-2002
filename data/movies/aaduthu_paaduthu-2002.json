@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aaduthu_paaduthu_2002",
+  "title": "Aaduthu Paaduthu",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111909363",
+    "imdb": "tt1575500",
+    "tmdb": 423815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

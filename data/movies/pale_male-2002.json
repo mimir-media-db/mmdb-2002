@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pale_male_2002",
+  "title": "Pale Male",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129714715",
+    "imdb": "tt0410416"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 54
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_world_paris_london_berlin_rome_2002",
+  "title": "My world - Paris, London, Berlin, Rome",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61648841"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-12-13",
+  "runtime_minutes": 85
+}

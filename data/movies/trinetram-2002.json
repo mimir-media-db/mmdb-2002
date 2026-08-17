@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trinetram_2002",
+  "title": "Trinetram",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126102664",
+    "imdb": "tt8857488",
+    "tmdb": 1080133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-12-06"
+}

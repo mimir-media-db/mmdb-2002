@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mafia_2002",
+  "title": "Mafia",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12238289",
+    "imdb": "tt0404215",
+    "tmdb": 452160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-24"
+}

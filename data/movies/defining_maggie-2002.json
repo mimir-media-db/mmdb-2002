@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_defining_maggie_2002",
+  "title": "Defining Maggie",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63864199",
+    "imdb": "tt0309504"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rhapsody_in_white_2002",
+  "title": "Rhapsody in White",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12292154",
+    "imdb": "tt0339559",
+    "tmdb": 1129580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-22"
+}

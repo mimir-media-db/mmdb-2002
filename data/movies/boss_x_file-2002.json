@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boss_x_file_2002",
+  "title": "Boss X File",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16182629",
+    "imdb": "tt0330086",
+    "tmdb": 306602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-06"
+}

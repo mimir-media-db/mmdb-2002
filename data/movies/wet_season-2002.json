@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wet_season_2002",
+  "title": "The Wet Season",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7774348",
+    "imdb": "tt0410884",
+    "tmdb": 258579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-08",
+  "runtime_minutes": 5
+}

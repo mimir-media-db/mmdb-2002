@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_be_my_star_2002",
+  "title": "Be My Star",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3854007",
+    "imdb": "tt0288115",
+    "tmdb": 125794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-03",
+  "runtime_minutes": 61
+}

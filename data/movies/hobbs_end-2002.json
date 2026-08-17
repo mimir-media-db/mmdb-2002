@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hobbs_end_2002",
+  "title": "Hobbs End",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5874869",
+    "imdb": "tt0351064",
+    "tmdb": 74189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-14"
+}

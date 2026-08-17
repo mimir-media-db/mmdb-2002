@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_krugerandy_2002",
+  "title": "Krugerandy",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11748439",
+    "imdb": "tt0239098",
+    "tmdb": 568814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-12",
+  "runtime_minutes": 91
+}

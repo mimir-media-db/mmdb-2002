@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tuck_everlasting_2002",
+  "title": "Tuck Everlasting",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q749624",
+    "imdb": "tt0283084",
+    "tmdb": 13768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-11",
+  "runtime_minutes": 88
+}

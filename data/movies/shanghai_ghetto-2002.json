@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shanghai_ghetto_2002",
+  "title": "Shanghai Ghetto",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7488451",
+    "imdb": "tt0318068",
+    "tmdb": 72308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-28"
+}

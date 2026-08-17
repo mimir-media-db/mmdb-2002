@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_private_gladiator_2002",
+  "title": "The Private Gladiator",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58234775",
+    "imdb": "tt0326015",
+    "tmdb": 39612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-01",
+  "runtime_minutes": 120
+}

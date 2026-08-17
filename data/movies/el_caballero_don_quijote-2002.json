@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_caballero_don_quijote_2002",
+  "title": "El caballero Don Quijote",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5824107",
+    "imdb": "tt0292466",
+    "tmdb": 115725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-08",
+  "runtime_minutes": 122
+}

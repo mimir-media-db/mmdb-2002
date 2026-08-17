@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brouk_v_hlave_2002",
+  "title": "Brouk v hlave",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104898550",
+    "imdb": "tt0408596",
+    "tmdb": 410929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 93
+}

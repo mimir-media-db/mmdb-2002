@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_youll_be_back_2002",
+  "title": "You'll Be Back",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16647179",
+    "imdb": "tt0338537",
+    "tmdb": 169319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-04",
+  "runtime_minutes": 102
+}

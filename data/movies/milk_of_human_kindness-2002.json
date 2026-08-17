@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_milk_of_human_kindness_2002",
+  "title": "The Milk of Human Kindness",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3223883",
+    "imdb": "tt0246744",
+    "tmdb": 57945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-07",
+  "runtime_minutes": 94
+}

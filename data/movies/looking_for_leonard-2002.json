@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_looking_for_leonard_2002",
+  "title": "Looking for Leonard",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84363423",
+    "imdb": "tt0193545",
+    "tmdb": 408784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

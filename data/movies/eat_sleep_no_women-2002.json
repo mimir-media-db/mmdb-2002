@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eat_sleep_no_women_2002",
+  "title": "Eat, Sleep, No Women",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79325925",
+    "imdb": "tt0332614",
+    "tmdb": 503944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-05",
+  "runtime_minutes": 76
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_sisters_kids_2_2002",
+  "title": "My sister's kids 2",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12327278",
+    "imdb": "tt0329380",
+    "tmdb": 73665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-11",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_penocchio_3000_2002",
+  "title": "Penocchio 3000",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138161365",
+    "imdb": "tt1687260",
+    "tmdb": 419977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 105
+}

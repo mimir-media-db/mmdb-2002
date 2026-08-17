@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_va_savoir_2002",
+  "title": "Va savoir",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2943857",
+    "imdb": "tt0242994",
+    "tmdb": 55372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-06-27",
+  "runtime_minutes": 154
+}

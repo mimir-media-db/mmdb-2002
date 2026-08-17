@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hell_asylum_2002",
+  "title": "Hell Asylum",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4379170",
+    "imdb": "tt0294852",
+    "tmdb": 27713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-04-11",
+  "runtime_minutes": 72
+}

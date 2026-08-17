@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asterix_obelix_mission_cleopatra_2002",
+  "title": "Asterix & Obelix: Mission Cleopatra",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q737904",
+    "imdb": "tt0250223",
+    "tmdb": 2899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-30",
+  "runtime_minutes": 107
+}

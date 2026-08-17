@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_girl_2002",
+  "title": "The Good Girl",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q668357",
+    "imdb": "tt0279113",
+    "tmdb": 9962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-08-30",
+  "runtime_minutes": 93
+}

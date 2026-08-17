@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_call_me_kade_2002",
+  "title": "Just Call me Kade",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978300",
+    "imdb": "tt0345468",
+    "tmdb": 498351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 26
+}

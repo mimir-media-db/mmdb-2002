@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pretty_big_feet_2002",
+  "title": "Pretty Big Feet",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19961447",
+    "imdb": "tt0361634",
+    "tmdb": 299821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-01",
+  "runtime_minutes": 103
+}

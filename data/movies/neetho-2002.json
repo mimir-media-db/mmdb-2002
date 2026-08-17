@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_neetho_2002",
+  "title": "Neetho",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252314",
+    "imdb": "tt1579985"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-06-27"
+}

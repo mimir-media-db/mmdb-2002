@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sorority_boys_2002",
+  "title": "Sorority Boys",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1171584",
+    "imdb": "tt0279781",
+    "tmdb": 6020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-03-19",
+  "runtime_minutes": 93
+}

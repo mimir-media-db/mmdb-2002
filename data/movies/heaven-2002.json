@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heaven_2002",
+  "title": "Heaven",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q705887",
+    "imdb": "tt0246677",
+    "tmdb": 10575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-06",
+  "runtime_minutes": 97
+}

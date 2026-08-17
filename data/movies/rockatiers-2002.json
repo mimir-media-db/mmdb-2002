@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rockatiers_2002",
+  "title": "Rockatiers",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24451481",
+    "imdb": "tt0379963",
+    "tmdb": 1416690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

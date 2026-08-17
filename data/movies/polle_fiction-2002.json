@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_polle_fiction_2002",
+  "title": "Polle Fiction",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10636269",
+    "imdb": "tt0302935",
+    "tmdb": 77568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-03-08",
+  "runtime_minutes": 90
+}

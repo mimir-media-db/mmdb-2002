@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_greenfingers_2002",
+  "title": "Greenfingers",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1507635",
+    "imdb": "tt0203540",
+    "tmdb": 33379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-14",
+  "runtime_minutes": 91
+}

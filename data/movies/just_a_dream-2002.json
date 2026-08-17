@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_a_dream_2002",
+  "title": "Just a Dream",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111677823",
+    "imdb": "tt0297221",
+    "tmdb": 192468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 96
+}

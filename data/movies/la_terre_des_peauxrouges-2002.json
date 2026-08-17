@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_terre_des_peauxrouges_2002",
+  "title": "La Terre des Peaux-Rouges",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101251385",
+    "imdb": "tt1008726"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

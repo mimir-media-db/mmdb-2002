@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bus_174_2002",
+  "title": "Bus 174",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3283009",
+    "imdb": "tt0340468",
+    "tmdb": 8439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-22",
+  "runtime_minutes": 150
+}

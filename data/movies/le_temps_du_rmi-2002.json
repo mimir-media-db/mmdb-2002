@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_temps_du_rmi_2002",
+  "title": "Le Temps du RMI",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130534930",
+    "imdb": "tt0304807",
+    "tmdb": 1054458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

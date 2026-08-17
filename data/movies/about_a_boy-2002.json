@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_about_a_boy_2002",
+  "title": "About a Boy",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1129227",
+    "imdb": "tt0276751",
+    "tmdb": 245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-04-26",
+  "runtime_minutes": 101
+}

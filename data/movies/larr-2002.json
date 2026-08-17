@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_larr_2002",
+  "title": "L.A.R.R.",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109480616",
+    "imdb": "tt12121266",
+    "tmdb": 537404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

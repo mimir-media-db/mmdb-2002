@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_power_of_the_past_2002",
+  "title": "The Power of the Past",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3822451",
+    "imdb": "tt0329095",
+    "tmdb": 154146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-05",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sons_room_2002",
+  "title": "The Son's Room",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q530812",
+    "imdb": "tt0208990",
+    "tmdb": 11447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-01",
+  "runtime_minutes": 99
+}

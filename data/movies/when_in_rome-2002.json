@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_in_rome_2002",
+  "title": "When in Rome",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2659805",
+    "imdb": "tt0324532",
+    "tmdb": 39227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-26",
+  "runtime_minutes": 94
+}

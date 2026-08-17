@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_the_father_2002",
+  "title": "I'm the Father",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2536011",
+    "imdb": "tt0299206",
+    "tmdb": 99640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-08-25",
+  "runtime_minutes": 102
+}

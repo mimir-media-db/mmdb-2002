@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saving_my_hubby_2002",
+  "title": "Saving My Hubby",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7428292",
+    "imdb": "tt0333526",
+    "tmdb": 88016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-11",
+  "runtime_minutes": 91
+}

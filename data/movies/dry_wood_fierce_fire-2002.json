@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dry_wood_fierce_fire_2002",
+  "title": "Dry Wood Fierce Fire",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22101176",
+    "imdb": "tt0346909",
+    "tmdb": 45415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

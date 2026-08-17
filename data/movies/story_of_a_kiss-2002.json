@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_story_of_a_kiss_2002",
+  "title": "Story of a Kiss",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7620423",
+    "imdb": "tt0335156",
+    "tmdb": 179424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-25",
+  "runtime_minutes": 108
+}

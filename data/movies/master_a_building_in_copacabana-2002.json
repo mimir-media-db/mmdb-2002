@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_master_a_building_in_copacabana_2002",
+  "title": "Master, A Building in Copacabana",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10270242",
+    "imdb": "tt0333388",
+    "tmdb": 60142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-03",
+  "runtime_minutes": 110
+}

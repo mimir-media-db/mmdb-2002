@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pigs_will_fly_2002",
+  "title": "Pigs Will Fly",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60560288",
+    "imdb": "tt0304550",
+    "tmdb": 155046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ellimby_2002",
+  "title": "El-Limby",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12192036",
+    "imdb": "tt0382010",
+    "tmdb": 42315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-07"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_late_un_corazon_2002",
+  "title": "Late un corazón",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111672755",
+    "imdb": "tt0318398",
+    "tmdb": 977813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 72
+}

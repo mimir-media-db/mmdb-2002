@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_film_ist_712_2002",
+  "title": "Film ist. 7-12",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117841713",
+    "imdb": "tt0306811",
+    "tmdb": 288108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-10",
+  "runtime_minutes": 90
+}

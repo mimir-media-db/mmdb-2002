@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hayflower_and_quiltshoe_2002",
+  "title": "Hayflower and Quiltshoe",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4428244",
+    "imdb": "tt0339134",
+    "tmdb": 54763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-18",
+  "runtime_minutes": 75
+}

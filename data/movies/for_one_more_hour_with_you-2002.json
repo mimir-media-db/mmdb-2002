@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_one_more_hour_with_you_2002",
+  "title": "For One More Hour with You",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93891113",
+    "imdb": "tt0329468",
+    "tmdb": 104037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 55
+}

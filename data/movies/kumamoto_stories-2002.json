@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kumamoto_stories_2002",
+  "title": "Kumamoto Stories",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245427",
+    "imdb": "tt0308459",
+    "tmdb": 193538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 60
+}

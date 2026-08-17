@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roger_dodger_2002",
+  "title": "Roger Dodger",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1503896",
+    "imdb": "tt0299117",
+    "tmdb": 13441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-09",
+  "runtime_minutes": 106
+}

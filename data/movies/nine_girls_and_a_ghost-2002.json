@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nine_girls_and_a_ghost_2002",
+  "title": "Nine Girls and a Ghost",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16951349",
+    "imdb": "tt0390305",
+    "tmdb": 333191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-23"
+}

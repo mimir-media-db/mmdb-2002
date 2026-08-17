@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cats_meow_2002",
+  "title": "The Cat's Meow",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q663298",
+    "imdb": "tt0266391",
+    "tmdb": 35080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-20",
+  "runtime_minutes": 114
+}

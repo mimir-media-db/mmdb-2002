@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_big_girl_2002",
+  "title": "Little Big Girl",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1759123",
+    "imdb": "tt0290903",
+    "tmdb": 100198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-06-14",
+  "runtime_minutes": 93
+}

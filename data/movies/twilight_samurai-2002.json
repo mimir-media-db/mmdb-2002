@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twilight_samurai_2002",
+  "title": "The Twilight Samurai",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94033",
+    "imdb": "tt0351817",
+    "tmdb": 12496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-02",
+  "runtime_minutes": 129
+}

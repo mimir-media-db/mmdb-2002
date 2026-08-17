@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_mascot_2002",
+  "title": "The Mascot",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123304471"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

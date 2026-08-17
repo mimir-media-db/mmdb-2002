@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_love_2002_2002",
+  "title": "Love 2002",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114664342",
+    "imdb": "tt5321800"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

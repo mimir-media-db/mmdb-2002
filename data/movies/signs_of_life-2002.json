@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_signs_of_life_2002",
+  "title": "Signs Of Life",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599912",
+    "imdb": "tt0314672"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

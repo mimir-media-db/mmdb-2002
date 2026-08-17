@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_startupcom_2002",
+  "title": "Startup.com",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q540473",
+    "imdb": "tt0256408",
+    "tmdb": 14268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-08-08",
+  "runtime_minutes": 107
+}

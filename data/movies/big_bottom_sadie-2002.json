@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_bottom_sadie_2002",
+  "title": "Big Bottom Sadie",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139384830",
+    "imdb": "tt0321441"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 133
+}

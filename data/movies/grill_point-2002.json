@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grill_point_2002",
+  "title": "Grill Point",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q879404",
+    "imdb": "tt0304126",
+    "tmdb": 316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-12",
+  "runtime_minutes": 111
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mango_yellow_2002",
+  "title": "Mango Yellow",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9609822",
+    "imdb": "tt0333074",
+    "tmdb": 80426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-04",
+  "runtime_minutes": 100
+}

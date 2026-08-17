@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loonies_2002",
+  "title": "Loonies",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1869417",
+    "imdb": "tt0285300",
+    "tmdb": 21803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-10",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enge_enadhu_kavithai_2002",
+  "title": "Enge Enadhu Kavithai",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12916381",
+    "imdb": "tt8948278",
+    "tmdb": 781370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-31"
+}

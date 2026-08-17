@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kings_beard_2002",
+  "title": "The King's Beard",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3206446",
+    "imdb": "tt0338176",
+    "tmdb": 220154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-10",
+  "runtime_minutes": 73
+}

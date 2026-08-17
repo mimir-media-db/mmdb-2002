@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_fat_liar_2002",
+  "title": "Big Fat Liar",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q185776",
+    "imdb": "tt0265298",
+    "tmdb": 11870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-08",
+  "runtime_minutes": 84
+}

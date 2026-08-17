@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_faith_moves_mountains_2002",
+  "title": "When Faith Moves Mountains",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140287928",
+    "imdb": "tt7866316",
+    "tmdb": 591169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 15
+}

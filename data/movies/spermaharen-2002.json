@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spermaharen_2002",
+  "title": "Spermaharen",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140199481",
+    "imdb": "tt0426232",
+    "tmdb": 34525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

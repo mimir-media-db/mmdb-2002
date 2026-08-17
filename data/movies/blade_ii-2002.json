@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blade_ii_2002",
+  "title": "Blade II",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q159638",
+    "imdb": "tt0187738",
+    "tmdb": 36586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-03-12",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lahiri_lahiri_lahirilo_2002",
+  "title": "Lahiri Lahiri Lahirilo",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720516",
+    "imdb": "tt1575603",
+    "tmdb": 1226756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-01"
+}

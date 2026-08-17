@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spartacus_and_kalashnikov_2002",
+  "title": "Spartacus and Kalashnikov",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4430736",
+    "imdb": "tt0334404",
+    "tmdb": 335048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-04-07",
+  "runtime_minutes": 95
+}

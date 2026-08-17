@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rule_of_the_game_2002",
+  "title": "The Rule of the Game",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38804995",
+    "imdb": "tt0312001",
+    "tmdb": 738969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

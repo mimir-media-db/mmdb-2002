@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_knochenwald_2_fleischernte_2002",
+  "title": "Knochenwald 2 – Fleischernte",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92313804",
+    "imdb": "tt1740789",
+    "tmdb": 468064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

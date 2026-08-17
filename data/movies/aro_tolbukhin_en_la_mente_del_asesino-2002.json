@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aro_tolbukhin_en_la_mente_del_asesino_2002",
+  "title": "Aro Tolbukhin. En la mente del asesino",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4795458",
+    "imdb": "tt0291022",
+    "tmdb": 222560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-08",
+  "runtime_minutes": 95
+}

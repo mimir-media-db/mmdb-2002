@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nightfall_2002",
+  "title": "Nightfall",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59309628",
+    "imdb": "tt0124811",
+    "tmdb": 218150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-06-13"
+}

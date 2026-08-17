@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_darwaza_2002",
+  "title": "Darwaza",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42320653",
+    "imdb": "tt0488287",
+    "tmdb": 476720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

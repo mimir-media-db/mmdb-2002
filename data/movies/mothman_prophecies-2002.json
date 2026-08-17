@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mothman_prophecies_2002",
+  "title": "The Mothman Prophecies",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1214896",
+    "imdb": "tt0265349",
+    "tmdb": 2637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-25",
+  "runtime_minutes": 119
+}

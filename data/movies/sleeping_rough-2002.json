@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sleeping_rough_2002",
+  "title": "Sleeping Rough",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2116853",
+    "imdb": "tt0310256",
+    "tmdb": 100250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-04-27",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ich_schenk_dir_einen_seitensprung_2002",
+  "title": "Ich schenk dir einen Seitensprung",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100699493",
+    "imdb": "tt0349606",
+    "tmdb": 317264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 86
+}

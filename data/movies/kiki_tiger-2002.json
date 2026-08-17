@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kiki_tiger_2002",
+  "title": "Kiki & Tiger",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35823037",
+    "imdb": "tt0349682",
+    "tmdb": 503946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

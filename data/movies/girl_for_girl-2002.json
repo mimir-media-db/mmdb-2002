@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_for_girl_2002",
+  "title": "Girl for Girl",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899874",
+    "imdb": "tt0282528",
+    "tmdb": 187511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

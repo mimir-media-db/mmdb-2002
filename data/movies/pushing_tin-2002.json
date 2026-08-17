@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pushing_tin_2002",
+  "title": "Pushing Tin",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1339513",
+    "imdb": "tt0120797",
+    "tmdb": 12596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-03-19",
+  "runtime_minutes": 124
+}

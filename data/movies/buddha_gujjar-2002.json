@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_buddha_gujjar_2002",
+  "title": "Buddha Gujjar",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4984152",
+    "imdb": "tt14216834"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-12-06"
+}

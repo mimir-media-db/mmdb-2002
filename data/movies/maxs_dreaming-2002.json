@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maxs_dreaming_2002",
+  "title": "Max's Dreaming",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600651",
+    "imdb": "tt0301610",
+    "tmdb": 1238990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beckett_on_film_2002",
+  "title": "Beckett on Film",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4878694",
+    "imdb": "tt0421968",
+    "tmdb": 1677646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-08-29"
+}

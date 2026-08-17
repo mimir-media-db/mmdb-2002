@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_badge_2002",
+  "title": "The Badge",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q814483",
+    "imdb": "tt0286493",
+    "tmdb": 2091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-07",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_emergency_act_19_2002",
+  "title": "Emergency Act 19",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5370555",
+    "imdb": "tt0327767",
+    "tmdb": 275913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-12"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nanba_nanba_2002",
+  "title": "Nanba Nanba",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12984861",
+    "imdb": "tt13919932"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-12-27"
+}

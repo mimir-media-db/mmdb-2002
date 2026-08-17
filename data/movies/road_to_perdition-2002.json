@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_road_to_perdition_2002",
+  "title": "Road to Perdition",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q468033",
+    "imdb": "tt0257044",
+    "tmdb": 4147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-12",
+  "runtime_minutes": 117
+}

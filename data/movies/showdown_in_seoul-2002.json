@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_showdown_in_seoul_2002",
+  "title": "Showdown in Seoul",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11315077",
+    "imdb": "tt0307440",
+    "tmdb": 277496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-09",
+  "runtime_minutes": 110
+}

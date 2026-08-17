@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_entfuhrung_nach_hause_2002",
+  "title": "Entführung nach Hause",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128800523",
+    "imdb": "tt0314967",
+    "tmdb": 711376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-04-18",
+  "runtime_minutes": 103
+}

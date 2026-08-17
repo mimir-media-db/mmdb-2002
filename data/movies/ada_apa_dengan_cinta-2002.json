@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ada_apa_dengan_cinta_2002",
+  "title": "Ada Apa dengan Cinta?",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4678227",
+    "imdb": "tt0307920",
+    "tmdb": 39060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-07"
+}

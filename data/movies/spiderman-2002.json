@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spiderman_2002",
+  "title": "Spider-Man",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q484442",
+    "imdb": "tt0145487",
+    "tmdb": 557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-03",
+  "runtime_minutes": 121
+}

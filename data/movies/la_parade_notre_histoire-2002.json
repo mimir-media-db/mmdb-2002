@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_parade_notre_histoire_2002",
+  "title": "La parade (notre histoire)",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978221",
+    "imdb": "tt0362955",
+    "tmdb": 437903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 81
+}

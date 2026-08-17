@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_noche_en_la_terraza_2002",
+  "title": "Noche en la terraza",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109332066",
+    "imdb": "tt0318504",
+    "tmdb": 776923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

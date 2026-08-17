@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_swallow_brought_spring_2002",
+  "title": "One Swallow Brought Spring",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72273",
+    "imdb": "tt0240149",
+    "tmdb": 33302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-08-01",
+  "runtime_minutes": 103
+}

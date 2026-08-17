@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wind_with_the_gone_2002",
+  "title": "Wind with the Gone",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3423159",
+    "imdb": "tt0169364",
+    "tmdb": 56949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-16",
+  "runtime_minutes": 91
+}

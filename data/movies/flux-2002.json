@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flux_2002",
+  "title": "Flux",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120714271",
+    "imdb": "tt0350946",
+    "tmdb": 345128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 8
+}

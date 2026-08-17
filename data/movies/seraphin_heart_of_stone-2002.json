@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seraphin_heart_of_stone_2002",
+  "title": "Séraphin: Heart of Stone",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q478143",
+    "imdb": "tt0221013",
+    "tmdb": 56717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-29",
+  "runtime_minutes": 128
+}

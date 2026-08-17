@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uncle_kurban_visits_beijing_2002",
+  "title": "Uncle Kurban Visits Beijing",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123699180",
+    "imdb": "tt11496638",
+    "tmdb": 795429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-18",
+  "runtime_minutes": 93
+}

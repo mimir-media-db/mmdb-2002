@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gone_nutty_2002",
+  "title": "Gone Nutty",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1011848",
+    "imdb": "tt0342965",
+    "tmdb": 17963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-26",
+  "runtime_minutes": 5
+}

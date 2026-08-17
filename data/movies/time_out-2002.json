@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_time_out_2002",
+  "title": "Time Out",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q576583",
+    "imdb": "tt0279065",
+    "tmdb": 35651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-10",
+  "runtime_minutes": 134
+}

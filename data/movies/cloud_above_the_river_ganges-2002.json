@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cloud_above_the_river_ganges_2002",
+  "title": "Cloud Above the River Ganges",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88215326",
+    "imdb": "tt0270035",
+    "tmdb": 311041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 142
+}

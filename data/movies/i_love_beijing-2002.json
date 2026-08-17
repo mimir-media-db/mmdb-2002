@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_beijing_2002",
+  "title": "I Love Beijing",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3549086",
+    "imdb": "tt0277444",
+    "tmdb": 78385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-06-20"
+}

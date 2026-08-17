@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_catch_that_girl_2002",
+  "title": "Catch that girl",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1319856",
+    "imdb": "tt0296712",
+    "tmdb": 48761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-25",
+  "runtime_minutes": 87
+}

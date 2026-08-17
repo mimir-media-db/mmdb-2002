@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tom_2002",
+  "title": "Tom",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65049194",
+    "imdb": "tt0334521",
+    "tmdb": 148299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-12"
+}

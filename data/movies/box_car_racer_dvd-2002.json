@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_box_car_racer_dvd_2002",
+  "title": "Box Car Racer DVD",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4951499",
+    "tmdb": 62094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-05"
+}

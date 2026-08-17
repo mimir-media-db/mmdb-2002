@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_the_beginning_2002",
+  "title": "Just the Beginning",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106720212",
+    "imdb": "tt0215458",
+    "tmdb": 100073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-12-20",
+  "runtime_minutes": 94
+}

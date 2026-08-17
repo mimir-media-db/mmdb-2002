@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_encontro_2002",
+  "title": "O Encontro",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25443458",
+    "imdb": "tt5298952",
+    "tmdb": 477084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 12
+}

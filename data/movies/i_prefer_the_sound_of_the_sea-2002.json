@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_prefer_the_sound_of_the_sea_2002",
+  "title": "I Prefer the Sound of the Sea",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3910120",
+    "imdb": "tt0199077",
+    "tmdb": 46535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-11",
+  "runtime_minutes": 90
+}

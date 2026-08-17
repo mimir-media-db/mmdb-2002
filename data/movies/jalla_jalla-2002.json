@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jalla_jalla_2002",
+  "title": "Jalla! Jalla!",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q340058",
+    "imdb": "tt0269389",
+    "tmdb": 10978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-03-07",
+  "runtime_minutes": 92
+}

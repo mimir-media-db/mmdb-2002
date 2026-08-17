@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_step_on_it_2002",
+  "title": "Step on It",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57082800",
+    "imdb": "tt0309049",
+    "tmdb": 49910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-24"
+}

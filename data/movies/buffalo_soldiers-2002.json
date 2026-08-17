@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buffalo_soldiers_2002",
+  "title": "Buffalo Soldiers",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q653473",
+    "imdb": "tt0252299",
+    "tmdb": 9104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-31",
+  "runtime_minutes": 98
+}

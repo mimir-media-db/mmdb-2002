@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_lions_trail_2002",
+  "title": "A Lion's Trail",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20000998"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

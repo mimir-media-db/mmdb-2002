@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_western_433_2002",
+  "title": "Western 4.33",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116196288",
+    "tmdb": 487449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

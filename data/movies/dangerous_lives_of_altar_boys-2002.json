@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dangerous_lives_of_altar_boys_2002",
+  "title": "The Dangerous Lives of Altar Boys",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q741378",
+    "imdb": "tt0238924",
+    "tmdb": 16857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-18",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ibiza_dream_2002",
+  "title": "Ibiza Dream",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136261397",
+    "imdb": "tt0292259",
+    "tmdb": 166205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 98
+}

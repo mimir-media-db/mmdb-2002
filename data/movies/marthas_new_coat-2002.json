@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marthas_new_coat_2002",
+  "title": "Martha's New Coat",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600650",
+    "imdb": "tt0387385",
+    "tmdb": 1238981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 52
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_rifles_2002",
+  "title": "Rifles",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138891741"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_six_out_of_six_2002",
+  "title": "Six Out of Six",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58462068",
+    "imdb": "tt0399626",
+    "tmdb": 241115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 97
+}

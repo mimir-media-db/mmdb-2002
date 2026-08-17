@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tt_syndrome_2002",
+  "title": "T.T. Syndrome",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12759852",
+    "imdb": "tt0249180",
+    "tmdb": 242584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-03-21",
+  "runtime_minutes": 102
+}

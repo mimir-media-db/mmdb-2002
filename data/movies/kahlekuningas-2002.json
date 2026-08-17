@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kahlekuningas_2002",
+  "title": "Kahlekuningas",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11868871",
+    "imdb": "tt0331041",
+    "tmdb": 227370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-04",
+  "runtime_minutes": 94
+}

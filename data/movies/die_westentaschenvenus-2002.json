@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_westentaschenvenus_2002",
+  "title": "Die Westentaschenvenus",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118233132",
+    "imdb": "tt0303213",
+    "tmdb": 329274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-04-26",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eu_nao_conhecia_tururu_2002",
+  "title": "Eu Não Conhecia Tururú",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110407701",
+    "imdb": "tt0264590",
+    "tmdb": 264123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-10"
+}

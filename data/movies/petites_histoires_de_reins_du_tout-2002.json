@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_petites_histoires_de_reins_du_tout_2002",
+  "title": "Petites histoires de reins du tout",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118978032",
+    "imdb": "tt0311642"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 16
+}

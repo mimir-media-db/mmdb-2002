@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mother_ghost_2002",
+  "title": "Mother Ghost",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117777864",
+    "imdb": "tt0284320",
+    "tmdb": 100072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 76
+}

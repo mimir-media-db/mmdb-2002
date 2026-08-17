@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_three_below_zero_2002",
+  "title": "Three Below Zero",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59296655",
+    "imdb": "tt0183885",
+    "tmdb": 76469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-06-13"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shanghai_spell_2002",
+  "title": "The Shanghai Spell",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5824859",
+    "imdb": "tt0264571",
+    "tmdb": 97318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-04-12"
+}

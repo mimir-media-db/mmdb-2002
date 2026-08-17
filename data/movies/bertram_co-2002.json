@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bertram_co_2002",
+  "title": "Bertram & Co",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12303309",
+    "imdb": "tt0336029",
+    "tmdb": 21267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-12-25",
+  "runtime_minutes": 80
+}

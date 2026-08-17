@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_out_of_control_gefahr_aus_nachster_nahe_2002",
+  "title": "Out Of Control – Gefahr aus nächster Nähe",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81319944",
+    "imdb": "tt5256424"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 85
+}
