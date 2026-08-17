@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_suze_orman_show",
+  "title": "The Suze Orman Show",
+  "start_year": 2002,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q106509835",
+    "imdb": "tt0396379",
+    "tmdb": 28652
+  },
+  "last_updated": "2026-08-17"
+}

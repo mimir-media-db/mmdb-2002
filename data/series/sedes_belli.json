@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sedes_belli",
+  "title": "Sedes & Belli",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q14326505",
+    "imdb": "tt0287269",
+    "tmdb": 42704
+  },
+  "last_updated": "2026-08-17"
+}

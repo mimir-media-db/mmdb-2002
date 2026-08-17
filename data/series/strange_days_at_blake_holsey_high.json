@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_strange_days_at_blake_holsey_high",
+  "title": "Strange Days at Blake Holsey High",
+  "start_year": 2002,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2719054",
+    "imdb": "tt0337539",
+    "tmdb": 6
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 42
+}

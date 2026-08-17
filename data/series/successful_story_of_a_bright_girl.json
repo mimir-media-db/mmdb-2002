@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_successful_story_of_a_bright_girl",
+  "title": "Successful Story of a Bright Girl",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q6789637",
+    "imdb": "tt0396350",
+    "tmdb": 36368
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

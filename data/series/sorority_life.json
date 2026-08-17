@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sorority_life",
+  "title": "Sorority Life",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q16168023",
+    "imdb": "tt0312207",
+    "tmdb": 10193
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 28
+}

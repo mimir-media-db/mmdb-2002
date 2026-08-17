@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_spetsnaz",
+  "title": "Spetsnaz",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q4431114",
+    "imdb": "tt0465869",
+    "tmdb": 16869
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 7
+}

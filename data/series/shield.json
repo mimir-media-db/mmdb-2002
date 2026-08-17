@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shield",
+  "title": "The Shield",
+  "start_year": 2002,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q265152",
+    "imdb": "tt0286486",
+    "tmdb": 1414
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 88
+}

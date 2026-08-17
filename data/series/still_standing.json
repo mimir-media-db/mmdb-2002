@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_still_standing",
+  "title": "Still Standing",
+  "start_year": 2002,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1260081",
+    "imdb": "tt0320970",
+    "tmdb": 402
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 88
+}

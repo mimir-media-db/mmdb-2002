@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_since_we_met",
+  "title": "Since We Met",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q12586254"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 48
+}

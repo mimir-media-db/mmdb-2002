@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_serious_crimes",
+  "title": "Serious Crimes",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q2206202",
+    "imdb": "tt0302095",
+    "tmdb": 36532
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

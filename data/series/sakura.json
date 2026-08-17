@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sakura",
+  "title": "Sakura",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7403157",
+    "imdb": "tt0315057",
+    "tmdb": 20265
+  },
+  "last_updated": "2026-08-17"
+}

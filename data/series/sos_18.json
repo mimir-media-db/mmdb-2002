@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sos_18",
+  "title": "SOS 18",
+  "start_year": 2002,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q732655",
+    "imdb": "tt0404664",
+    "tmdb": 127109
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 33
+}

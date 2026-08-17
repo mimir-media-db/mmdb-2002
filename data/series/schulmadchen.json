@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_schulmadchen",
+  "title": "Schulmädchen",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q464709",
+    "imdb": "tt0400021",
+    "tmdb": 9162
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}
