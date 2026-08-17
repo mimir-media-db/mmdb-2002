@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_uk_uncovered_full_on",
+  "title": "UK Uncovered : Full On",
+  "start_year": 2002,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7864967"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 70
+}

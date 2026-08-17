@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_une_grenade_avec_ca",
+  "title": "Une grenade avec ça?",
+  "start_year": 2002,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3549535",
+    "imdb": "tt0477544",
+    "tmdb": 11536
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 272
+}

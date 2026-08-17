@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_un_gars_une_fille",
+  "title": "Un gars, une fille",
+  "start_year": 2001,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q26261045",
+    "imdb": "tt0798772",
+    "tmdb": 63344
+  },
+  "last_updated": "2026-08-17"
+}
