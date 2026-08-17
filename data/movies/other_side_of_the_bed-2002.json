@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_other_side_of_the_bed_2002",
+  "title": "The Other Side of the Bed",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2520370",
+    "imdb": "tt0301524",
+    "tmdb": 2722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 114
+}

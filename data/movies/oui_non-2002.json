@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oui_non_2002",
+  "title": "Oui non",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3887413",
+    "imdb": "tt0385142",
+    "tmdb": 435919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 76
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_delfim_2002",
+  "title": "O Delfim",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10338986",
+    "imdb": "tt0175557",
+    "tmdb": 176807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 88
+}

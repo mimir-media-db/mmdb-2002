@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_online_2002",
+  "title": "On_Line",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7091035",
+    "imdb": "tt0302889",
+    "tmdb": 94996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 97
+}

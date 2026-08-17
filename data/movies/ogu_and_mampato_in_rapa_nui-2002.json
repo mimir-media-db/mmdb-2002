@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ogu_and_mampato_in_rapa_nui_2002",
+  "title": "Ogu and Mampato in Rapa Nui",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2398002",
+    "imdb": "tt0342853",
+    "tmdb": 38518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_olgas_chignon_2002",
+  "title": "Olga's Chignon",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3221302",
+    "imdb": "tt0296571",
+    "tmdb": 64189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 96
+}
