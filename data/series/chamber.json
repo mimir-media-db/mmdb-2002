@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_chamber",
+  "title": "The Chamber",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7722025",
+    "imdb": "tt0306296",
+    "tmdb": 10510
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

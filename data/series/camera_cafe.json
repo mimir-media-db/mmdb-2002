@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_camera_cafe",
+  "title": "Caméra Café",
+  "start_year": 2002,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2935699",
+    "imdb": "tt0385384",
+    "tmdb": 88999
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 200
+}

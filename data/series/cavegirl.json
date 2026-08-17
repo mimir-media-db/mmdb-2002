@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cavegirl",
+  "title": "Cavegirl",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5054983",
+    "imdb": "tt0353047",
+    "tmdb": 11811
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 38
+}

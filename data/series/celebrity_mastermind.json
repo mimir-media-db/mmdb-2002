@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrity_mastermind",
+  "title": "Celebrity Mastermind",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5057748",
+    "imdb": "tt13747924",
+    "tmdb": 19893
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 89
+}

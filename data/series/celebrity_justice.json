@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrity_justice",
+  "title": "Celebrity Justice",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5057744",
+    "imdb": "tt0374374",
+    "tmdb": 7566
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 55
+}
