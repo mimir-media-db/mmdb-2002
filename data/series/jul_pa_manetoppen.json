@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jul_pa_manetoppen",
+  "title": "Jul på Månetoppen",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q19376552",
+    "imdb": "tt0437015",
+    "tmdb": 61817
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 24
+}

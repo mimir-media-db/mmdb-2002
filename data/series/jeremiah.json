@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jeremiah",
+  "title": "Jeremiah",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q751059",
+    "imdb": "tt0290966",
+    "tmdb": 184
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 35
+}

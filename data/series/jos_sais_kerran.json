@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_jos_sais_kerran",
+  "title": "Jos sais kerran",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q18679725",
+    "imdb": "tt0344665"
+  },
+  "last_updated": "2026-08-17"
+}

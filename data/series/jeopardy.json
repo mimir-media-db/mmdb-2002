@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jeopardy",
+  "title": "Jeopardy",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3407219",
+    "imdb": "tt0296693",
+    "tmdb": 3507
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 40
+}
