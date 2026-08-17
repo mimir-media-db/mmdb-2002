@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_of_the_damned_2002",
+  "title": "Queen of the Damned",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q202982",
+    "imdb": "tt0238546",
+    "tmdb": 11979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 101
+}

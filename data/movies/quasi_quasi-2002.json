@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quasi_quasi_2002",
+  "title": "Quasi quasi",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3927313",
+    "imdb": "tt0298513",
+    "tmdb": 196840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 75
+}
