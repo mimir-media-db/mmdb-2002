@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_4th_tenor_2002",
+  "title": "The 4th Tenor",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9199819",
+    "imdb": "tt0275170",
+    "tmdb": 61113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-12-03"
+}
