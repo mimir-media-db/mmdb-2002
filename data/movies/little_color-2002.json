@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_color_2002",
+  "title": "A Little Color",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3234547",
+    "imdb": "tt0311641",
+    "tmdb": 5047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

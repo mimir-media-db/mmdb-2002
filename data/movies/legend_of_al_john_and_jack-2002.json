@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_al_john_and_jack_2002",
+  "title": "The Legend of Al, John and Jack",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3822779",
+    "imdb": "tt0345561",
+    "tmdb": 38397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 105
+}

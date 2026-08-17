@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_danse_des_hommes_2002",
+  "title": "La Danse des hommes",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3208139",
+    "imdb": "tt0436237",
+    "tmdb": 1421429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

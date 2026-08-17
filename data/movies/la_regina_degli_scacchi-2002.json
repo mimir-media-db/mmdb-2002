@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_regina_degli_scacchi_2002",
+  "title": "La regina degli scacchi",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3823848",
+    "imdb": "tt0279365",
+    "tmdb": 168889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 122
+}

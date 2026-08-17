@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_snow_2002",
+  "title": "The Last Snow",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11274251",
+    "imdb": "tt0417007",
+    "tmdb": 340273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

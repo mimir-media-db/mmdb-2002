@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_guerre_a_paris_2002",
+  "title": "La guerre à Paris",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3209721",
+    "imdb": "tt0288554",
+    "tmdb": 152799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 85
+}

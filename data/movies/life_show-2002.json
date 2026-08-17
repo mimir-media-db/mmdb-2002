@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_show_2002",
+  "title": "Life Show",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q610494",
+    "imdb": "tt0342697",
+    "tmdb": 216008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 106
+}

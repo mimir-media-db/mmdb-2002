@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_undercover_2002",
+  "title": "Love Undercover",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q855300",
+    "imdb": "tt0367104",
+    "tmdb": 45504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

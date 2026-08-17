@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_troisieme_oeil_2002",
+  "title": "Le troisième oeil",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3227861",
+    "imdb": "tt0328549",
+    "tmdb": 12217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 87
+}

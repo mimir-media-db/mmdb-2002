@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_diane_2002",
+  "title": "Love & Diane",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6690192",
+    "imdb": "tt0329321",
+    "tmdb": 117038
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

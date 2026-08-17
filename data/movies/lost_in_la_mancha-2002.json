@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_in_la_mancha_2002",
+  "title": "Lost in La Mancha",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1757581",
+    "imdb": "tt0308514",
+    "tmdb": 21189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 93
+}

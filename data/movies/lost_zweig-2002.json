@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_zweig_2002",
+  "title": "Lost Zweig",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10319830",
+    "imdb": "tt0300153",
+    "tmdb": 212126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 113
+}

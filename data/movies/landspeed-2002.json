@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_landspeed_2002",
+  "title": "Landspeed",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6485209",
+    "imdb": "tt0277790",
+    "tmdb": 21763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 94
+}

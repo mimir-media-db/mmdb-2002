@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_look_at_me_2002",
+  "title": "Look At Me",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755826",
+    "imdb": "tt7758748",
+    "tmdb": 1045181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 122
+}
