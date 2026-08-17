@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jaani_dushman_ek_anokhi_kahani_2002",
+  "title": "Jaani Dushman: Ek Anokhi Kahani",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6109704",
+    "imdb": "tt0326983",
+    "tmdb": 159436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 170
+}

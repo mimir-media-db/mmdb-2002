@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_julie_walking_home_2002",
+  "title": "Julie Walking Home",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6308571",
+    "imdb": "tt0246719",
+    "tmdb": 64523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 118
+}

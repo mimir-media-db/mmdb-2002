@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jim_brown_allamerican_2002",
+  "title": "Jim Brown: All-American",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3808313",
+    "imdb": "tt0309735",
+    "tmdb": 26429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 140
+}

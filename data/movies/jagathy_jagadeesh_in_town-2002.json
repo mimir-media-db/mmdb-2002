@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jagathy_jagadeesh_in_town_2002",
+  "title": "Jagathy Jagadeesh in Town",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19572267",
+    "imdb": "tt0355594",
+    "tmdb": 387324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
