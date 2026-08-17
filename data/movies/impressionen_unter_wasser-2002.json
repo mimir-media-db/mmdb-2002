@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_impressionen_unter_wasser_2002",
+  "title": "Impressionen unter Wasser",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2714744",
+    "imdb": "tt0316016",
+    "tmdb": 78202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 45
+}

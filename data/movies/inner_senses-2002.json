@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inner_senses_2002",
+  "title": "Inner Senses",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13638153",
+    "imdb": "tt0316023",
+    "tmdb": 78195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_imagining_argentina_2002",
+  "title": "Imagining Argentina",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q610191",
+    "imdb": "tt0314197",
+    "tmdb": 34036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 107
+}

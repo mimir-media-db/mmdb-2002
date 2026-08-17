@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_interstate_60_2002",
+  "title": "Interstate 60",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1542687",
+    "imdb": "tt0165832",
+    "tmdb": 20312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 112
+}

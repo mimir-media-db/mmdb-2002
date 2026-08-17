@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_toten_winkel_2002",
+  "title": "Im toten Winkel",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q180244",
+    "imdb": "tt0311320",
+    "tmdb": 9082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

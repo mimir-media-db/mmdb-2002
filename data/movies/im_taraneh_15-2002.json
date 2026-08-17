@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_taraneh_15_2002",
+  "title": "I'm Taraneh, 15",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10858570",
+    "imdb": "tt0329347",
+    "tmdb": 225951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 110
+}

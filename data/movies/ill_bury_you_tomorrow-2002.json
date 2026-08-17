@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ill_bury_you_tomorrow_2002",
+  "title": "I'll Bury You Tomorrow",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040636",
+    "imdb": "tt0358529",
+    "tmdb": 73519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
