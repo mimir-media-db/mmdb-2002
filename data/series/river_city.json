@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_river_city",
+  "title": "River City",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2155445",
+    "imdb": "tt0338653",
+    "tmdb": 303
+  },
+  "last_updated": "2026-08-17"
+}

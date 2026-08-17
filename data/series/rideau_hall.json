@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rideau_hall",
+  "title": "Rideau Hall",
+  "start_year": 2002,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q16968596",
+    "imdb": "tt0306387",
+    "tmdb": 14905
+  },
+  "last_updated": "2026-08-17"
+}

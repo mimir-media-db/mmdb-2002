@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_reichranicki_solo",
+  "title": "Reich-Ranicki Solo",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2797876",
+    "imdb": "tt0315050"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

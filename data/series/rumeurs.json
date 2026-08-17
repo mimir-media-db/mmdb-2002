@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rumeurs",
+  "title": "Rumeurs",
+  "start_year": 2002,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3453160",
+    "imdb": "tt0390763",
+    "tmdb": 115733
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 142
+}
