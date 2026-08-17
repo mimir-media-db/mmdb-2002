@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dans_le_noir_du_temps_2002",
+  "title": "Dans le noir du temps",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11514468",
+    "imdb": "tt6785180",
+    "tmdb": 323563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 10
+}

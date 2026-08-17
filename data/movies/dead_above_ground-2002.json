@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_above_ground_2002",
+  "title": "Dead Above Ground",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4498845",
+    "imdb": "tt0284045",
+    "tmdb": 43086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

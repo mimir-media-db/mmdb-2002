@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_don_juan_2002",
+  "title": "Don Juan",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10475873",
+    "imdb": "tt9732210"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

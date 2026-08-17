@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dawn_of_a_new_day_the_man_behind_vhs_2002",
+  "title": "Dawn Of A New Day: The Man Behind Vhs",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11658754",
+    "imdb": "tt0329177",
+    "tmdb": 248486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

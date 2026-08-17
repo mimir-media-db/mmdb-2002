@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_django_la_otra_cara_2002",
+  "title": "Django: La otra cara",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5812025",
+    "imdb": "tt0327646",
+    "tmdb": 336876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 96
+}

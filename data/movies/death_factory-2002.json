@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_factory_2002",
+  "title": "Death Factory",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3020709",
+    "imdb": "tt0325228",
+    "tmdb": 27733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 81
+}

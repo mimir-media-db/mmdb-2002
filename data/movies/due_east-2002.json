@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_due_east_2002",
+  "title": "Due East",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4171761",
+    "imdb": "tt0285533",
+    "tmdb": 253523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

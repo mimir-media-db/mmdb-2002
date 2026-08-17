@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_descent_2002",
+  "title": "Dark Descent",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5223197",
+    "imdb": "tt0271451",
+    "tmdb": 101899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
