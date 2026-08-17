@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_desde_gayola",
+  "title": "Desde Gayola",
+  "start_year": 2001,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5263829",
+    "imdb": "tt0386178"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 805
+}

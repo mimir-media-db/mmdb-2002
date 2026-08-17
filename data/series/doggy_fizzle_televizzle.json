@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_doggy_fizzle_televizzle",
+  "title": "Doggy Fizzle Televizzle",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q5288368",
+    "imdb": "tt0369099",
+    "tmdb": 2011
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

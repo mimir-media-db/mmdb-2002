@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_die_rosenheimcops",
+  "title": "Die Rosenheim-Cops",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1215825",
+    "imdb": "tt0305095",
+    "tmdb": 41149
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 23,
+  "total_episodes": 554
+}

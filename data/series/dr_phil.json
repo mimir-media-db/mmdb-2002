@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_phil",
+  "title": "Dr. Phil",
+  "start_year": 2002,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q2741767",
+    "imdb": "tt0329824",
+    "tmdb": 4652
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 21,
+  "total_episodes": 3505
+}

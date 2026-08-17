@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_def_poetry",
+  "title": "Def Poetry",
+  "start_year": 2001,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5251057",
+    "imdb": "tt0329823",
+    "tmdb": 11825
+  },
+  "last_updated": "2026-08-17"
+}

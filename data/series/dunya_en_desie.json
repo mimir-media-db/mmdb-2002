@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dunya_en_desie",
+  "title": "Dunya en Desie",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q13574675",
+    "imdb": "tt0288403",
+    "tmdb": 26611
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 19
+}

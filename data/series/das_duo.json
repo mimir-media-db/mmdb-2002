@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_das_duo",
+  "title": "Das Duo",
+  "start_year": 2002,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q871858",
+    "imdb": "tt0874534",
+    "tmdb": 40980
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

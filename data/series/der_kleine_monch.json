@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_der_kleine_monch",
+  "title": "Der kleine Mönch",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1199265",
+    "imdb": "tt0285657",
+    "tmdb": 41179
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

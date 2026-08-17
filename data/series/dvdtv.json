@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dvdtv",
+  "title": "DVD_TV",
+  "start_year": 2002,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5206365",
+    "imdb": "tt1016270"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 72
+}
