@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_short_films_of_david_lynch_2002",
+  "title": "The Short Films of David Lynch",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3989262",
+    "imdb": "tt0357173",
+    "tmdb": 1580961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

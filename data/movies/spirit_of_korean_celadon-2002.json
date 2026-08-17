@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spirit_of_korean_celadon_2002",
+  "title": "Spirit of Korean Celadon",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7577982",
+    "imdb": "tt2172853",
+    "tmdb": 644734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

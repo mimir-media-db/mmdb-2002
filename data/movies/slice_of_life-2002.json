@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slice_of_life_2002",
+  "title": "Slice of Life",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3414101",
+    "imdb": "tt0285964",
+    "tmdb": 60297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 100
+}

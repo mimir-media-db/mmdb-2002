@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skulls_ii_2002",
+  "title": "The Skulls II",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q838489",
+    "imdb": "tt0278723",
+    "tmdb": 8460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stickup_2002",
+  "title": "The Stickup",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10381825",
+    "imdb": "tt0307507",
+    "tmdb": 36430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 97
+}

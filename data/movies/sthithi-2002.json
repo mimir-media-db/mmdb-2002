@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sthithi_2002",
+  "title": "Sthithi",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7616111",
+    "imdb": "tt11277176",
+    "tmdb": 979351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

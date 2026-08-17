@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slap_shot_2_breaking_the_ice_2002",
+  "title": "Slap Shot 2: Breaking the Ice",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3207089",
+    "imdb": "tt0282171",
+    "tmdb": 23964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 96
+}

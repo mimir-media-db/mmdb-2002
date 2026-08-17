@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spellbound_2002",
+  "title": "Spellbound",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3819745",
+    "imdb": "tt0334405",
+    "tmdb": 16636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 97
+}

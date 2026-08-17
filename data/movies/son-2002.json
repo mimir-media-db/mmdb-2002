@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_son_2002",
+  "title": "The Son",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1196918",
+    "imdb": "tt0291172",
+    "tmdb": 35172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 103
+}

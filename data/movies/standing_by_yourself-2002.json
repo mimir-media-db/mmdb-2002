@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_standing_by_yourself_2002",
+  "title": "Standing by Yourself",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7598592",
+    "imdb": "tt0315634",
+    "tmdb": 292924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saving_private_tootsie_2002",
+  "title": "Saving Private Tootsie",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6582971",
+    "imdb": "tt0365719",
+    "tmdb": 210796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

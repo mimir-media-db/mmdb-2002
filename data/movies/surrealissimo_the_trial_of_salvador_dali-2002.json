@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_surrealissimo_the_trial_of_salvador_dali_2002",
+  "title": "Surrealissimo: The Trial of Salvador Dali",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3488502",
+    "imdb": "tt0339751",
+    "tmdb": 46753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 60
+}

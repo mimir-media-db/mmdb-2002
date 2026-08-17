@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_storno_2002",
+  "title": "Storno",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15048620",
+    "imdb": "tt0308940",
+    "tmdb": 432108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 87
+}

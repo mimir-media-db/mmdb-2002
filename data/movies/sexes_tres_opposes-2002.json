@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sexes_tres_opposes_2002",
+  "title": "Sexes très opposés",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3480908",
+    "imdb": "tt0318806",
+    "tmdb": 60130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

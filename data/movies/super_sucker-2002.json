@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_super_sucker_2002",
+  "title": "Super Sucker",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7642830",
+    "imdb": "tt0293624",
+    "tmdb": 41846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 93
+}

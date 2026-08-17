@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stolen_summer_2002",
+  "title": "Stolen Summer",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5229540",
+    "imdb": "tt0286162",
+    "tmdb": 39541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 91
+}

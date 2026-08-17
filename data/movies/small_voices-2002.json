@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_small_voices_2002",
+  "title": "Small Voices",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16950177",
+    "imdb": "tt0332701",
+    "tmdb": 183950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 109
+}

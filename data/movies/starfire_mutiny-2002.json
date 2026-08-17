@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_starfire_mutiny_2002",
+  "title": "Starfire Mutiny",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16700388",
+    "imdb": "tt0337724",
+    "tmdb": 333168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

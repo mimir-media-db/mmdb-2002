@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suicide_club_2002",
+  "title": "Suicide Club",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1156769",
+    "imdb": "tt0312843",
+    "tmdb": 12720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 99
+}
