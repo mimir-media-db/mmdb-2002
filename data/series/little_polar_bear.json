@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_little_polar_bear",
+  "title": "The Little Polar Bear",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127871329",
+    "imdb": "tt0836291",
+    "tmdb": 63531
+  },
+  "last_updated": "2026-08-17"
+}

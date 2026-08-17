@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_las_vias_del_amor",
+  "title": "Las Vías del Amor",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q471588",
+    "imdb": "tt0337742",
+    "tmdb": 12650
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 220
+}

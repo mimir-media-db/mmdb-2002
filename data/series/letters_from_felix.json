@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_letters_from_felix",
+  "title": "Letters from Felix",
+  "start_year": 2002,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q17521712",
+    "imdb": "tt0465823",
+    "tmdb": 87516
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

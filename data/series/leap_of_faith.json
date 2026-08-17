@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_leap_of_faith",
+  "title": "Leap of Faith",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q6509937",
+    "imdb": "tt0291628",
+    "tmdb": 10116
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

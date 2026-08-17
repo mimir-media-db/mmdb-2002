@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_venganza",
+  "title": "La Venganza",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q464046",
+    "imdb": "tt0344744",
+    "tmdb": 14794
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 127
+}

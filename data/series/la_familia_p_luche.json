@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_familia_p_luche",
+  "title": "La Familia P. Luche",
+  "start_year": 2002,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6466124",
+    "imdb": "tt1244672",
+    "tmdb": 31072
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 63
+}

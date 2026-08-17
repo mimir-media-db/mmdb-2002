@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_la_parodia",
+  "title": "La parodia",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q16909178",
+    "imdb": "tt0382464"
+  },
+  "last_updated": "2026-08-17"
+}
