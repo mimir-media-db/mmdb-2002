@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_up_and_cummers_100_2002",
+  "title": "Up and Cummers 100",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139891876",
+    "imdb": "tt0399828",
+    "tmdb": 1086848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 136
+}

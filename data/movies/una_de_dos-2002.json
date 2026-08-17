@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_de_dos_2002",
+  "title": "Una de dos",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16644172",
+    "imdb": "tt0324365",
+    "tmdb": 348026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-20",
+  "runtime_minutes": 84
+}
