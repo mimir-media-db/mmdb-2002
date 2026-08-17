@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ich_werde_reich_und_glucklich_2002",
+  "title": "Ich werde reich und glücklich",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23016468",
+    "imdb": "tt0362750",
+    "tmdb": 1307335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

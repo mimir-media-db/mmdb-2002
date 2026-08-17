@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_bedroom_2002",
+  "title": "In the Bedroom",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q151945",
+    "imdb": "tt0247425",
+    "tmdb": 1999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-02",
+  "runtime_minutes": 131
+}

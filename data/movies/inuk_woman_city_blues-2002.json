@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inuk_woman_city_blues_2002",
+  "title": "Inuk woman city blues",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20728950",
+    "imdb": "tt0352440",
+    "tmdb": 437524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-04",
+  "runtime_minutes": 35
+}

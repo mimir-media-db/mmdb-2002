@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_emma_2002",
+  "title": "I Am Emma",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3724670",
+    "imdb": "tt0340685",
+    "tmdb": 253061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-15",
+  "runtime_minutes": 87
+}
