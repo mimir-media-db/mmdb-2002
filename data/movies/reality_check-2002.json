@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reality_check_2002",
+  "title": "Reality Check",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2134771",
+    "imdb": "tt0285976",
+    "tmdb": 247280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 88
+}

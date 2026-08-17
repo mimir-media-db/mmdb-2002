@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_romeo_et_juliette_2002",
+  "title": "Roméo et Juliette",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19826310",
+    "imdb": "tt0327118",
+    "tmdb": 625410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

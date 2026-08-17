@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raining_cows_2002",
+  "title": "Raining Cows",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3905490",
+    "imdb": "tt0371883",
+    "tmdb": 64048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_resident_evil_2002",
+  "title": "Resident Evil",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q153484",
+    "imdb": "tt0120804",
+    "tmdb": 1576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 100
+}

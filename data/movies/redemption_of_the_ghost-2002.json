@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_redemption_of_the_ghost_2002",
+  "title": "Redemption of the Ghost",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3422849",
+    "imdb": "tt0219272",
+    "tmdb": 278652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
