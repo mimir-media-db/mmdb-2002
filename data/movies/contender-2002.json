@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_contender_2002",
+  "title": "The Contender",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q598983",
+    "imdb": "tt0208874",
+    "tmdb": 6521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-06-01",
+  "runtime_minutes": 129
+}

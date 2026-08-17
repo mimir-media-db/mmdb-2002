@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_camels_2002",
+  "title": "Camel(s)",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19349302",
+    "imdb": "tt0332260",
+    "tmdb": 118182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-27"
+}

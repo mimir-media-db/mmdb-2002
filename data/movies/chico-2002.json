@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chico_2002",
+  "title": "Chico",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q860584",
+    "imdb": "tt0251636",
+    "tmdb": 223967
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-17",
+  "runtime_minutes": 112
+}

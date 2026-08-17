@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cube_2_hypercube_2002",
+  "title": "Cube 2: Hypercube",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1132912",
+    "imdb": "tt0285492",
+    "tmdb": 437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-04-15",
+  "runtime_minutes": 90
+}

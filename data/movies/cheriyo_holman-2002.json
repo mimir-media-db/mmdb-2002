@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cheriyo_holman_2002",
+  "title": "Cheriyo Holman",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31798775",
+    "imdb": "tt7971508"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_clouds_2002",
+  "title": "Clouds",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30744103",
+    "imdb": "tt0285802",
+    "tmdb": 392029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-21"
+}

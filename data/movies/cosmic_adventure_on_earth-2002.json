@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cosmic_adventure_on_earth_2002",
+  "title": "A Cosmic Adventure on Earth",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9383633",
+    "imdb": "tt0329794",
+    "tmdb": 432423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-06-07",
+  "runtime_minutes": 80
+}

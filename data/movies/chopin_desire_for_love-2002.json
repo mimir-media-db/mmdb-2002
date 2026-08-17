@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chopin_desire_for_love_2002",
+  "title": "Chopin: Desire for Love",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q670904",
+    "imdb": "tt0284406",
+    "tmdb": 69006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-03-01",
+  "runtime_minutes": 134
+}

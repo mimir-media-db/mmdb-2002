@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chuyen_tinh_trong_ngo_hep_2002",
+  "title": "Chuyen tinh trong ngo hep",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117018260",
+    "imdb": "tt13334960",
+    "tmdb": 677296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_clay_dolls_2002",
+  "title": "Clay Dolls",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3400386",
+    "imdb": "tt0340910",
+    "tmdb": 387969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-28"
+}

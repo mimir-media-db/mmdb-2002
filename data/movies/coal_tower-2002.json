@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coal_tower_2002",
+  "title": "Coal Tower",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111795375",
+    "imdb": "tt0305961",
+    "tmdb": 123364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-03-28",
+  "runtime_minutes": 110
+}

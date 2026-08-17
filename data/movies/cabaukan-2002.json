@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cabaukan_2002",
+  "title": "Ca-bau-kan",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5015150",
+    "imdb": "tt0312101",
+    "tmdb": 25948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-07",
+  "runtime_minutes": 120
+}

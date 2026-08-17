@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cravan_vs_cravan_2002",
+  "title": "Cravan vs. Cravan",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5790593",
+    "imdb": "tt0366323",
+    "tmdb": 116689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-11",
+  "runtime_minutes": 90
+}

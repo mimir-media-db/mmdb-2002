@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_city_by_the_sea_2002",
+  "title": "City by the Sea",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q785434",
+    "imdb": "tt0269095",
+    "tmdb": 13536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-06",
+  "runtime_minutes": 104
+}

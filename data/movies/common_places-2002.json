@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_common_places_2002",
+  "title": "Common Places",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5153449",
+    "imdb": "tt0329330",
+    "tmdb": 32546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-04",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_conman_2002_2002",
+  "title": "The Conman 2002",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99964788",
+    "imdb": "tt6449044",
+    "tmdb": 314105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

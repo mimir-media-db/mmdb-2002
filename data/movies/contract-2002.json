@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_contract_2002",
+  "title": "The Contract",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20725804",
+    "imdb": "tt0191911",
+    "tmdb": 73743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
