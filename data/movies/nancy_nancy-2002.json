@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nancy_nancy_2002",
+  "title": "Nancy Nancy",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600654",
+    "imdb": "tt0977227",
+    "tmdb": 507375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_notre_pere_2002",
+  "title": "Notre Père",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109040193",
+    "imdb": "tt0311593"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

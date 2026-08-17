@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_never_get_outta_the_boat_2002",
+  "title": "Never Get Outta the Boat",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124364817",
+    "imdb": "tt0277184",
+    "tmdb": 84688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-07"
+}

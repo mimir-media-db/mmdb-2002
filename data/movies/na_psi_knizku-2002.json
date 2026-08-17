@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_na_psi_knizku_2002",
+  "title": "Na psí knízku",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104893624",
+    "imdb": "tt1515876",
+    "tmdb": 408785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 75
+}

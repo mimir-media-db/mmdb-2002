@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_noro_2002",
+  "title": "Noro",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44869726",
+    "imdb": "tt0311591",
+    "tmdb": 749067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

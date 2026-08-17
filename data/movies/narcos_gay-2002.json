@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_narcos_gay_2002",
+  "title": "Narcos Gay",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123218412",
+    "imdb": "tt29922586",
+    "tmdb": 709499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 91
+}
