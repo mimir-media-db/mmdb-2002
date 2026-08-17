@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_manten",
+  "title": "Manten",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11278716",
+    "imdb": "tt1817472",
+    "tmdb": 37230
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 150
+}

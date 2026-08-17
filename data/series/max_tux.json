@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_max_tux",
+  "title": "Max & Tux",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q3853013",
+    "imdb": "tt0346334"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 38
+}

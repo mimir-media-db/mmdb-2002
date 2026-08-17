@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_miffy_and_friends",
+  "title": "Miffy and Friends",
+  "start_year": 2002,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q21411028",
+    "imdb": "tt1614180"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

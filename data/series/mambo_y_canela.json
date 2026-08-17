@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mambo_y_canela",
+  "title": "Mambo y Canela",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5990873",
+    "imdb": "tt0320062",
+    "tmdb": 17802
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 47
+}

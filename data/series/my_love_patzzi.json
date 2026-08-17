@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_love_patzzi",
+  "title": "My Love Patzzi",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q484976",
+    "imdb": "tt0486955",
+    "tmdb": 3565
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}
