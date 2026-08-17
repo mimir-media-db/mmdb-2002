@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_hibiscus_2002",
+  "title": "Hotel Hibiscus",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105335888",
+    "imdb": "tt0347200",
+    "tmdb": 30425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

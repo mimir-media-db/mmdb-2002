@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_boiled_2002",
+  "title": "Hard Boiled",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q573823",
+    "imdb": "tt0104684",
+    "tmdb": 11782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-03",
+  "runtime_minutes": 123
+}

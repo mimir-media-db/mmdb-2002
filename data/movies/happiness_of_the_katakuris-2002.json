@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happiness_of_the_katakuris_2002",
+  "title": "The Happiness of the Katakuris",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q587394",
+    "imdb": "tt0304262",
+    "tmdb": 16184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-23",
+  "runtime_minutes": 113
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hardball_2002",
+  "title": "Hardball",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1585062",
+    "imdb": "tt0180734",
+    "tmdb": 20857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-09",
+  "runtime_minutes": 106
+}

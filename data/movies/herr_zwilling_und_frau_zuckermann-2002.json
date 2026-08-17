@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_herr_zwilling_und_frau_zuckermann_2002",
+  "title": "Herr Zwilling und Frau Zuckermann",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2520156",
+    "imdb": "tt0202390",
+    "tmdb": 355312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-03-02",
+  "runtime_minutes": 132
+}

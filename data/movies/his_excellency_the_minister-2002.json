@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_his_excellency_the_minister_2002",
+  "title": "His Excellency..... The Minister",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12243704",
+    "imdb": "tt0355715",
+    "tmdb": 406872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-12-05",
+  "runtime_minutes": 100
+}
