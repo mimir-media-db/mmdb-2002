@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_feldtagebuch_allein_unter_mannern_2002",
+  "title": "Feldtagebuch – Allein unter Männern",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1402857",
+    "imdb": "tt0331489",
+    "tmdb": 1464967
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

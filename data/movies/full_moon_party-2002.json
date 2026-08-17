@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_full_moon_party_2002",
+  "title": "Full Moon Party",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2384281",
+    "imdb": "tt0301992",
+    "tmdb": 42972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 100
+}

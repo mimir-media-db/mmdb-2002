@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fashionistas_2002",
+  "title": "Fashionistas",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2411281",
+    "imdb": "tt0341350",
+    "tmdb": 8694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

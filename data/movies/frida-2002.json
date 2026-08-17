@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frida_2002",
+  "title": "Frida",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q35738",
+    "imdb": "tt0120679",
+    "tmdb": 1360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 123
+}

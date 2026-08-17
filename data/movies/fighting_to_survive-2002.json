@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fighting_to_survive_2002",
+  "title": "Fighting to Survive",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3071649",
+    "imdb": "tt0440952",
+    "tmdb": 452450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

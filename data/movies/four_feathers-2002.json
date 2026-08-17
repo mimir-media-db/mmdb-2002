@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_four_feathers_2002",
+  "title": "The Four Feathers",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q391540",
+    "imdb": "tt0240510",
+    "tmdb": 9093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 125
+}
