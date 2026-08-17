@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_peu_de_fievre_2002",
+  "title": "Un peu de fièvre",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548921",
+    "imdb": "tt0484074",
+    "tmdb": 122373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

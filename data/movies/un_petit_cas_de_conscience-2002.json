@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_petit_cas_de_conscience_2002",
+  "title": "Un petit cas de conscience",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548906",
+    "imdb": "tt0341069",
+    "tmdb": 476388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

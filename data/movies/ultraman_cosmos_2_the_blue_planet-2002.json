@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ultraman_cosmos_2_the_blue_planet_2002",
+  "title": "Ultraman Cosmos 2: The Blue Planet",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548083",
+    "imdb": "tt1260515",
+    "tmdb": 200770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
