@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_5_card_stud_2002",
+  "title": "5 Card Stud",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4641105",
+    "imdb": "tt0324957",
+    "tmdb": 416396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
