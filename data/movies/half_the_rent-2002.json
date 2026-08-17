@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_half_the_rent_2002",
+  "title": "Half the Rent",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1145688",
+    "imdb": "tt0338087",
+    "tmdb": 59278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

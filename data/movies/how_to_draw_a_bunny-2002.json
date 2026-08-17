@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_draw_a_bunny_2002",
+  "title": "How to Draw a Bunny",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5918579",
+    "imdb": "tt0303348",
+    "tmdb": 66660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

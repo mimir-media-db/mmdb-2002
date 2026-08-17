@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heartlands_2002",
+  "title": "Heartlands",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5692899",
+    "imdb": "tt0295303",
+    "tmdb": 54794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 91
+}

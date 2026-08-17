@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hacks_2002",
+  "title": "Hacks",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5637389",
+    "imdb": "tt0291971",
+    "tmdb": 57202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

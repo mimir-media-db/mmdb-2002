@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hearts_minds_2002",
+  "title": "Hearts & Minds",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1592460",
+    "imdb": "tt0349538",
+    "tmdb": 600509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 76
+}

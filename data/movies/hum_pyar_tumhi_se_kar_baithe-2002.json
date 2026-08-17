@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hum_pyar_tumhi_se_kar_baithe_2002",
+  "title": "Hum Pyar Tumhi Se Kar Baithe",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5936577",
+    "imdb": "tt0396057",
+    "tmdb": 685237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

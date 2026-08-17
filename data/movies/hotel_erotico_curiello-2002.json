@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_erotico_curiello_2002",
+  "title": "Hotel Erótico Curiello",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3657234",
+    "imdb": "tt0413627",
+    "tmdb": 420147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
