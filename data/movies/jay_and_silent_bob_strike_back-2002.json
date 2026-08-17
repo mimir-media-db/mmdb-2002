@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jay_and_silent_bob_strike_back_2002",
+  "title": "Jay and Silent Bob Strike Back",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q832190",
+    "imdb": "tt0261392",
+    "tmdb": 2294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-04-18",
+  "runtime_minutes": 104
+}
