@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bloch",
+  "title": "Bloch",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q884595",
+    "imdb": "tt0889263",
+    "tmdb": 40699
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

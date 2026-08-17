@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bo_selecta",
+  "title": "Bo' Selecta!",
+  "start_year": 2002,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2907476",
+    "imdb": "tt0374367",
+    "tmdb": 608
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 45
+}

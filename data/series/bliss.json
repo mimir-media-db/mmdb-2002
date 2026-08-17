@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bliss",
+  "title": "Bliss",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q4926835",
+    "imdb": "tt0302076",
+    "tmdb": 6157
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_born_and_bred",
+  "title": "Born and Bred",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3642662",
+    "imdb": "tt0314983",
+    "tmdb": 12733
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 36
+}

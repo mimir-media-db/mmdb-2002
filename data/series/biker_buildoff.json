@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_biker_buildoff",
+  "title": "Biker Build-Off",
+  "start_year": 2002,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2371641",
+    "imdb": "tt0413542",
+    "tmdb": 3920
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 33
+}

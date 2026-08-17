@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brandy_special_delivery",
+  "title": "Brandy: Special Delivery",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q4957220",
+    "imdb": "tt0331381",
+    "tmdb": 32397
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}
