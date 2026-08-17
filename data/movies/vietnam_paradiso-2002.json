@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vietnam_paradiso_2002",
+  "title": "Vietnam Paradiso",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18413743",
+    "imdb": "tt3184642",
+    "tmdb": 222028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

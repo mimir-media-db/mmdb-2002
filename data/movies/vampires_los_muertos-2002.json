@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vampires_los_muertos_2002",
+  "title": "Vampires: Los Muertos",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1699556",
+    "imdb": "tt0272147",
+    "tmdb": 10605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 103
+}

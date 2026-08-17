@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_virumbugiren_2002",
+  "title": "Virumbugiren",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3424226",
+    "imdb": "tt0356178",
+    "tmdb": 269721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
