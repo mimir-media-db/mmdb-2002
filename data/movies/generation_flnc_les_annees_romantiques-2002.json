@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_generation_flnc_les_annees_romantiques_2002",
+  "title": "Génération FLNC : les années romantiques",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123023853",
+    "imdb": "tt27879784"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-03-17",
+  "runtime_minutes": 75
+}

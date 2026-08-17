@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_galindez_2002",
+  "title": "Galíndez",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123785213",
+    "imdb": "tt0420642",
+    "tmdb": 1019211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 85
+}

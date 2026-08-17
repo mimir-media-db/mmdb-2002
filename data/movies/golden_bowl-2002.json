@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_bowl_2002",
+  "title": "The Golden Bowl",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1774070",
+    "imdb": "tt0200669",
+    "tmdb": 29946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-04-25",
+  "runtime_minutes": 125
+}
