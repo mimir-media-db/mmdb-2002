@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_business_of_fancydancing_2002",
+  "title": "The Business of Fancydancing",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7720753",
+    "imdb": "tt0303313",
+    "tmdb": 40920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

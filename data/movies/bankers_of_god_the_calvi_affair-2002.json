@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bankers_of_god_the_calvi_affair_2002",
+  "title": "The Bankers of God: The Calvi Affair",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1058244",
+    "imdb": "tt0212797",
+    "tmdb": 56789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 125
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beeper_2002",
+  "title": "Beeper",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2893689",
+    "imdb": "tt0252266",
+    "tmdb": 46865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_feast_2_all_u_can_eat_2002",
+  "title": "Blood Feast 2: All U Can Eat",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2334601",
+    "imdb": "tt0282386",
+    "tmdb": 28168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bird_who_stops_in_the_air_2002",
+  "title": "The Bird Who Stops in the Air",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12600607",
+    "imdb": "tt0210265",
+    "tmdb": 415921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

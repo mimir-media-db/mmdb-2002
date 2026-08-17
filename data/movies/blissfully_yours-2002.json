@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blissfully_yours_2002",
+  "title": "Blissfully Yours",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1987132",
+    "imdb": "tt0317171",
+    "tmdb": 47046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 125
+}

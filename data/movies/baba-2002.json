@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baba_2002",
+  "title": "Baba",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4837250",
+    "imdb": "tt0326746",
+    "tmdb": 66243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_border_line_2002",
+  "title": "Border Line",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4944588",
+    "imdb": "tt0337891",
+    "tmdb": 54410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 118
+}

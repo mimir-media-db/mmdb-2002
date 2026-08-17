@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bay_of_love_and_sorrows_2002",
+  "title": "The Bay of Love and Sorrows",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7715937",
+    "imdb": "tt0317124",
+    "tmdb": 161912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

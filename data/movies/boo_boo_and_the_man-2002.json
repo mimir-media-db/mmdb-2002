@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boo_boo_and_the_man_2002",
+  "title": "Boo Boo and the Man",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4942733",
+    "imdb": "tt8469836",
+    "tmdb": 689537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

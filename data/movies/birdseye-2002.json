@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_birdseye_2002",
+  "title": "Birdseye",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4916136",
+    "imdb": "tt0257355",
+    "tmdb": 464009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

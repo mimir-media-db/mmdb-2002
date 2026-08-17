@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bet_on_my_disco_2002",
+  "title": "Bet on My Disco",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12624665",
+    "imdb": "tt0317614",
+    "tmdb": 201317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

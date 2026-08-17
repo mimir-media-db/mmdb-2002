@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_butterfly_in_grey_2002",
+  "title": "Butterfly in Grey",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5002973",
+    "imdb": "tt0403913",
+    "tmdb": 232391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brother_of_mine_2002",
+  "title": "Brother of Mine",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17154090",
+    "imdb": "tt0310803",
+    "tmdb": 207141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 10
+}
