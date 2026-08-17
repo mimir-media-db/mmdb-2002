@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_how_should_i_be",
+  "title": "How Should I Be",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12615441",
+    "tmdb": 29451
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}
