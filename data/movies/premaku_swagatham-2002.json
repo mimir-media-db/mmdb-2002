@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_premaku_swagatham_2002",
+  "title": "Premaku Swagatham",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7240208",
+    "imdb": "tt4899364",
+    "tmdb": 566382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

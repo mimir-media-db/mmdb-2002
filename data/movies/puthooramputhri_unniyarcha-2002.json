@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_puthooramputhri_unniyarcha_2002",
+  "title": "Puthooramputhri Unniyarcha",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7262248",
+    "imdb": "tt0357063",
+    "tmdb": 66509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

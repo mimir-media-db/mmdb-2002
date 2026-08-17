@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_personal_velocity_three_portraits_2002",
+  "title": "Personal Velocity: Three Portraits",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3375713",
+    "imdb": "tt0295238",
+    "tmdb": 32625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 86
+}

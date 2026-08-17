@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_panchathantiram_2002",
+  "title": "Panchathantiram",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7130289",
+    "imdb": "tt0385928",
+    "tmdb": 49033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

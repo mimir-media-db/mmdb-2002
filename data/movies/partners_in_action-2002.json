@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_partners_in_action_2002",
+  "title": "Partners in Action",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126888",
+    "imdb": "tt0320242",
+    "tmdb": 297840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

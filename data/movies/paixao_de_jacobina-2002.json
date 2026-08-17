@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paixao_de_jacobina_2002",
+  "title": "A Paixão de Jacobina",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17168938",
+    "imdb": "tt0293484",
+    "tmdb": 233820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 103
+}

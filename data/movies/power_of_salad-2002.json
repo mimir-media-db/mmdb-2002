@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_power_of_salad_2002",
+  "title": "The Power of Salad",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7757965",
+    "imdb": "tt0326598",
+    "tmdb": 72715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
