@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_oi_stavloi_tis_erietas_zaimi",
+  "title": "Oi stavloi tis Erietas Zaimi",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q12882135",
+    "imdb": "tt0339969",
+    "tmdb": 53447
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 36
+}

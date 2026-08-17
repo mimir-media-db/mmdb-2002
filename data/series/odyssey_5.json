@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_odyssey_5",
+  "title": "Odyssey 5",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q2014846",
+    "imdb": "tt0318236",
+    "tmdb": 1898
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

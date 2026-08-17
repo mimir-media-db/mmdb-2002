@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_o2be",
+  "title": "O2Be",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7072244",
+    "imdb": "tt0353087",
+    "tmdb": 21587
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

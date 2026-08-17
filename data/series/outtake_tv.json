@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_outtake_tv",
+  "title": "Outtake TV",
+  "start_year": 2002,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7113066",
+    "imdb": "tt0350440",
+    "tmdb": 18172
+  },
+  "last_updated": "2026-08-17"
+}

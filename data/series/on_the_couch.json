@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_on_the_couch",
+  "title": "On the Couch",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7091324",
+    "imdb": "tt1288438",
+    "tmdb": 6427
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13
+}
