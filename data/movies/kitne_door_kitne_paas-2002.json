@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kitne_door_kitne_paas_2002",
+  "title": "Kitne Door Kitne Paas",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6418257",
+    "imdb": "tt0313395",
+    "tmdb": 210614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

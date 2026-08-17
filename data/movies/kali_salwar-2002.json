@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kali_salwar_2002",
+  "title": "Kali Salwar",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6352444",
+    "imdb": "tt0410149",
+    "tmdb": 257620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

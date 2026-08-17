@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kiss_the_bride_2002",
+  "title": "Kiss the Bride",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3052100",
+    "imdb": "tt0296711",
+    "tmdb": 82432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 89
+}

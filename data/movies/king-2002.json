@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_2002",
+  "title": "The King",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3226512",
+    "imdb": "tt0357282",
+    "tmdb": 237506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 130
+}

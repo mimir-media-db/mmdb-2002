@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kamchatka_2002",
+  "title": "Kamchatka",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3280435",
+    "imdb": "tt0320042",
+    "tmdb": 28710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 103
+}

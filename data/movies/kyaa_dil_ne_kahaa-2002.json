@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kyaa_dil_ne_kahaa_2002",
+  "title": "Kyaa Dil Ne Kahaa",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6450621",
+    "imdb": "tt0327005",
+    "tmdb": 499110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

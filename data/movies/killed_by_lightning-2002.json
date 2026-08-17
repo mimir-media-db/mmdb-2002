@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killed_by_lightning_2002",
+  "title": "Killed by Lightning",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4468669",
+    "imdb": "tt0309012",
+    "tmdb": 342686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 65
+}

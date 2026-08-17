@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kg_for_better_or_for_worse_2002",
+  "title": "K-G for Better or for Worse",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18243194",
+    "imdb": "tt0301496",
+    "tmdb": 550243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
