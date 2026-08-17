@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weihnachtsmann_gesucht_2002",
+  "title": "Weihnachtsmann gesucht",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47091912",
+    "imdb": "tt0304929",
+    "tmdb": 239134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 88
+}

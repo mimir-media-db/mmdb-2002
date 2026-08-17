@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wadans_wine_bottle_2002",
+  "title": "Wadans Wine Bottle",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15923454",
+    "imdb": "tt4256408",
+    "tmdb": 1319541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-04-21"
+}

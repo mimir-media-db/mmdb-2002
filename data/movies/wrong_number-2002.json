@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wrong_number_2002",
+  "title": "Wrong Number",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52768636",
+    "imdb": "tt1407316"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

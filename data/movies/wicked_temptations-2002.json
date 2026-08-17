@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wicked_temptations_2002",
+  "title": "Wicked Temptations",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56303626",
+    "imdb": "tt0338557",
+    "tmdb": 195978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
