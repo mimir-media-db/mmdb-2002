@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_queenas_2002",
+  "title": "Queenas",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729399",
+    "imdb": "tt0274747"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-13",
+  "runtime_minutes": 50
+}
