@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zhou_yus_train_2002",
+  "title": "Zhou Yu's Train",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3267894",
+    "imdb": "tt0354243",
+    "tmdb": 61477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
