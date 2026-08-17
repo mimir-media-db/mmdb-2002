@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_art_is_kool",
+  "title": "Art Is Kool",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12961721",
+    "imdb": "tt0482852"
+  },
+  "last_updated": "2026-08-17"
+}

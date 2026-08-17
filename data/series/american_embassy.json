@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_american_embassy",
+  "title": "The American Embassy",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7713467",
+    "imdb": "tt0284085",
+    "tmdb": 9997
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

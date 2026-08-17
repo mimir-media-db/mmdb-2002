@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_afp_american_fighter_pilot",
+  "title": "AFP: American Fighter Pilot",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q4651586",
+    "imdb": "tt0314972",
+    "tmdb": 30177
+  },
+  "last_updated": "2026-08-17"
+}

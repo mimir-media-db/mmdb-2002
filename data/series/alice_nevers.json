@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alice_nevers",
+  "title": "Alice Nevers",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3228464",
+    "imdb": "tt0169458",
+    "tmdb": 49953
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 17,
+  "total_episodes": 93
+}

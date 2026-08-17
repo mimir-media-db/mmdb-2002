@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_album_of_life",
+  "title": "Album of Life",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11267297"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 219
+}

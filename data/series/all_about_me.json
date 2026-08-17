@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_about_me",
+  "title": "All About Me",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q4728513",
+    "imdb": "tt0306273",
+    "tmdb": 2049
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ask_this_old_house",
+  "title": "Ask This Old House",
+  "start_year": 2002,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q98098241",
+    "imdb": "tt0369081",
+    "tmdb": 23545
+  },
+  "last_updated": "2026-08-17"
+}

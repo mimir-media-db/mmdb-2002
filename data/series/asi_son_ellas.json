@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_asi_son_ellas",
+  "title": "Así son ellas",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q1249218",
+    "imdb": "tt0341688",
+    "tmdb": 136227
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 90
+}

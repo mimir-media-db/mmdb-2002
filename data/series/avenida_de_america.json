@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_avenida_de_america",
+  "title": "Avenida de América",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12383964",
+    "imdb": "tt0344619"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_action_justice",
+  "title": "Action Justice",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23001638",
+    "imdb": "tt0335601",
+    "tmdb": 91840
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

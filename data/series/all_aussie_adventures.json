@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_aussie_adventures",
+  "title": "All Aussie Adventures",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q4728617",
+    "imdb": "tt0290111",
+    "tmdb": 2717
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 21
+}

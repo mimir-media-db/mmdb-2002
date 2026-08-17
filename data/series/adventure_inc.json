@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_adventure_inc",
+  "title": "Adventure Inc.",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q379951",
+    "imdb": "tt0324681",
+    "tmdb": 15454
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

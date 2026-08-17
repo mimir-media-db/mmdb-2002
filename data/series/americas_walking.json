@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_americas_walking",
+  "title": "America's Walking",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q123528450",
+    "imdb": "tt0495555"
+  },
+  "last_updated": "2026-08-17"
+}
