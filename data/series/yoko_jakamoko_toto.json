@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yoko_jakamoko_toto",
+  "title": "Yoko! Jakamoko! Toto!",
+  "start_year": 2001,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q8054570",
+    "imdb": "tt0448314",
+    "tmdb": 12226
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 28
+}
