@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_not_for_or_against_quite_the_contrary_2002",
+  "title": "Not for, or Against (Quite the Contrary)",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1997399",
+    "imdb": "tt0298082",
+    "tmdb": 11958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 111
+}

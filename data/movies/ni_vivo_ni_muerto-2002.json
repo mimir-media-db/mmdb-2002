@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ni_vivo_ni_muerto_2002",
+  "title": "Ni vivo, ni muerto",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6041811",
+    "imdb": "tt0288651",
+    "tmdb": 913626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 95
+}

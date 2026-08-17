@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_novo_2002",
+  "title": "Novo",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3345502",
+    "imdb": "tt0291392",
+    "tmdb": 60015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 98
+}

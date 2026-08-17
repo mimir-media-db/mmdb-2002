@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nine_lives_2002",
+  "title": "Nine Lives",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q623607",
+    "imdb": "tt0318497",
+    "tmdb": 32304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_north_station_2002",
+  "title": "North Station",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3497348",
+    "imdb": "tt0295633",
+    "tmdb": 428419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 111
+}
