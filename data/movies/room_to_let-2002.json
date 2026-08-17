@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_room_to_let_2002",
+  "title": "Room To Let",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20451438",
+    "imdb": "tt0342945",
+    "tmdb": 440148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

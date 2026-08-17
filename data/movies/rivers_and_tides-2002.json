@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rivers_and_tides_2002",
+  "title": "Rivers and Tides",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7338317",
+    "imdb": "tt0307385",
+    "tmdb": 30140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-03-07",
+  "runtime_minutes": 90
+}

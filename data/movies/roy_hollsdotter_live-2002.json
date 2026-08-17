@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_roy_hollsdotter_live_2002",
+  "title": "Roy Hollsdotter Live",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123288192",
+    "imdb": "tt0330837",
+    "tmdb": 378832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_run_2_u_2002",
+  "title": "Run 2 U",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739079",
+    "imdb": "tt0355972",
+    "tmdb": 168030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

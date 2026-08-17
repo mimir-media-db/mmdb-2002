@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rose_technique_2002",
+  "title": "The Rose Technique",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7761546",
+    "imdb": "tt0283574",
+    "tmdb": 258560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-03-01"
+}

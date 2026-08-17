@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raus_ins_leben_2002",
+  "title": "Raus ins Leben",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q37619944",
+    "imdb": "tt0378650",
+    "tmdb": 292275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

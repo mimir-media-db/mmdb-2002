@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_radical_harmonies_2002",
+  "title": "Radical Harmonies",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738509",
+    "imdb": "tt0331611",
+    "tmdb": 280911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 88
+}

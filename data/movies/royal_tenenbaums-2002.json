@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_royal_tenenbaums_2002",
+  "title": "The Royal Tenenbaums",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q935105",
+    "imdb": "tt0265666",
+    "tmdb": 9428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-03-14",
+  "runtime_minutes": 108
+}

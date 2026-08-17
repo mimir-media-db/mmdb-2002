@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_romances_de_terre_et_deau_2002",
+  "title": "Romances de terre et d'eau",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3441010",
+    "imdb": "tt0329551",
+    "tmdb": 963902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-20"
+}

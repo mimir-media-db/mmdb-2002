@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reno_rebel_without_a_pause_2002",
+  "title": "Reno: Rebel without a Pause",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55762054",
+    "imdb": "tt0334231",
+    "tmdb": 292899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raising_of_the_kursk_2002",
+  "title": "The Raising of the Kursk",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q94589726",
+    "imdb": "tt0378637",
+    "tmdb": 705914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
