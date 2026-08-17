@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_explosion_ubahnticket_in_den_tod_2002",
+  "title": "Die Explosion - U-Bahn-Ticket in den Tod",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43043944",
+    "imdb": "tt0311101",
+    "tmdb": 509704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 100
+}

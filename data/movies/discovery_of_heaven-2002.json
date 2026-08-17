@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_discovery_of_heaven_2002",
+  "title": "The Discovery of Heaven",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3208430",
+    "imdb": "tt0251052",
+    "tmdb": 1373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-12-19",
+  "runtime_minutes": 150
+}

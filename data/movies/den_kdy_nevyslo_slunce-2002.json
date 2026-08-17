@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_den_kdy_nevyslo_slunce_2002",
+  "title": "Den, kdy nevyslo slunce",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104897465",
+    "imdb": "tt0321978",
+    "tmdb": 311120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_drei_stern_rot_2002",
+  "title": "Drei Stern Rot",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106717986"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-23"
+}

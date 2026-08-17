@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_der_brief_des_kosmonauten_2002",
+  "title": "Der Brief des Kosmonauten",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45279232",
+    "imdb": "tt0290483",
+    "tmdb": 207970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-08-22"
+}

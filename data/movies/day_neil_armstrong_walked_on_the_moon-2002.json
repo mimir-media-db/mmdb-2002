@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_neil_armstrong_walked_on_the_moon_2002",
+  "title": "The Day Neil Armstrong Walked On The Moon",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600422",
+    "imdb": "tt0269135",
+    "tmdb": 703828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 87
+}

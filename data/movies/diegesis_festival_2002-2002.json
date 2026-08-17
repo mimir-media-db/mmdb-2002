@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_diegesis_festival_2002_2002",
+  "title": "Diegesis Festival 2002",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123303525"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
