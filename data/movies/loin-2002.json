@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loin_2002",
+  "title": "Loin",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1988359",
+    "imdb": "tt0258242",
+    "tmdb": 38304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-12",
+  "runtime_minutes": 120
+}

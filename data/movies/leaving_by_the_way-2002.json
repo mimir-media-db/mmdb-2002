@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_leaving_by_the_way_2002",
+  "title": "Leaving by the Way",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13980021",
+    "imdb": "tt0325946",
+    "tmdb": 570720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-06"
+}

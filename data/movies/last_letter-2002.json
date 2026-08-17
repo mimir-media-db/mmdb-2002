@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_letter_2002",
+  "title": "The Last Letter",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112030122",
+    "imdb": "tt0317341",
+    "tmdb": 125946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 61
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_senegal_2002",
+  "title": "Little Senegal",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q323592",
+    "imdb": "tt0268424",
+    "tmdb": 78123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-04",
+  "runtime_minutes": 97
+}

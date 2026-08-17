@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_fils_de_marie_2002",
+  "title": "Les fils de Marie",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48749227",
+    "imdb": "tt0322279",
+    "tmdb": 259492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 100
+}

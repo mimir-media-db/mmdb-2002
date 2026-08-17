@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_train_2002",
+  "title": "The Last Train",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5352534",
+    "imdb": "tt0303267",
+    "tmdb": 63265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-22",
+  "runtime_minutes": 90
+}

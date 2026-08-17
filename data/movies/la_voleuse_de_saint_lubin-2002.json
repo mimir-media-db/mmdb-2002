@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_voleuse_de_saint_lubin_2002",
+  "title": "La Voleuse de Saint Lubin",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16652885",
+    "imdb": "tt0210377",
+    "tmdb": 425199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-23"
+}

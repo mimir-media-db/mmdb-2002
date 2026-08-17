@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_defi_2002",
+  "title": "Le Défi",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119973011",
+    "imdb": "tt0314012",
+    "tmdb": 163000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

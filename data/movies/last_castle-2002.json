@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_castle_2002",
+  "title": "The Last Castle",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1218847",
+    "imdb": "tt0272020",
+    "tmdb": 2100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-04",
+  "runtime_minutes": 126
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lonely_affair_of_the_heart_2002",
+  "title": "The Lonely Affair of the Heart",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11276349",
+    "imdb": "tt0335265",
+    "tmdb": 579165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-23"
+}

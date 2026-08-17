@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_low_heights_2002",
+  "title": "The Low Heights",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3206468",
+    "imdb": "tt0309565",
+    "tmdb": 44067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-24",
+  "runtime_minutes": 115
+}

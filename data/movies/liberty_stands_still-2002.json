@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liberty_stands_still_2002",
+  "title": "Liberty Stands Still",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q691550",
+    "imdb": "tt0280870",
+    "tmdb": 2165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-18",
+  "runtime_minutes": 92
+}

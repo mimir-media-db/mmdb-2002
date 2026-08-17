@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leo_claire_2002",
+  "title": "Leo & Claire",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1417901",
+    "imdb": "tt0192237",
+    "tmdb": 266167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-04-18",
+  "runtime_minutes": 103
+}

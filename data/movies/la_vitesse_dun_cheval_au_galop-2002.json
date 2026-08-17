@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vitesse_dun_cheval_au_galop_2002",
+  "title": "À la vitesse d'un cheval au galop",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108920940",
+    "imdb": "tt0346182",
+    "tmdb": 1492922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 45
+}
