@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_esquece_tudo_o_que_te_disse_2002",
+  "title": "Esquece Tudo O Que Te Disse",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10275307",
+    "imdb": "tt0340099",
+    "tmdb": 133518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_every_stewardess_goes_to_heaven_2002",
+  "title": "Every Stewardess Goes to Heaven",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5222196",
+    "imdb": "tt0293654",
+    "tmdb": 127257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 93
+}

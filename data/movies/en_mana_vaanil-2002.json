@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_en_mana_vaanil_2002",
+  "title": "En Mana Vaanil",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5374991",
+    "imdb": "tt1236192",
+    "tmdb": 1532132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

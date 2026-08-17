@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_emigrants_2002",
+  "title": "Emigrants",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12279803",
+    "imdb": "tt0342329",
+    "tmdb": 284725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 85
+}
