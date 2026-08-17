@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_099_central",
+  "title": "099 Central",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q1973452",
+    "imdb": "tt0328730"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 146
+}
