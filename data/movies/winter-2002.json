@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winter_2002",
+  "title": "Winter",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3819412",
+    "imdb": "tt0314213",
+    "tmdb": 304055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 97
+}

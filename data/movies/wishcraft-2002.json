@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wishcraft_2002",
+  "title": "Wishcraft",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1412321",
+    "imdb": "tt0255702",
+    "tmdb": 24649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walking_on_water_2002",
+  "title": "Walking on Water",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2542475",
+    "imdb": "tt0284631",
+    "tmdb": 41398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

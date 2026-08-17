@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walk_to_remember_2002",
+  "title": "A Walk to Remember",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q219442",
+    "imdb": "tt0281358",
+    "tmdb": 10229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 98
+}

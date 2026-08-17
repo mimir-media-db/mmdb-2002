@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_and_peace_2002",
+  "title": "War and Peace",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255280",
+    "imdb": "tt0311356",
+    "tmdb": 143795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 172
+}
