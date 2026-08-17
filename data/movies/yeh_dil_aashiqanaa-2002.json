@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yeh_dil_aashiqanaa_2002",
+  "title": "Yeh Dil Aashiqanaa",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8051182",
+    "imdb": "tt0307682",
+    "tmdb": 451396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

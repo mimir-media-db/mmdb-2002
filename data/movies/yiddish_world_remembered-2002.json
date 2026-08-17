@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yiddish_world_remembered_2002",
+  "title": "A Yiddish World Remembered",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4660869",
+    "imdb": "tt0341115",
+    "tmdb": 460233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
