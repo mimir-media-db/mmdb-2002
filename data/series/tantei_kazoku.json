@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tantei_kazoku",
+  "title": "Tantei Kazoku",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11498306",
+    "imdb": "tt7786954",
+    "tmdb": 120146
+  },
+  "last_updated": "2026-08-17"
+}

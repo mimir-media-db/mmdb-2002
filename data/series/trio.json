@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_trio",
+  "title": "Trio",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7843066"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 17
+}

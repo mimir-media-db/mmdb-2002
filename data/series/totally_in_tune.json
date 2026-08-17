@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_totally_in_tune",
+  "title": "Totally in Tune",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q3995978",
+    "imdb": "tt0370214",
+    "tmdb": 10165
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

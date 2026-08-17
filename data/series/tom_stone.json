@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tom_stone",
+  "title": "Tom Stone",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q16957596",
+    "imdb": "tt0309221",
+    "tmdb": 9801
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}
