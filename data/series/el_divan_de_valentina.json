@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_divan_de_valentina",
+  "title": "El diván de Valentina",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5824733",
+    "imdb": "tt0490034",
+    "tmdb": 105307
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 52
+}

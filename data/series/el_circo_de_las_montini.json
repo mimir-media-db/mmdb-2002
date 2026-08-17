@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_circo_de_las_montini",
+  "title": "El Circo de las Montini",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5824351",
+    "imdb": "tt0317250",
+    "tmdb": 99471
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 125
+}

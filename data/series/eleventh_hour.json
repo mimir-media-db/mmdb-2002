@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eleventh_hour",
+  "title": "The Eleventh Hour",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3819936",
+    "imdb": "tt0288909",
+    "tmdb": 11778
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

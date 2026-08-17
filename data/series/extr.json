@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_extr",
+  "title": "Extr@",
+  "start_year": 2001,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q309502",
+    "imdb": "tt0934648",
+    "tmdb": 3791
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

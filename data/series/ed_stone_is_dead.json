@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ed_stone_is_dead",
+  "title": "Ed Stone Is Dead",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5335457",
+    "imdb": "tt0338601",
+    "tmdb": 15731
+  },
+  "last_updated": "2026-08-17"
+}

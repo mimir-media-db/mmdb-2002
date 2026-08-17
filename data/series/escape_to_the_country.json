@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_escape_to_the_country",
+  "title": "Escape to the Country",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5397097",
+    "imdb": "tt0390700",
+    "tmdb": 6390
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 655
+}
