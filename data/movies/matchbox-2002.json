@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matchbox_2002",
+  "title": "Matchbox",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12884617",
+    "imdb": "tt0382988",
+    "tmdb": 47106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-14",
+  "runtime_minutes": 80
+}

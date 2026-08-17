@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mekhong_full_moon_party_2002",
+  "title": "Mekhong Full Moon Party",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6379672",
+    "imdb": "tt0352575",
+    "tmdb": 199921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-02",
+  "runtime_minutes": 119
+}

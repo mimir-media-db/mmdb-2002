@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matir_moina_2002",
+  "title": "Matir Moina",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3204464",
+    "imdb": "tt0319836",
+    "tmdb": 72958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-17",
+  "runtime_minutes": 98
+}

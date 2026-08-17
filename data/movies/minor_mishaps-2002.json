@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_minor_mishaps_2002",
+  "title": "Minor Mishaps",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2904867",
+    "imdb": "tt0306079",
+    "tmdb": 123825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-15",
+  "runtime_minutes": 109
+}

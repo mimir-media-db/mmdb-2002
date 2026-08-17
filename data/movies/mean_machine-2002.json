@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mean_machine_2002",
+  "title": "Mean Machine",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q376663",
+    "imdb": "tt0291341",
+    "tmdb": 9991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-19",
+  "runtime_minutes": 99
+}

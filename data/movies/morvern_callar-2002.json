@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_morvern_callar_2002",
+  "title": "Morvern Callar",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2943636",
+    "imdb": "tt0300214",
+    "tmdb": 18602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-19",
+  "runtime_minutes": 97
+}

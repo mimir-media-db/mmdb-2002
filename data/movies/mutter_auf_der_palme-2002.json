@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mutter_auf_der_palme_2002",
+  "title": "Mutter auf der Palme",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29947148",
+    "imdb": "tt0349847",
+    "tmdb": 384757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

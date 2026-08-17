@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_beautiful_days_2002",
+  "title": "My Beautiful Days",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19000335",
+    "imdb": "tt0312308",
+    "tmdb": 69600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-03-15"
+}

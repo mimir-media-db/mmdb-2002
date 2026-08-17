@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_muskan_2002",
+  "title": "Muskan",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47465229",
+    "imdb": "tt0316288"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_malunde_an_unlikely_friedship_2002",
+  "title": "Malunde - An Unlikely Friedship",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50380292",
+    "imdb": "tt0259417",
+    "tmdb": 85092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-24"
+}

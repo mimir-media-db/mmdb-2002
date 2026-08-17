@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marriage_is_a_crazy_thing_2002",
+  "title": "Marriage Is a Crazy Thing",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q258848",
+    "imdb": "tt0315930",
+    "tmdb": 64222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-04-26",
+  "runtime_minutes": 103
+}

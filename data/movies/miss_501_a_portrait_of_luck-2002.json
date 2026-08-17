@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_501_a_portrait_of_luck_2002",
+  "title": "Miss 501: A Portrait of Luck",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66305382",
+    "imdb": "tt0303364",
+    "tmdb": 1658571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

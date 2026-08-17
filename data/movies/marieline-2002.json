@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marieline_2002",
+  "title": "Marie-Line",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3292035",
+    "imdb": "tt0216904",
+    "tmdb": 267287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-24",
+  "runtime_minutes": 100
+}

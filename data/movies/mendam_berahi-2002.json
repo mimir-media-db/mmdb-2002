@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mendam_berahi_2002",
+  "title": "Mendam Berahi",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20449133",
+    "imdb": "tt0293412",
+    "tmdb": 277649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-03-28",
+  "runtime_minutes": 94
+}
