@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vivan_los_ninos",
+  "title": "¡Vivan los niños!",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q247550",
+    "imdb": "tt0331806",
+    "tmdb": 19588
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 155
+}

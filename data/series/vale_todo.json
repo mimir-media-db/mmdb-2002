@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_vale_todo",
+  "title": "Vale todo",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q1260158",
+    "imdb": "tt0321005"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 100
+}

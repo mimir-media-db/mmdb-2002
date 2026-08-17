@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vivir_asi",
+  "title": "Vivir así",
+  "start_year": 2002,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q114104629",
+    "imdb": "tt0310541"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 50
+}
