@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tsatsiki_vanner_for_alltid_2002",
+  "title": "Tsatsiki – vänner för alltid",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1456651",
+    "imdb": "tt0293667",
+    "tmdb": 52781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-31",
+  "runtime_minutes": 82
+}

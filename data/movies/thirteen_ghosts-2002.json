@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thirteen_ghosts_2002",
+  "title": "Thirteen Ghosts",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q186864",
+    "imdb": "tt0245674",
+    "tmdb": 9378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-17",
+  "runtime_minutes": 92
+}

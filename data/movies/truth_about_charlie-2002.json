@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_truth_about_charlie_2002",
+  "title": "The Truth About Charlie",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q570780",
+    "imdb": "tt0270707",
+    "tmdb": 13440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-16",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tam_i_z_powrotem_2002",
+  "title": "Tam i z powrotem",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9355393",
+    "imdb": "tt0338481",
+    "tmdb": 340059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-01",
+  "runtime_minutes": 102
+}

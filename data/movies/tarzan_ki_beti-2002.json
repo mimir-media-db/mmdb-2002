@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tarzan_ki_beti_2002",
+  "title": "Tarzan Ki Beti",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55634722",
+    "imdb": "tt2728318",
+    "tmdb": 563440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

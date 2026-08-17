@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ten_minutes_older_the_trumpet_2002",
+  "title": "Ten Minutes Older: The Trumpet",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3983379",
+    "imdb": "tt0304808",
+    "tmdb": 23676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-18",
+  "runtime_minutes": 92
+}
