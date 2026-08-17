@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pinwheel_without_wind_2002",
+  "title": "A Pinwheel Without Wind",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59725580",
+    "imdb": "tt0453319",
+    "tmdb": 255763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

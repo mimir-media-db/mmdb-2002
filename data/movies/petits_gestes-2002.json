@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_petits_gestes_2002",
+  "title": "Petits gestes",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88874038"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 2
+}

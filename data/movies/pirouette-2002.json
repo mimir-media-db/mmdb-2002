@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pirouette_2002",
+  "title": "Pirouette",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49822885",
+    "imdb": "tt0355891",
+    "tmdb": 504460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

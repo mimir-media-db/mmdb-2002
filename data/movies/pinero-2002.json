@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pinero_2002",
+  "title": "Piñero",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10632500",
+    "imdb": "tt0261066",
+    "tmdb": 55479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-18"
+}

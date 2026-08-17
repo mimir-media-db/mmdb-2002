@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pollock_2002",
+  "title": "Pollock",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1466736",
+    "imdb": "tt0183659",
+    "tmdb": 12509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-06-06",
+  "runtime_minutes": 123
+}

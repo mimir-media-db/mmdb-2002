@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_public_toilet_2002",
+  "title": "Public Toilet",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q491962",
+    "imdb": "tt0334229",
+    "tmdb": 101569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-08-30",
+  "runtime_minutes": 102
+}

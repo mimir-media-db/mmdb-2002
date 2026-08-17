@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_punchi_suranganavi_2002",
+  "title": "Punchi Suranganavi",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30637324",
+    "imdb": "tt0499245",
+    "tmdb": 802542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-19"
+}

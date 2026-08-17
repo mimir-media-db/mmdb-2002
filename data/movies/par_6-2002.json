@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_par_6_2002",
+  "title": "Par 6",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120122474",
+    "imdb": "tt0244122",
+    "tmdb": 157155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 88
+}

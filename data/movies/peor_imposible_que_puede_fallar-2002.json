@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peor_imposible_que_puede_fallar_2002",
+  "title": "Peor imposible, ¿qué puede fallar?",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97124793",
+    "imdb": "tt0329493",
+    "tmdb": 102376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-19",
+  "runtime_minutes": 99
+}
