@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zona_zamfirova_2002",
+  "title": "Zona Zamfirova",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q219839",
+    "imdb": "tt0326449",
+    "tmdb": 51817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-31",
+  "runtime_minutes": 104
+}
