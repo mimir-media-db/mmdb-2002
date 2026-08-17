@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_four_toes_2002",
+  "title": "Four Toes",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5475581",
+    "imdb": "tt0315735",
+    "tmdb": 267230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-10"
+}

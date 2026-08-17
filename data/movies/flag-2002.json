@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flag_2002",
+  "title": "The Flag",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12475689",
+    "imdb": "tt0331192",
+    "tmdb": 688972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-01"
+}

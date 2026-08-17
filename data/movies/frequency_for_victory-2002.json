@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_frequency_for_victory_2002",
+  "title": "Frequency for Victory",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125373848",
+    "imdb": "tt10173198",
+    "tmdb": 792433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-06-15"
+}

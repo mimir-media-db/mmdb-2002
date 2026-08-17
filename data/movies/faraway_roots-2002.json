@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faraway_roots_2002",
+  "title": "Faraway Roots",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59655029",
+    "imdb": "tt9660174",
+    "tmdb": 505735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 72
+}
