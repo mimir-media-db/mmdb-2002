@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_austin_powers_in_goldmember_2002",
+  "title": "Austin Powers in Goldmember",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q498910",
+    "imdb": "tt0295178",
+    "tmdb": 818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aparte_2002",
+  "title": "Aparte",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19803459",
+    "imdb": "tt0328835",
+    "tmdb": 429523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 91
+}

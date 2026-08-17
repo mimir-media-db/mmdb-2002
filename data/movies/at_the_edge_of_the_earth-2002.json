@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_at_the_edge_of_the_earth_2002",
+  "title": "At the Edge of the Earth",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18479631",
+    "imdb": "tt0311599",
+    "tmdb": 260994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alices_odyssey_2002",
+  "title": "Alice's Odyssey",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3204419",
+    "imdb": "tt0302882",
+    "tmdb": 69882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

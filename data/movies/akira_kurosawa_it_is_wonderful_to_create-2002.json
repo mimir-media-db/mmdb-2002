@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_akira_kurosawa_it_is_wonderful_to_create_2002",
+  "title": "Akira Kurosawa: It Is Wonderful to Create",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2829065",
+    "imdb": "tt1042872",
+    "tmdb": 1385899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 45
+}

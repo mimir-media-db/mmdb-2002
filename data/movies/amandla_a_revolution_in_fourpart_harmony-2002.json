@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amandla_a_revolution_in_fourpart_harmony_2002",
+  "title": "Amandla!: A Revolution in Four-Part Harmony",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4739826",
+    "imdb": "tt0303297",
+    "tmdb": 22707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alaudin_2002",
+  "title": "Alaudin",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4708848",
+    "imdb": "tt0805485",
+    "tmdb": 410312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

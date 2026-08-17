@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_peaceful_2002",
+  "title": "Almost Peaceful",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548846",
+    "imdb": "tt0318780",
+    "tmdb": 61665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 94
+}

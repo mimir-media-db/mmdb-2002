@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amore_con_la_s_maiuscola_2002",
+  "title": "Amore con la S maiuscola",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3614550",
+    "imdb": "tt0429575",
+    "tmdb": 506480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adio_kerida_2002",
+  "title": "Adio Kerida",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052370",
+    "imdb": "tt0355174",
+    "tmdb": 956534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

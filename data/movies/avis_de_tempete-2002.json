@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_avis_de_tempete_2002",
+  "title": "Avis de tempête",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2874396",
+    "imdb": "tt0387044"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

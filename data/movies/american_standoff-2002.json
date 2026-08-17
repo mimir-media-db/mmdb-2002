@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_standoff_2002",
+  "title": "American Standoff",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4745170",
+    "imdb": "tt0303298",
+    "tmdb": 459074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 95
+}

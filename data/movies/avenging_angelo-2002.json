@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_avenging_angelo_2002",
+  "title": "Avenging Angelo",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q790444",
+    "imdb": "tt0275947",
+    "tmdb": 13437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 97
+}

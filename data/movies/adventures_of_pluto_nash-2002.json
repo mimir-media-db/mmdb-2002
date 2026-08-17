@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_of_pluto_nash_2002",
+  "title": "The Adventures of Pluto Nash",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q655051",
+    "imdb": "tt0180052",
+    "tmdb": 11692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 91
+}

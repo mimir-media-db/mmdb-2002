@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arputham_2002",
+  "title": "Arputham",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4795765",
+    "imdb": "tt22366546",
+    "tmdb": 276257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
