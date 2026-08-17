@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_xuoi_nguoc_duong_tran_2002",
+  "title": "Xuoi nguoc duong tran",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19507879",
+    "imdb": "tt3602282"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
