@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_im_a_celebrityget_me_out_of_here",
+  "title": "I'm a Celebrity...Get Me Out of Here!",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3235466",
+    "imdb": "tt0338616",
+    "tmdb": 30901
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 16,
+  "total_episodes": 182
+}

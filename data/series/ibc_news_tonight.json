@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_ibc_news_tonight",
+  "title": "IBC News Tonight",
+  "start_year": 2002,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5968513",
+    "tmdb": 7203
+  },
+  "last_updated": "2026-08-17"
+}
