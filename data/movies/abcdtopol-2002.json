@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abcdtopol_2002",
+  "title": "A.B.C.D.T.O.P.O.L.",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10359598",
+    "imdb": "tt0342014"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-27",
+  "runtime_minutes": 78
+}

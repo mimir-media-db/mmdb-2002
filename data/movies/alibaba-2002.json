@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alibaba_2002",
+  "title": "Alibaba",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123862724",
+    "imdb": "tt0327408",
+    "tmdb": 391418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-26",
+  "runtime_minutes": 90
+}

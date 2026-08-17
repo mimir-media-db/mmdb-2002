@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aram_2002",
+  "title": "Aram",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4068493",
+    "imdb": "tt0338732",
+    "tmdb": 110185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-27"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_angel_in_krakow_2002",
+  "title": "An Angel in Krakow",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9154827",
+    "imdb": "tt0346513",
+    "tmdb": 155426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-20"
+}

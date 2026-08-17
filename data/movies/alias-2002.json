@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alias_2002",
+  "title": "Alias",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2355567",
+    "imdb": "tt0289055",
+    "tmdb": 120062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-13",
+  "runtime_minutes": 98
+}
