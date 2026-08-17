@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mud_2002",
+  "title": "Mud",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6010287",
+    "imdb": "tt0384708",
+    "tmdb": 350089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

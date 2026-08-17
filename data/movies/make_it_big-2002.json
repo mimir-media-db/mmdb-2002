@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_make_it_big_2002",
+  "title": "Make It Big",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15136238",
+    "imdb": "tt0319546",
+    "tmdb": 57271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

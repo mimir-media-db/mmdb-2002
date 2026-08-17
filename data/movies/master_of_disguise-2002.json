@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_master_of_disguise_2002",
+  "title": "The Master of Disguise",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q507262",
+    "imdb": "tt0295427",
+    "tmdb": 13908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 80
+}

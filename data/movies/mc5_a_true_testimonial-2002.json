@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mc5_a_true_testimonial_2002",
+  "title": "MC5: A True Testimonial",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126083",
+    "imdb": "tt0333847",
+    "tmdb": 60645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

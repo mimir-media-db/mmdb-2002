@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mitr_my_friend_2002",
+  "title": "Mitr, My Friend",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6881927",
+    "imdb": "tt0292113",
+    "tmdb": 96508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

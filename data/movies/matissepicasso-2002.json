@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_matissepicasso_2002",
+  "title": "Matisse-Picasso",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3851892",
+    "imdb": "tt1148273"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 52
+}

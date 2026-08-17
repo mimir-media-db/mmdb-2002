@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_minimoni_the_movie_okashi_na_daiboken_2002",
+  "title": "Mini-Moni the Movie: Okashi na Daibōken!",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3315017",
+    "imdb": "tt2128502",
+    "tmdb": 163335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

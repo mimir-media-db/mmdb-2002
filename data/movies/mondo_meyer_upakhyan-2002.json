@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mondo_meyer_upakhyan_2002",
+  "title": "Mondo Meyer Upakhyan",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2966814",
+    "imdb": "tt0332699",
+    "tmdb": 209312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

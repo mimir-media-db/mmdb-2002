@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maryam_2002",
+  "title": "Maryam",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6781064",
+    "imdb": "tt0184719",
+    "tmdb": 270306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_malayali_mamanu_vanakkam_2002",
+  "title": "Malayali Mamanu Vanakkam",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6741594",
+    "imdb": "tt0355729",
+    "tmdb": 330022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

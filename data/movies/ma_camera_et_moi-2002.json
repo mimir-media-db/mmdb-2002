@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ma_camera_et_moi_2002",
+  "title": "Ma caméra et moi",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16661825",
+    "imdb": "tt0305777",
+    "tmdb": 397616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 80
+}

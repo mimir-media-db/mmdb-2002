@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_malli_malli_chudali_2002",
+  "title": "Malli Malli Chudali",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6744160",
+    "imdb": "tt2679910"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

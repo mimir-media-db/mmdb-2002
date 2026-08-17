@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monsieur_batignole_2002",
+  "title": "Monsieur Batignole",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q471239",
+    "imdb": "tt0291400",
+    "tmdb": 2594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 100
+}
