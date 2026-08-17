@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_groupe_flag",
+  "title": "Groupe flag",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3117839",
+    "imdb": "tt0309160",
+    "tmdb": 83973
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 24
+}

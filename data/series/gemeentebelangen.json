@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gemeentebelangen",
+  "title": "Gemeentebelangen",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2347879",
+    "imdb": "tt0320013"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

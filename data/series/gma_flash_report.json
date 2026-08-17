@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gma_flash_report",
+  "title": "GMA Flash Report",
+  "start_year": 2002,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q5513713",
+    "imdb": "tt1982305",
+    "tmdb": 3025
+  },
+  "last_updated": "2026-08-17"
+}
