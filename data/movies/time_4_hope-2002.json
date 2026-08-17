@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_time_4_hope_2002",
+  "title": "Time 4 Hope",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14921784",
+    "imdb": "tt0346161",
+    "tmdb": 543384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

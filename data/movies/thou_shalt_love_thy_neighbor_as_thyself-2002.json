@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thou_shalt_love_thy_neighbor_as_thyself_2002",
+  "title": "Thou shalt love thy neighbor as thyself",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18238489",
+    "imdb": "tt0335065",
+    "tmdb": 1257570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

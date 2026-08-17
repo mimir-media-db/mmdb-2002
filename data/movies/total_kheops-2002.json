@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_total_kheops_2002",
+  "title": "Total Khéops",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16680486",
+    "imdb": "tt0292718",
+    "tmdb": 78703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

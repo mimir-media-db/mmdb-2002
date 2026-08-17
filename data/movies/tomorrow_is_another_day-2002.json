@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tomorrow_is_another_day_2002",
+  "title": "Tomorrow Is Another Day",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10545263",
+    "imdb": "tt0342635",
+    "tmdb": 695304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

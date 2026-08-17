@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_titik_hitam_2002",
+  "title": "Titik Hitam",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12521693",
+    "imdb": "tt0344472",
+    "tmdb": 787491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

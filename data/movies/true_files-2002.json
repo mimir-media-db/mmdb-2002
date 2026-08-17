@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_true_files_2002",
+  "title": "True Files",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16958292",
+    "imdb": "tt0309474"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_1001_2002",
+  "title": "Tokyo 10+01",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7813798",
+    "imdb": "tt0380027",
+    "tmdb": 90602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

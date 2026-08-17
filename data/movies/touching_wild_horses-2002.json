@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_touching_wild_horses_2002",
+  "title": "Touching Wild Horses",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3819437",
+    "imdb": "tt0298578",
+    "tmdb": 52536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
