@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_batards_2002",
+  "title": "Bâtards",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56305296",
+    "imdb": "tt0284442",
+    "tmdb": 79006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-13",
+  "runtime_minutes": 90
+}

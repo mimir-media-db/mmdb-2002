@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beloved_sister_2002",
+  "title": "Beloved Sister",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20081106",
+    "imdb": "tt0338021",
+    "tmdb": 287311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 91
+}

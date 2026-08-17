@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beauty_betrayed_2002",
+  "title": "Beauty Betrayed",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56305216",
+    "imdb": "tt0273457",
+    "tmdb": 269990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 98
+}
