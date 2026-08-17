@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lets_go",
+  "title": "Let's Go!",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12967216",
+    "tmdb": 197562
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 53
+}

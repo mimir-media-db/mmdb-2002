@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lauberge_espagnole_2002",
+  "title": "L'Auberge espagnole",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1365797",
+    "imdb": "tt0283900",
+    "tmdb": 1555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 121
+}

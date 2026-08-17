@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bit_by_bit_2002",
+  "title": "Bit by Bit",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10568106",
+    "imdb": "tt0323084",
+    "tmdb": 44552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 85
+}

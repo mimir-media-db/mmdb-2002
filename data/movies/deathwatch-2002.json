@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deathwatch_2002",
+  "title": "Deathwatch",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q699278",
+    "imdb": "tt0286306",
+    "tmdb": 12576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 91
+}

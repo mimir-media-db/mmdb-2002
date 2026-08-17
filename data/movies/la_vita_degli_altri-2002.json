@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vita_degli_altri_2002",
+  "title": "La vita degli altri",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3824970",
+    "imdb": "tt0337421",
+    "tmdb": 989897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 92
+}

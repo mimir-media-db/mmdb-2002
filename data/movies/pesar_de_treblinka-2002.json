@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pesar_de_treblinka_2002",
+  "title": "A pesar de Treblinka",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19626930",
+    "imdb": "tt0382515",
+    "tmdb": 853652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

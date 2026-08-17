@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_youre_under_arrest",
+  "title": "You're Under Arrest",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107298214",
+    "imdb": "tt0395076",
+    "tmdb": 14281
+  },
+  "last_updated": "2026-08-17"
+}

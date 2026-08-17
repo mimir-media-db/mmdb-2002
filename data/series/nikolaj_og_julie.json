@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nikolaj_og_julie",
+  "title": "Nikolaj og Julie",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3481767",
+    "imdb": "tt0332960",
+    "tmdb": 54151
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_hache_2002",
+  "title": "À la hache",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3576781",
+    "imdb": "tt0467717"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

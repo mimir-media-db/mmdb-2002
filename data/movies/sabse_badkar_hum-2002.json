@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sabse_badkar_hum_2002",
+  "title": "Sabse Badkar Hum",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7396461",
+    "imdb": "tt2437226"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

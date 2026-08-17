@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_madventures",
+  "title": "Madventures",
+  "start_year": 2002,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q3276266",
+    "imdb": "tt0369131",
+    "tmdb": 18203
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 49
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_mothers_smile_2002",
+  "title": "My Mother's Smile",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2307306",
+    "imdb": "tt0317965",
+    "tmdb": 65045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 103
+}

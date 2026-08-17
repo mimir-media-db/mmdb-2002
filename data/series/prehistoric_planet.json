@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_prehistoric_planet",
+  "title": "Prehistoric Planet",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7239944",
+    "imdb": "tt0397820",
+    "tmdb": 9326
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

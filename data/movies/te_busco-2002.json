@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_te_busco_2002",
+  "title": "Te busco",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6139423",
+    "imdb": "tt0324175",
+    "tmdb": 195414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hollywood_2002",
+  "title": "Hollywood",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15048661",
+    "imdb": "tt1112110",
+    "tmdb": 339861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

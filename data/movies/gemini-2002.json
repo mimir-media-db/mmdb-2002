@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gemini_2002",
+  "title": "Gemini",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3536737",
+    "imdb": "tt0327761",
+    "tmdb": 69664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rivieres_dargent_2002",
+  "title": "Rivières d'argent",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16672923",
+    "imdb": "tt4065684",
+    "tmdb": 1217057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_blue_2002",
+  "title": "Dark Blue",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1166150",
+    "imdb": "tt0279331",
+    "tmdb": 4911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 118
+}

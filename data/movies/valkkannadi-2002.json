@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_valkkannadi_2002",
+  "title": "Valkkannadi",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7911757",
+    "imdb": "tt0358248",
+    "tmdb": 1136182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

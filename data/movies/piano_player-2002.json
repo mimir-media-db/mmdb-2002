@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_piano_player_2002",
+  "title": "The Piano Player",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q327873",
+    "imdb": "tt0293509",
+    "tmdb": 4968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 91
+}

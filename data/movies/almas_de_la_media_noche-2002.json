@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_almas_de_la_media_noche_2002",
+  "title": "Almas de la Media Noche",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5669674",
+    "imdb": "tt2206006",
+    "tmdb": 377637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 120
+}

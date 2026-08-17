@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_look_around_you",
+  "title": "Look Around You",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4055141",
+    "imdb": "tt0358323",
+    "tmdb": 2494
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

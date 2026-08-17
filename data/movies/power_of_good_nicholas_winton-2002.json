@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_power_of_good_nicholas_winton_2002",
+  "title": "The Power of Good: Nicholas Winton",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052408",
+    "imdb": "tt0328499",
+    "tmdb": 433239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 64
+}

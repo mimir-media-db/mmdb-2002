@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_today_with_des_and_mel",
+  "title": "Today with Des and Mel",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q7812227",
+    "imdb": "tt0343315"
+  },
+  "last_updated": "2026-08-17"
+}

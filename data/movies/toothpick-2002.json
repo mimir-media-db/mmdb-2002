@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_toothpick_2002",
+  "title": "Toothpick",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2436637",
+    "imdb": "tt0981350",
+    "tmdb": 779975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

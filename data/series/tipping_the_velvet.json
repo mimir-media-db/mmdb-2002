@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tipping_the_velvet",
+  "title": "Tipping the Velvet",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3529285",
+    "imdb": "tt0324264",
+    "tmdb": 13894
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

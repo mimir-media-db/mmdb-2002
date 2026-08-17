@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_little_chef",
+  "title": "My Little Chef",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11239317",
+    "imdb": "tt0497583",
+    "tmdb": 26682
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

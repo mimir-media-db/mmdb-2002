@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kamen_rider_ryuki",
+  "title": "Kamen Rider Ryuki",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q661731",
+    "imdb": "tt0419343",
+    "tmdb": 261321
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 50
+}

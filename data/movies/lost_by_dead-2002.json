@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_by_dead_2002",
+  "title": "Lost by Dead",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11350365",
+    "imdb": "tt2674248",
+    "tmdb": 404899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_like_mike_2002",
+  "title": "Like Mike",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1752897",
+    "imdb": "tt0308506",
+    "tmdb": 21972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 100
+}

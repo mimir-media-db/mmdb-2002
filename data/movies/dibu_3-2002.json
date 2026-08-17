@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dibu_3_2002",
+  "title": "Dibu 3",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5272297",
+    "imdb": "tt0293093",
+    "tmdb": 127304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 75
+}

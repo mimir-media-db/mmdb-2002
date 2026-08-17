@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mano_po_2002",
+  "title": "Mano Po",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6751075",
+    "imdb": "tt0345623",
+    "tmdb": 352709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 110
+}

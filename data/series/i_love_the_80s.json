@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_love_the_80s",
+  "title": "I Love the '80s",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5978315",
+    "imdb": "tt0346299",
+    "tmdb": 929
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

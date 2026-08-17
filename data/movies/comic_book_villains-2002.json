@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comic_book_villains_2002",
+  "title": "Comic Book Villains",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5151744",
+    "imdb": "tt0287969",
+    "tmdb": 36629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 92
+}

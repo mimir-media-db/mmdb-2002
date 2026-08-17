@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_desejos_de_mulher",
+  "title": "Desejos de Mulher",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q6950361",
+    "imdb": "tt0290350",
+    "tmdb": 46889
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 185
+}

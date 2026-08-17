@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_historias_do_olhar_2002",
+  "title": "Histórias do Olhar",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10297708",
+    "imdb": "tt0319504",
+    "tmdb": 513586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 88
+}

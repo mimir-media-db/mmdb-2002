@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tak_jhal_mishti_2002",
+  "title": "Tak Jhal Mishti",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7676947",
+    "imdb": "tt5368742",
+    "tmdb": 540171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

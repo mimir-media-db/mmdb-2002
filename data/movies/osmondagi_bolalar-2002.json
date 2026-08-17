@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_osmondagi_bolalar_2002",
+  "title": "Osmondagi bolalar",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7107217",
+    "imdb": "tt0370928",
+    "tmdb": 613700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_serious",
+  "title": "Serious",
+  "start_year": 2001,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3957905",
+    "imdb": "tt0462134",
+    "tmdb": 3434
+  },
+  "last_updated": "2026-08-17"
+}

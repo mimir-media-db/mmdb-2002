@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_buen_partido",
+  "title": "Buen partido",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5734966"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_still_game",
+  "title": "Still Game",
+  "start_year": 2002,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q7617045",
+    "imdb": "tt0281491",
+    "tmdb": 436
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 50
+}

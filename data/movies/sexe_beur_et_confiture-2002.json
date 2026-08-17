@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sexe_beur_et_confiture_2002",
+  "title": "Sexe, beur et confiture",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3480895",
+    "imdb": "tt0387580"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

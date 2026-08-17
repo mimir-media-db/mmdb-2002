@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhavam_2002",
+  "title": "Bhavam",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19571055",
+    "imdb": "tt0373720",
+    "tmdb": 1573842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

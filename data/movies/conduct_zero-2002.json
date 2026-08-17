@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_conduct_zero_2002",
+  "title": "Conduct Zero",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q625207",
+    "imdb": "tt0341535",
+    "tmdb": 83830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

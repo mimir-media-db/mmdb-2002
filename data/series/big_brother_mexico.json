@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_big_brother_mexico",
+  "title": "Big Brother México",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4905368",
+    "imdb": "tt0318212",
+    "tmdb": 31022
+  },
+  "last_updated": "2026-08-17"
+}

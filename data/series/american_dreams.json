@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_american_dreams",
+  "title": "American Dreams",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q2610772",
+    "imdb": "tt0319930",
+    "tmdb": 3400
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 61
+}

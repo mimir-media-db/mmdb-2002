@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_steal_it_if_you_can_2002",
+  "title": "Steal It if You Can",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18880599",
+    "imdb": "tt0330225",
+    "tmdb": 181080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

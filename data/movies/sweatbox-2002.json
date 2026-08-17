@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweatbox_2002",
+  "title": "The Sweatbox",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18155074",
+    "imdb": "tt0332422",
+    "tmdb": 97400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_summers_2002",
+  "title": "Two Summers",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10298647",
+    "imdb": "tt0322629",
+    "tmdb": 70148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 75
+}

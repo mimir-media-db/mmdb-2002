@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beth_2002",
+  "title": "Beth",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12476059",
+    "imdb": "tt0331193",
+    "tmdb": 787621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

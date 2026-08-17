@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_guy_2002",
+  "title": "The New Guy",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1463176",
+    "imdb": "tt0241760",
+    "tmdb": 10985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_outside_your_door_2002",
+  "title": "Outside Your Door",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7112980",
+    "imdb": "tt0292647",
+    "tmdb": 116504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

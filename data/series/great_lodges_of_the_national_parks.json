@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_great_lodges_of_the_national_parks",
+  "title": "Great Lodges of the National Parks",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q129207396",
+    "imdb": "tt1723073",
+    "tmdb": 308381
+  },
+  "last_updated": "2026-08-17"
+}

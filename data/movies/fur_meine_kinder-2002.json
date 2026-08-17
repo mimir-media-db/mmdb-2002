@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fur_meine_kinder_2002",
+  "title": "Für meine Kinder",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6843169",
+    "imdb": "tt0316778",
+    "tmdb": 1036506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tongan_ninja_2002",
+  "title": "Tongan Ninja",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3531547",
+    "imdb": "tt0352925",
+    "tmdb": 22484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 83
+}

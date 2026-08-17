@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arret_durgence_2002",
+  "title": "Arrêt d'urgence",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2864278",
+    "imdb": "tt0300956",
+    "tmdb": 1228551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

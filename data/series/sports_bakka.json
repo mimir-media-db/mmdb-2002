@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_sports_bakka",
+  "title": "Sports Bakka",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2312832"
+  },
+  "last_updated": "2026-08-17"
+}

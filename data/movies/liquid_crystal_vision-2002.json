@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liquid_crystal_vision_2002",
+  "title": "Liquid Crystal Vision",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4180103",
+    "imdb": "tt0385839",
+    "tmdb": 150330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 60
+}

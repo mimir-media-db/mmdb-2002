@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_occident_2002",
+  "title": "Occident",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1788741",
+    "imdb": "tt0320194",
+    "tmdb": 38907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 105
+}

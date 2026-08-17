@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_bbc_look_north",
+  "title": "BBC Look North",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4834836"
+  },
+  "last_updated": "2026-08-17"
+}

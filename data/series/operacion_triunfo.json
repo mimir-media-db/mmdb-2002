@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_operacion_triunfo",
+  "title": "Operación Triunfo",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2857849",
+    "imdb": "tt0328785"
+  },
+  "last_updated": "2026-08-17"
+}

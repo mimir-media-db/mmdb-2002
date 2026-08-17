@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_femmes_ou_les_enfants_dabord_2002",
+  "title": "Les femmes... ou les enfants d'abord...",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3236340",
+    "imdb": "tt0287439",
+    "tmdb": 78303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_book_group",
+  "title": "The Book Group",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3986047",
+    "imdb": "tt0276650",
+    "tmdb": 3842
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

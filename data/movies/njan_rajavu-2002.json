@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_njan_rajavu_2002",
+  "title": "Njan Rajavu",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19573357",
+    "imdb": "tt0355833"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

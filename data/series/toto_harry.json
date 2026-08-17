@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_toto_harry",
+  "title": "Toto & Harry",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104118689",
+    "imdb": "tt1307815",
+    "tmdb": 112035
+  },
+  "last_updated": "2026-08-17"
+}

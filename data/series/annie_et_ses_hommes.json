@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_annie_et_ses_hommes",
+  "title": "Annie et ses hommes",
+  "start_year": 2002,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2851720",
+    "imdb": "tt0365977",
+    "tmdb": 61300
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 138
+}

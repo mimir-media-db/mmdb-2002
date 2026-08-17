@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_locker_room",
+  "title": "Locker Room",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q25207219"
+  },
+  "last_updated": "2026-08-17"
+}

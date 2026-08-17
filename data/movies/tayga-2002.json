@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tayga_2002",
+  "title": "Tayga",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4449823",
+    "imdb": "tt0425718"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

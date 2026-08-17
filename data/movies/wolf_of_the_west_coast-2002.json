@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wolf_of_the_west_coast_2002",
+  "title": "The Wolf of the West Coast",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17632645",
+    "imdb": "tt0280882",
+    "tmdb": 341748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 132
+}

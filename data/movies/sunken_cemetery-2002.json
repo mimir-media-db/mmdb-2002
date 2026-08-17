@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunken_cemetery_2002",
+  "title": "The Sunken Cemetery",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7767417",
+    "imdb": "tt0329506",
+    "tmdb": 504617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 102
+}

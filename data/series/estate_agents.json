@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_estate_agents",
+  "title": "The Estate Agents",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7732535",
+    "imdb": "tt0312125",
+    "tmdb": 6846
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

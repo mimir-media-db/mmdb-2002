@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wisegirls_2002",
+  "title": "WiseGirls",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1812700",
+    "imdb": "tt0284655",
+    "tmdb": 41209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 92
+}

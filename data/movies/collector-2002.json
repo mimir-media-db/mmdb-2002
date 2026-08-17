@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_collector_2002",
+  "title": "The Collector",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3221566",
+    "imdb": "tt0303858",
+    "tmdb": 42774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

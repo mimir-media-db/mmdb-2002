@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_algeria_2002",
+  "title": "Algeria",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14955184",
+    "imdb": "tt0335844",
+    "tmdb": 277624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

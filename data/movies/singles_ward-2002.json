@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_singles_ward_2002",
+  "title": "The Singles Ward",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3989319",
+    "imdb": "tt0306069",
+    "tmdb": 16653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 102
+}

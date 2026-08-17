@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_le_camarguais",
+  "title": "Le Camarguais",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q60851358",
+    "imdb": "tt0313045"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

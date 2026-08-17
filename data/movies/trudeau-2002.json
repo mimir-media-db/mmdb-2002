@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trudeau_2002",
+  "title": "Trudeau",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14948615",
+    "imdb": "tt0299404",
+    "tmdb": 297630
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 208
+}

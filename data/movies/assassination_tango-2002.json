@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assassination_tango_2002",
+  "title": "Assassination Tango",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1512729",
+    "imdb": "tt0283897",
+    "tmdb": 16425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 109
+}

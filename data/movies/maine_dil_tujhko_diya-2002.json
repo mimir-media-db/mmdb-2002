@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maine_dil_tujhko_diya_2002",
+  "title": "Maine Dil Tujhko Diya",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6736356",
+    "imdb": "tt0326600",
+    "tmdb": 277751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

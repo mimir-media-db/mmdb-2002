@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_esclavos_vascos_del_iii_reich_2002",
+  "title": "Esclavos vascos del III Reich",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5837640"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 50
+}

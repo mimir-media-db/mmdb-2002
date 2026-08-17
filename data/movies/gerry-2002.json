@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gerry_2002",
+  "title": "Gerry",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1514846",
+    "imdb": "tt0302674",
+    "tmdb": 1956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 103
+}

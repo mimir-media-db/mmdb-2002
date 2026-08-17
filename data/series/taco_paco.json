@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_taco_paco",
+  "title": "Taco & Paco",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q3980035",
+    "imdb": "tt0329901",
+    "tmdb": 305220
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_criminal_court",
+  "title": "The Criminal Court",
+  "start_year": 2002,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q1170471",
+    "imdb": "tt0356300",
+    "tmdb": 62848
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 1058
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hugo_and_rosa_2002",
+  "title": "Hugo and Rosa",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10526930",
+    "imdb": "tt0387294",
+    "tmdb": 167495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_if_it_dont_fit_use_a_bigger_hammer_2002",
+  "title": "If It Don't Fit, Use a Bigger Hammer",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2550185",
+    "imdb": "tt0278815",
+    "tmdb": 9254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 97
+}

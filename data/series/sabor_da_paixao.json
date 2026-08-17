@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sabor_da_paixao",
+  "title": "Sabor da Paixão",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q10366724",
+    "imdb": "tt0312198",
+    "tmdb": 42865
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 149
+}

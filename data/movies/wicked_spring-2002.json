@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wicked_spring_2002",
+  "title": "Wicked Spring",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7998296",
+    "imdb": "tt0235048",
+    "tmdb": 292532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

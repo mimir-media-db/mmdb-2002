@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fall_of_the_louse_of_usher_2002",
+  "title": "The Fall of the Louse of Usher",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7733222",
+    "imdb": "tt0268295",
+    "tmdb": 120199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

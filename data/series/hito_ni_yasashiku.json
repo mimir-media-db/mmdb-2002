@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hito_ni_yasashiku",
+  "title": "Hito ni Yasashiku",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11375891",
+    "imdb": "tt0303470",
+    "tmdb": 36162
+  },
+  "last_updated": "2026-08-17"
+}

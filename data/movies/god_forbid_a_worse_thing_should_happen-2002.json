@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_god_forbid_a_worse_thing_should_happen_2002",
+  "title": "God Forbid a Worse Thing Should Happen",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5575860",
+    "imdb": "tt0329421",
+    "tmdb": 259738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 107
+}

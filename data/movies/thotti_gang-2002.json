@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thotti_gang_2002",
+  "title": "Thotti Gang",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7796936",
+    "imdb": "tt0356138",
+    "tmdb": 228341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

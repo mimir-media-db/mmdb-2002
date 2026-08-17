@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_these_things_take_time_the_story_of_the_smiths_2002",
+  "title": "These Things Take Time: The Story of The Smiths",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3490777",
+    "imdb": "tt7445308",
+    "tmdb": 354557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

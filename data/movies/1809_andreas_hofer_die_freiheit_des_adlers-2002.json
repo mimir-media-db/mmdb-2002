@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1809_andreas_hofer_die_freiheit_des_adlers_2002",
+  "title": "1809 Andreas Hofer - Die Freiheit des Adlers",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q498143",
+    "imdb": "tt0303586",
+    "tmdb": 89594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 110
+}

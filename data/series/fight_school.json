@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fight_school",
+  "title": "Fight School",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5447771",
+    "imdb": "tt0810616",
+    "tmdb": 4925
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

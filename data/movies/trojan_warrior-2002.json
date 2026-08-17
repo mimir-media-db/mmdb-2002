@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trojan_warrior_2002",
+  "title": "Trojan Warrior",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7845119",
+    "imdb": "tt0313726",
+    "tmdb": 252094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_fox_and_friends_sunday",
+  "title": "FOX and Friends Sunday",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109798023"
+  },
+  "last_updated": "2026-08-17"
+}

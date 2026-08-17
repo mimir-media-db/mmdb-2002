@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ana_y_los_7",
+  "title": "Ana y los 7",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3311904",
+    "imdb": "tt0303421",
+    "tmdb": 76671
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 91
+}

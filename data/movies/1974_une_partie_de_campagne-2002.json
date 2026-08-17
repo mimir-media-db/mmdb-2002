@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1974_une_partie_de_campagne_2002",
+  "title": "1974, une partie de campagne",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2812614",
+    "imdb": "tt0145597",
+    "tmdb": 37480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

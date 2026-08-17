@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sri_bannari_amman_2002",
+  "title": "Sri Bannari Amman",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254413",
+    "imdb": "tt13980542",
+    "tmdb": 919660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

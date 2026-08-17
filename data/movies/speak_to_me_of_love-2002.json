@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_speak_to_me_of_love_2002",
+  "title": "Speak to Me of Love",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1171097",
+    "imdb": "tt0304520",
+    "tmdb": 79332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 98
+}

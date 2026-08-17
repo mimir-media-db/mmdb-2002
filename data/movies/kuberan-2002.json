@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kuberan_2002",
+  "title": "Kuberan",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6441216",
+    "imdb": "tt0356800",
+    "tmdb": 351421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

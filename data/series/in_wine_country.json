@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_in_wine_country",
+  "title": "In Wine Country",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16847940",
+    "imdb": "tt1202292",
+    "tmdb": 41620
+  },
+  "last_updated": "2026-08-17"
+}

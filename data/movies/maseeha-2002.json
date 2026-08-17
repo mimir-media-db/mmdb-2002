@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maseeha_2002",
+  "title": "Maseeha",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6782947",
+    "imdb": "tt0341458",
+    "tmdb": 358794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chathurangam_2002",
+  "title": "Chathurangam",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5087741",
+    "imdb": "tt0357536",
+    "tmdb": 280203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

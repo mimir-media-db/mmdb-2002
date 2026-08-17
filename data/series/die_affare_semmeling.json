@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_die_affare_semmeling",
+  "title": "Die Affäre Semmeling",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q1210938",
+    "imdb": "tt0220933",
+    "tmdb": 39951
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

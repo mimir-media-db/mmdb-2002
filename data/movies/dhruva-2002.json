@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dhruva_2002",
+  "title": "Dhruva",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248031",
+    "imdb": "tt14677610",
+    "tmdb": 610993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

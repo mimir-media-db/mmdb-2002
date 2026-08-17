@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dummy_2002",
+  "title": "Dummy",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q787730",
+    "imdb": "tt0246592",
+    "tmdb": 17906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 92
+}

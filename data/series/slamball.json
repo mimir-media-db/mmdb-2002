@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_slamball",
+  "title": "SlamBall",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140943633",
+    "imdb": "tt0337560",
+    "tmdb": 23868
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_viza_za_buducnost",
+  "title": "Viza za budućnost",
+  "start_year": 2002,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1249518",
+    "imdb": "tt0350466",
+    "tmdb": 225774
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 206
+}

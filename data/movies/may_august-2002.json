@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_may_august_2002",
+  "title": "May & August",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10881874",
+    "imdb": "tt0354771",
+    "tmdb": 615657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

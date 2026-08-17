@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_family_2002",
+  "title": "Happy Family",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2695451",
+    "imdb": "tt0345289",
+    "tmdb": 404299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

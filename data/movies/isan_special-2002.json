@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_isan_special_2002",
+  "title": "I-San Special",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16846419",
+    "imdb": "tt0333640",
+    "tmdb": 230617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 112
+}

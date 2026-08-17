@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_friend_or_foe",
+  "title": "Friend or Foe?",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q16839236",
+    "imdb": "tt0320860",
+    "tmdb": 5620
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 130
+}

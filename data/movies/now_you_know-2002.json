@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_now_you_know_2002",
+  "title": "Now You Know",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7065872",
+    "imdb": "tt0286855",
+    "tmdb": 31821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 102
+}

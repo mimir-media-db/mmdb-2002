@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_farewell_to_harry_2002",
+  "title": "Farewell to Harry",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12119732",
+    "imdb": "tt0285086",
+    "tmdb": 251535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

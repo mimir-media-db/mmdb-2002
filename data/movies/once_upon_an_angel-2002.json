@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_an_angel_2002",
+  "title": "Once Upon an Angel",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3373868",
+    "imdb": "tt0284387",
+    "tmdb": 72686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

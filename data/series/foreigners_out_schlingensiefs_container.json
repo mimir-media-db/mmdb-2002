@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_foreigners_out_schlingensiefs_container",
+  "title": "Foreigners out! Schlingensiefs Container",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q601074",
+    "imdb": "tt0338040",
+    "tmdb": 35431
+  },
+  "last_updated": "2026-08-17"
+}

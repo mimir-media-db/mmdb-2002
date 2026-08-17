@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lednikovyy_period",
+  "title": "Lednikovyy period",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4257147",
+    "imdb": "tt0459698",
+    "tmdb": 251202
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

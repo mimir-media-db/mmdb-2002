@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_girls_behaving_badly",
+  "title": "Girls Behaving Badly",
+  "start_year": 2001,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q5564618",
+    "imdb": "tt0350415",
+    "tmdb": 5713
+  },
+  "last_updated": "2026-08-17"
+}

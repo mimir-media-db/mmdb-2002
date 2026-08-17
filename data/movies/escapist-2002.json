@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_escapist_2002",
+  "title": "The Escapist",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3422070",
+    "imdb": "tt0299854",
+    "tmdb": 49814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 88
+}

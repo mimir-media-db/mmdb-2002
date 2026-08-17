@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_dogs_2002",
+  "title": "The Wild Dogs",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7774851",
+    "imdb": "tt0290930",
+    "tmdb": 177248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

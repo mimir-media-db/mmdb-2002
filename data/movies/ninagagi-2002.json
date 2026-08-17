@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ninagagi_2002",
+  "title": "Ninagagi",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16958048",
+    "imdb": "tt14691678",
+    "tmdb": 1504089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

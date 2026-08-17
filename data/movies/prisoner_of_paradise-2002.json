@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prisoner_of_paradise_2002",
+  "title": "Prisoner of Paradise",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q177676",
+    "imdb": "tt0316013",
+    "tmdb": 112902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 87
+}

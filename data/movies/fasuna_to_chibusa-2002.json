@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fasuna_to_chibusa_2002",
+  "title": "Fasuna to Chibusa",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11331971",
+    "imdb": "tt0290612",
+    "tmdb": 621369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

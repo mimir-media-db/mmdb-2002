@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cortazar_notes_for_a_documentary_2002",
+  "title": "Cortazar: Notes for a Documentary",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5789782",
+    "imdb": "tt0341320",
+    "tmdb": 1103102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 80
+}

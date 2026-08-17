@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_maengs_golden_era",
+  "title": "The Maengs' Golden Era",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12594995",
+    "tmdb": 233826
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 36
+}

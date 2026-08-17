@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phase_iv_2002",
+  "title": "Phase IV",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11327304",
+    "imdb": "tt0289758",
+    "tmdb": 171382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

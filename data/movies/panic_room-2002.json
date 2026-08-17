@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_panic_room_2002",
+  "title": "Panic Room",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q741042",
+    "imdb": "tt0258000",
+    "tmdb": 4547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 112
+}

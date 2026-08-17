@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madeline_my_fair_madeline_2002",
+  "title": "Madeline: My Fair Madeline",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19545066",
+    "imdb": "tt0340228",
+    "tmdb": 77006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

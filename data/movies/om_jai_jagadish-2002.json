@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_om_jai_jagadish_2002",
+  "title": "Om Jai Jagadish",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3351801",
+    "imdb": "tt0327071",
+    "tmdb": 33146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

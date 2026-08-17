@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_xiao_zhuang_epic_tv_series",
+  "title": "Xiao Zhuang Epic (TV series)",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q10945001",
+    "imdb": "tt5267760",
+    "tmdb": 34254
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 38
+}

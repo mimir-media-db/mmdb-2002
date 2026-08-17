@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_bruit_lodeur_et_quelques_etoiles_2002",
+  "title": "Le Bruit, l'Odeur et Quelques Étoiles",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3220638",
+    "imdb": "tt0291055",
+    "tmdb": 1067783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

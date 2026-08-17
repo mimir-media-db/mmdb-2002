@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shaheedeazam_2002",
+  "title": "Shaheed-E-Azam",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7461522",
+    "imdb": "tt4063584",
+    "tmdb": 407306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

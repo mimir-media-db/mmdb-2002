@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_inlaws",
+  "title": "In-Laws",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2071205",
+    "imdb": "tt0315682",
+    "tmdb": 14415
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

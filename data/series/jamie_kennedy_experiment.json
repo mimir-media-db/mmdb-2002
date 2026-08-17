@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jamie_kennedy_experiment",
+  "title": "The Jamie Kennedy Experiment",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7742943",
+    "imdb": "tt0305044",
+    "tmdb": 9814
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 62
+}

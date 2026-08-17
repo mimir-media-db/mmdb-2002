@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_utsutsu_2002",
+  "title": "Utsutsu",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11260584",
+    "imdb": "tt0348299",
+    "tmdb": 324023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

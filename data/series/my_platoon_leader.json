@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_my_platoon_leader",
+  "title": "My Platoon Leader",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12968450",
+    "tmdb": 209227
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

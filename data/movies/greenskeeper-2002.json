@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_greenskeeper_2002",
+  "title": "The Greenskeeper",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3283497",
+    "imdb": "tt0311231",
+    "tmdb": 97889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

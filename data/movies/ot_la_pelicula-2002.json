@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ot_la_pelicula_2002",
+  "title": "OT: la película",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6047786",
+    "imdb": "tt0336940",
+    "tmdb": 101272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 85
+}

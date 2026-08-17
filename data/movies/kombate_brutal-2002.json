@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kombate_brutal_2002",
+  "title": "Kombate Brutal",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5960379",
+    "imdb": "tt4165374",
+    "tmdb": 410764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 95
+}

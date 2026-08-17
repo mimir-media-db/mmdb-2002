@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_basil_brush_show",
+  "title": "The Basil Brush Show",
+  "start_year": 2002,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7715761",
+    "imdb": "tt0354271",
+    "tmdb": 6536
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 79
+}

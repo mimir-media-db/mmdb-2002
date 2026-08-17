@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_danger_50000_volts",
+  "title": "Danger! 50,000 Volts!",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1159556",
+    "imdb": "tt0443366",
+    "tmdb": 6002
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

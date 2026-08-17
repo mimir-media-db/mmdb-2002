@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_cant_get_enough_2002",
+  "title": "Just Can't Get Enough",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15877241",
+    "imdb": "tt0265252",
+    "tmdb": 255664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 95
+}

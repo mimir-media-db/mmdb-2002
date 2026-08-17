@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_endelig_fredag",
+  "title": "Endelig fredag",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11967431",
+    "imdb": "tt0312123"
+  },
+  "last_updated": "2026-08-17"
+}

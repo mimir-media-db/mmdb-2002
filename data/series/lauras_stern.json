@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lauras_stern",
+  "title": "Lauras Stern",
+  "start_year": 2001,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q325069",
+    "imdb": "tt0836301",
+    "tmdb": 40625
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 52
+}

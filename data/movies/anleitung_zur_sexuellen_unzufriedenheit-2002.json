@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anleitung_zur_sexuellen_unzufriedenheit_2002",
+  "title": "Anleitung zur sexuellen Unzufriedenheit",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15783521",
+    "imdb": "tt0360370",
+    "tmdb": 33605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 92
+}

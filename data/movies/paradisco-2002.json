@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paradisco_2002",
+  "title": "Paradisco",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3363269",
+    "imdb": "tt0339491",
+    "tmdb": 654448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 17
+}

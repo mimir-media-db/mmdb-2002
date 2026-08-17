@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_believe_nothing",
+  "title": "Believe Nothing",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q4882799",
+    "imdb": "tt0327269",
+    "tmdb": 304
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

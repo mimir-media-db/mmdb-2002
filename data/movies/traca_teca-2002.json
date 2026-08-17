@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_traca_teca_2002",
+  "title": "A Traça Teca",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9559116",
+    "imdb": "tt0344488",
+    "tmdb": 1142572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

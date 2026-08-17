@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_fios",
+  "title": "Fíos",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q12389123",
+    "imdb": "tt0476618"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seema_simham_2002",
+  "title": "Seema Simham",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7445876",
+    "imdb": "tt1583363",
+    "tmdb": 280330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

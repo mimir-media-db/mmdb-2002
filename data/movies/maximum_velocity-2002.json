@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maximum_velocity_2002",
+  "title": "Maximum Velocity",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4009420",
+    "imdb": "tt0329731",
+    "tmdb": 82832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 111
+}

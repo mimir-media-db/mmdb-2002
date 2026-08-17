@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_kitchen_maid",
+  "title": "Kitchen Maid",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22973973"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2
+}

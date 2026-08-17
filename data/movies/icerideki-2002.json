@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_icerideki_2002",
+  "title": "İçerideki",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6011849",
+    "imdb": "tt0448569",
+    "tmdb": 1016379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

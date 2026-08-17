@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_onehit_wonders",
+  "title": "One-Hit Wonders",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7092286",
+    "imdb": "tt0338629",
+    "tmdb": 41459
+  },
+  "last_updated": "2026-08-17"
+}

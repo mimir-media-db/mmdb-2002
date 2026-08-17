@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alice_e_in_paradiso_2002",
+  "title": "Alice è in paradiso",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3611721",
+    "imdb": "tt0384802",
+    "tmdb": 750365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 59
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_berlin_sinfonie_einer_grostadt_2002",
+  "title": "Berlin: Sinfonie einer Großstadt",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q821163",
+    "imdb": "tt0317140",
+    "tmdb": 202907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 77
+}

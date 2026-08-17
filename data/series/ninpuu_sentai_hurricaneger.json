@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ninpuu_sentai_hurricaneger",
+  "title": "Ninpuu Sentai Hurricaneger",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q591029",
+    "imdb": "tt0306298",
+    "tmdb": 2876
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 51
+}

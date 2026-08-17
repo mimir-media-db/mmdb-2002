@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_if_u_care_2002",
+  "title": "If U Care...",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15913153",
+    "imdb": "tt0347230",
+    "tmdb": 407321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

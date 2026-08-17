@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_big_fat_greek_wedding_2002",
+  "title": "My Big Fat Greek Wedding",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q525415",
+    "imdb": "tt0259446",
+    "tmdb": 8346
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 95
+}

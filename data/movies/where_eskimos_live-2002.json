@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_where_eskimos_live_2002",
+  "title": "Where Eskimos Live",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q779727",
+    "imdb": "tt0275072",
+    "tmdb": 85415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 95
+}

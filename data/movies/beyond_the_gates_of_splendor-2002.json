@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_the_gates_of_splendor_2002",
+  "title": "Beyond the Gates of Splendor",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4900138",
+    "imdb": "tt0337868",
+    "tmdb": 61340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

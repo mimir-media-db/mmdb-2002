@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hell_house_2002",
+  "title": "Hell House",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5706608",
+    "imdb": "tt0301235",
+    "tmdb": 33068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 85
+}

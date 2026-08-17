@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ben_and_arthur_2002",
+  "title": "Ben and Arthur",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4886760",
+    "imdb": "tt0364986",
+    "tmdb": 31130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 85
+}

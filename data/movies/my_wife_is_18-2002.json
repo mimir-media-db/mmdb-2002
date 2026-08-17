@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_wife_is_18_2002",
+  "title": "My Wife Is 18",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16923870",
+    "imdb": "tt0345685",
+    "tmdb": 36171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

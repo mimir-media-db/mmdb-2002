@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_h2o_2002",
+  "title": "H2O",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5628822",
+    "imdb": "tt14451540",
+    "tmdb": 343151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

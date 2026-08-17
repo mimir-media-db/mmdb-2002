@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guru_2002",
+  "title": "The Guru",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1197236",
+    "imdb": "tt0280720",
+    "tmdb": 9027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 91
+}

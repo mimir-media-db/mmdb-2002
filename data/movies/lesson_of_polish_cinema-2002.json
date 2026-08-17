@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lesson_of_polish_cinema_2002",
+  "title": "The Lesson of Polish Cinema",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11753915",
+    "imdb": "tt0382149",
+    "tmdb": 270740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 71
+}

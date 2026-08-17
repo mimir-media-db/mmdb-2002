@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hypponenenbuske_experience",
+  "title": "Hyppönen-Enbuske Experience",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q5482307",
+    "imdb": "tt0355095",
+    "tmdb": 57462
+  },
+  "last_updated": "2026-08-17"
+}

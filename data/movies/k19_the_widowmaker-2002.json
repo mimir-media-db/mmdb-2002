@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_k19_the_widowmaker_2002",
+  "title": "K-19: The Widowmaker",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q662342",
+    "imdb": "tt0267626",
+    "tmdb": 8665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 132
+}

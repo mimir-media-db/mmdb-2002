@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ant_decs_saturday_night_takeaway",
+  "title": "Ant & Dec's Saturday Night Takeaway",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4770849",
+    "imdb": "tt0324692",
+    "tmdb": 2564
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 18,
+  "total_episodes": 125
+}

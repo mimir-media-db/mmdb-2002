@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_play",
+  "title": ">play",
+  "start_year": 2001,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7202997",
+    "imdb": "tt0408364"
+  },
+  "last_updated": "2026-08-17"
+}

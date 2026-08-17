@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sandwiches_that_you_will_like_2002",
+  "title": "Sandwiches That You Will Like",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17119235",
+    "imdb": "tt0354893",
+    "tmdb": 62417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

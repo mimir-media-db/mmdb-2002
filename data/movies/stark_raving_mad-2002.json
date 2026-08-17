@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stark_raving_mad_2002",
+  "title": "Stark Raving Mad",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2035539",
+    "imdb": "tt0286152",
+    "tmdb": 14809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_40_a_day",
+  "title": "$40 a Day",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4540356",
+    "imdb": "tt0364770",
+    "tmdb": 3558
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 77
+}

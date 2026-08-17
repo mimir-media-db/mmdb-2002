@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_code_2002",
+  "title": "The Code",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3210664",
+    "imdb": "tt0304391",
+    "tmdb": 54045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

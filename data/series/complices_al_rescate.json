@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_complices_al_rescate",
+  "title": "Cómplices al rescate",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q3281886",
+    "imdb": "tt0300748",
+    "tmdb": 12727
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 132
+}

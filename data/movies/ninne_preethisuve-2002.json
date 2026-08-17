@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ninne_preethisuve_2002",
+  "title": "Ninne Preethisuve",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19573335",
+    "imdb": "tt14691698",
+    "tmdb": 282559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

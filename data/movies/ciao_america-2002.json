@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ciao_america_2002",
+  "title": "Ciao America",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3676286",
+    "imdb": "tt0275263",
+    "tmdb": 288950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 100
+}

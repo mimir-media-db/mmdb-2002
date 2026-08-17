@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_britains_best_buildings",
+  "title": "Britain's Best Buildings",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q14954419",
+    "imdb": "tt0397765",
+    "tmdb": 7352
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 9
+}

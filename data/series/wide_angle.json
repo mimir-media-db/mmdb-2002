@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wide_angle",
+  "title": "Wide Angle",
+  "start_year": 2002,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7998549",
+    "imdb": "tt0396392",
+    "tmdb": 14996
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 63
+}

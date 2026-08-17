@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hathyar_2002",
+  "title": "Hathyar",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5681567",
+    "imdb": "tt0337633",
+    "tmdb": 317039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rats_2002",
+  "title": "The Rats",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4243032",
+    "imdb": "tt0282418",
+    "tmdb": 28594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 94
+}

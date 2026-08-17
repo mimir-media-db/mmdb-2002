@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_123_2002",
+  "title": "123",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4548302",
+    "imdb": "tt3415566",
+    "tmdb": 280969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

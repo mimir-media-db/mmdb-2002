@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yathrakarude_sradhakku_2002",
+  "title": "Yathrakarude Sradhakku",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8050231",
+    "imdb": "tt0358295",
+    "tmdb": 352565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

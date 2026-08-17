@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ataudes_de_luz_2002",
+  "title": "Ataúdes de luz",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17489878",
+    "imdb": "tt0461465",
+    "tmdb": 569329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nemmeno_in_un_sogno_2002",
+  "title": "Nemmeno in un sogno",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3874599",
+    "imdb": "tt0307220",
+    "tmdb": 851108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

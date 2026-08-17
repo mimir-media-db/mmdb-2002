@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_silent_cry_2002",
+  "title": "Silent Cry",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7514549",
+    "imdb": "tt0293929",
+    "tmdb": 534481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

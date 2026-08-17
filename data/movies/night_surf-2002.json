@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_surf_2002",
+  "title": "Night Surf",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4327790",
+    "imdb": "tt0330697",
+    "tmdb": 488444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

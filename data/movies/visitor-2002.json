@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_visitor_2002",
+  "title": "The Visitor",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7772901",
+    "imdb": "tt0363190",
+    "tmdb": 395540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

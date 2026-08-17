@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bomb_the_system_2002",
+  "title": "Bomb the System",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4940435",
+    "imdb": "tt0337585",
+    "tmdb": 41613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 91
+}

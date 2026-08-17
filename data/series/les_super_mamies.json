@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_les_super_mamies",
+  "title": "Les Super Mamies",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3235647",
+    "imdb": "tt0307836",
+    "tmdb": 109298
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3
+}

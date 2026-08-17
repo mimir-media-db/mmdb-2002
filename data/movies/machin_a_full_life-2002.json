@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_machin_a_full_life_2002",
+  "title": "Machin: A Full Life",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5988834",
+    "imdb": "tt0300947",
+    "tmdb": 1032470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

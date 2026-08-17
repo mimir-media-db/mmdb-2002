@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lewis_clark_great_journey_west_2002",
+  "title": "Lewis & Clark: Great Journey West",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6536209",
+    "imdb": "tt0317874",
+    "tmdb": 59217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_canal_7_noticias",
+  "title": "Canal 7 Noticias",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q105885469"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_broken_silence",
+  "title": "Broken Silence",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q85003454",
+    "imdb": "tt0315652",
+    "tmdb": 66899
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

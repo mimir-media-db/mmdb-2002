@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunshine_state_2002",
+  "title": "Sunshine State",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1670513",
+    "imdb": "tt0286179",
+    "tmdb": 57022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 134
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_life_of_mammals",
+  "title": "The Life of Mammals",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q1140053",
+    "imdb": "tt0364174",
+    "tmdb": 9555
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

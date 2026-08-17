@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_love_you_cannes_2002",
+  "title": "All the Love You Cannes!",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3546445",
+    "imdb": "tt0321150",
+    "tmdb": 99368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 108
+}

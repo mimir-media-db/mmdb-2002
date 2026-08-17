@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_green_light_2002",
+  "title": "Green Light",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2600250",
+    "imdb": "tt0313802",
+    "tmdb": 453484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 112
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stone_raft_2002",
+  "title": "The Stone Raft",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18467533",
+    "imdb": "tt0175203",
+    "tmdb": 95647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 105
+}

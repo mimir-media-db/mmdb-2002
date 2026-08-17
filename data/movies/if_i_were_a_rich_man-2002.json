@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_if_i_were_a_rich_man_2002",
+  "title": "If I Were a Rich Man",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1424273",
+    "imdb": "tt0315152",
+    "tmdb": 18303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_ask_dont_tell_2002",
+  "title": "Don't Ask Don't Tell",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5291420",
+    "imdb": "tt0335057",
+    "tmdb": 253085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

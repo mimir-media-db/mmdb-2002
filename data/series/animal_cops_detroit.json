@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_animal_cops_detroit",
+  "title": "Animal Cops: Detroit",
+  "start_year": 2001,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q4764778",
+    "imdb": "tt0381732",
+    "tmdb": 394
+  },
+  "last_updated": "2026-08-17"
+}

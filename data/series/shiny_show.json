@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shiny_show",
+  "title": "The Shiny Show",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7763832",
+    "imdb": "tt0327359",
+    "tmdb": 9501
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 91
+}

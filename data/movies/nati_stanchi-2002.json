@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nati_stanchi_2002",
+  "title": "Nati stanchi",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3873030",
+    "imdb": "tt0312998",
+    "tmdb": 38537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 80
+}

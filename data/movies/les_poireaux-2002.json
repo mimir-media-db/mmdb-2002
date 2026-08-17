@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_les_poireaux_2002",
+  "title": "Les Poireaux",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2375747",
+    "imdb": "tt0362031"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

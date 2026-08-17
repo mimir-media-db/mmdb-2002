@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vento_di_ponente",
+  "title": "Vento di ponente",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2817208",
+    "imdb": "tt0307850"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 31
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beitar_provence_2002",
+  "title": "Beitar Provence",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16129528",
+    "imdb": "tt0340013",
+    "tmdb": 78825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 85
+}

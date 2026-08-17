@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lo_zio_damerica",
+  "title": "Lo zio d'America",
+  "start_year": 2002,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3835924",
+    "imdb": "tt0338570",
+    "tmdb": 41509
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

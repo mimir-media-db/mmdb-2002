@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sin_intervalo_2002",
+  "title": "Sin intervalo",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16631979",
+    "imdb": "tt0311809",
+    "tmdb": 1529225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 77
+}

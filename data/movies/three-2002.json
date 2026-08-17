@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_2002",
+  "title": "Three",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q562712",
+    "imdb": "tt0324242",
+    "tmdb": 54117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 123
+}

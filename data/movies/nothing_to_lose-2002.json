@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nothing_to_lose_2002",
+  "title": "Nothing to Lose",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3344485",
+    "imdb": "tt0349895",
+    "tmdb": 170638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sur_theresecom",
+  "title": "Sœur Thérèse.com",
+  "start_year": 2002,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3511720",
+    "imdb": "tt0337215",
+    "tmdb": 75072
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 21
+}

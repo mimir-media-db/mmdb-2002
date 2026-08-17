@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mercano_the_martian_2002",
+  "title": "Mercano the Martian",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6010705",
+    "imdb": "tt0283476",
+    "tmdb": 100512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 75
+}

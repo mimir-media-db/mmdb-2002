@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stan_lees_mutants_monsters_marvels_2002",
+  "title": "Stan Lee's Mutants, Monsters & Marvels",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19881118",
+    "imdb": "tt0314724",
+    "tmdb": 68919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

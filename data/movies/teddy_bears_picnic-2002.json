@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_teddy_bears_picnic_2002",
+  "title": "Teddy Bears' Picnic",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7693988",
+    "imdb": "tt0250282",
+    "tmdb": 184835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

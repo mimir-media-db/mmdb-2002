@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_frank_mcklusky_ci_2002",
+  "title": "Frank McKlusky, C.I.",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5488342",
+    "imdb": "tt0281865",
+    "tmdb": 21220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

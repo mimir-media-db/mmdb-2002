@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kalachakram_2002",
+  "title": "Kalachakram",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18142420",
+    "imdb": "tt0355627",
+    "tmdb": 994079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

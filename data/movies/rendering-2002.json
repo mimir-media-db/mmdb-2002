@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rendering_2002",
+  "title": "The Rendering",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1665902",
+    "imdb": "tt0299110",
+    "tmdb": 82961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 88
+}

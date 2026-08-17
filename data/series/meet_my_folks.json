@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_meet_my_folks",
+  "title": "Meet My Folks",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q6807792",
+    "imdb": "tt0327331",
+    "tmdb": 12728
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

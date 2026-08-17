@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_por_ti",
+  "title": "Por ti",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7229915",
+    "imdb": "tt0315046",
+    "tmdb": 32500
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 130
+}

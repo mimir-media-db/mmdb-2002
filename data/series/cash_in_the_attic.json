@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cash_in_the_attic",
+  "title": "Cash in the Attic",
+  "start_year": 2002,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2897060",
+    "imdb": "tt0426342",
+    "tmdb": 4505
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 586
+}

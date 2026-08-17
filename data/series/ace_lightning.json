@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ace_lightning",
+  "title": "Ace Lightning",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3604226",
+    "imdb": "tt0309125",
+    "tmdb": 506
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 39
+}

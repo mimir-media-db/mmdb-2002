@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiger_of_santa_julia_2002",
+  "title": "The Tiger of Santa Julia",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5826886",
+    "imdb": "tt0315638",
+    "tmdb": 73524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 128
+}

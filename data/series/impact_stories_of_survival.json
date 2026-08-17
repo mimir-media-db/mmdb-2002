@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_impact_stories_of_survival",
+  "title": "Impact: Stories of Survival",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q15036222",
+    "imdb": "tt0385423",
+    "tmdb": 11435
+  },
+  "last_updated": "2026-08-17"
+}

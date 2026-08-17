@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jedan_na_jedan_2002",
+  "title": "Jedan na jedan",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3176342",
+    "imdb": "tt0284217",
+    "tmdb": 315631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

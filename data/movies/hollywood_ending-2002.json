@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hollywood_ending_2002",
+  "title": "Hollywood Ending",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q582021",
+    "imdb": "tt0278823",
+    "tmdb": 9689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 112
+}

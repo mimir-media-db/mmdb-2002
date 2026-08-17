@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raajjiyam_2002",
+  "title": "Raajjiyam",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4122012",
+    "imdb": "tt12089310",
+    "tmdb": 78956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

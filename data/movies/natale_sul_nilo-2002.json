@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_natale_sul_nilo_2002",
+  "title": "Natale sul Nilo",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3429426",
+    "imdb": "tt0337689",
+    "tmdb": 42432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 103
+}

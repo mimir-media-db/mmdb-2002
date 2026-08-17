@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fraternity_2002",
+  "title": "The Fraternity",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7735175",
+    "imdb": "tt0281726",
+    "tmdb": 188102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fabrika_zvezd",
+  "title": "Fabrika Zvezd",
+  "start_year": 2002,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q899556",
+    "imdb": "tt0470010",
+    "tmdb": 35988
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12
+}

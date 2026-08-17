@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_murderers_diary",
+  "title": "The Murderer's Diary",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q4163090",
+    "imdb": "tt1445835",
+    "tmdb": 72687
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

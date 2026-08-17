@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plan_b_2002",
+  "title": "Plan B",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1524217",
+    "imdb": "tt0249082",
+    "tmdb": 36563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 96
+}

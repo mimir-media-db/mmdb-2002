@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_marias_2002",
+  "title": "The Three Marias",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7769025",
+    "imdb": "tt0327201",
+    "tmdb": 61939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

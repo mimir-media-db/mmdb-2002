@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_premer_taj_mahal_2002",
+  "title": "Premer Taj Mahal",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7240255",
+    "imdb": "tt2048834",
+    "tmdb": 1678651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

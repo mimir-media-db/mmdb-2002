@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_story_so_far_2002",
+  "title": "The Story So Far",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7766725"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

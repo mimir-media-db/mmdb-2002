@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kachorra",
+  "title": "Kachorra",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q898121",
+    "imdb": "tt0309135",
+    "tmdb": 115024
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 150
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_g4tvcom",
+  "title": "G4tv.com",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5512721",
+    "imdb": "tt0367325",
+    "tmdb": 10506
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 173
+}

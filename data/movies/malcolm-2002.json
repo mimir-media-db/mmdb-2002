@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_malcolm_2002",
+  "title": "Malcolm",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14955377",
+    "imdb": "tt0308544"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

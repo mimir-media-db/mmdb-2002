@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crisis_in_havana_2002",
+  "title": "Crisis in Havana",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1360991",
+    "imdb": "tt0311081",
+    "tmdb": 25794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rebrand",
+  "title": "RE:Brand",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7276270",
+    "imdb": "tt1113595",
+    "tmdb": 5062
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

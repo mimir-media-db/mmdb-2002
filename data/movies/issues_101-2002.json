@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_issues_101_2002",
+  "title": "Issues 101",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6088408",
+    "imdb": "tt0339209",
+    "tmdb": 84935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

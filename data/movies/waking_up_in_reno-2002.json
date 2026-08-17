@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_waking_up_in_reno_2002",
+  "title": "Waking Up in Reno",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1654891",
+    "imdb": "tt0219400",
+    "tmdb": 21118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 91
+}

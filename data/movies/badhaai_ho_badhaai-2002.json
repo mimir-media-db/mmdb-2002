@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_badhaai_ho_badhaai_2002",
+  "title": "Badhaai Ho Badhaai",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2878617",
+    "imdb": "tt0325041",
+    "tmdb": 234179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

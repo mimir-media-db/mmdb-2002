@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_friends_2002",
+  "title": "Friends",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248423",
+    "imdb": "tt14090954",
+    "tmdb": 1515332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

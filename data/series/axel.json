@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_axel",
+  "title": "Axel!",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q791950",
+    "imdb": "tt0344620",
+    "tmdb": 39820
+  },
+  "last_updated": "2026-08-17"
+}

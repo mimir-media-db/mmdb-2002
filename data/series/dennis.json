@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dennis",
+  "title": "Dennis",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2150205",
+    "imdb": "tt0300750",
+    "tmdb": 117313
+  },
+  "last_updated": "2026-08-17"
+}

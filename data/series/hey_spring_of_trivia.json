@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_hey_spring_of_trivia",
+  "title": "Hey! Spring of Trivia",
+  "start_year": 2002,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1520132"
+  },
+  "last_updated": "2026-08-17"
+}

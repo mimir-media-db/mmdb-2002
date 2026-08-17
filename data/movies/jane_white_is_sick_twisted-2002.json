@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jane_white_is_sick_twisted_2002",
+  "title": "Jane White Is Sick & Twisted",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2398702",
+    "imdb": "tt0271018",
+    "tmdb": 113449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

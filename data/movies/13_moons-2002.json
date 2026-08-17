@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_13_moons_2002",
+  "title": "13 Moons",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138697",
+    "imdb": "tt0276744",
+    "tmdb": 43656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 93
+}

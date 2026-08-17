@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_alamein_the_line_of_fire_2002",
+  "title": "El Alamein - The Line of Fire",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2265600",
+    "imdb": "tt0329042",
+    "tmdb": 26495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 114
+}

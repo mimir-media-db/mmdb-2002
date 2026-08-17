@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_legal_entanglement",
+  "title": "Legal Entanglement",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q2645460",
+    "imdb": "tt2040978",
+    "tmdb": 108216
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 22
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_demihaunted_2002",
+  "title": "Demi-Haunted",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3022100",
+    "imdb": "tt0354498",
+    "tmdb": 462773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

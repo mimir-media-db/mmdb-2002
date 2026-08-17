@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sleepless_nights_2002",
+  "title": "Sleepless Nights",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7539921",
+    "imdb": "tt0326635",
+    "tmdb": 294753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

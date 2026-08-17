@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marlene_dietrich_her_own_song_2002",
+  "title": "Marlene Dietrich – Her Own Song",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1472125",
+    "imdb": "tt0268443",
+    "tmdb": 104099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 105
+}

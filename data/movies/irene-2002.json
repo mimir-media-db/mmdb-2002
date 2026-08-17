@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_irene_2002",
+  "title": "Irene",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7884778",
+    "imdb": "tt0296686",
+    "tmdb": 63989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_double_vision_2002",
+  "title": "Double Vision",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q364361",
+    "imdb": "tt0284066",
+    "tmdb": 57100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 105
+}

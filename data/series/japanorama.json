@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_japanorama",
+  "title": "Japanorama",
+  "start_year": 2002,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q11226870",
+    "imdb": "tt0373545",
+    "tmdb": 2699
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

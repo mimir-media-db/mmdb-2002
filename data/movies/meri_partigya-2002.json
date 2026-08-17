@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meri_partigya_2002",
+  "title": "Meri Partigya",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6819163",
+    "imdb": "tt2009523",
+    "tmdb": 651535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

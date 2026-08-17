@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_satin_2002",
+  "title": "Red Satin",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3012352",
+    "imdb": "tt0300453",
+    "tmdb": 97447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 100
+}

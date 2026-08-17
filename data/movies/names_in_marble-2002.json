@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_names_in_marble_2002",
+  "title": "Names in Marble",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1992591",
+    "imdb": "tt0339450",
+    "tmdb": 46890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 95
+}

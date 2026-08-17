@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kadhal_azhivathillai_2002",
+  "title": "Kadhal Azhivathillai",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6345411",
+    "imdb": "tt8669138",
+    "tmdb": 66215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

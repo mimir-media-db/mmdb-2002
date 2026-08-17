@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hidden_hills",
+  "title": "Hidden Hills",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q5751834",
+    "imdb": "tt0320030",
+    "tmdb": 19989
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 18
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wild_west",
+  "title": "Wild West",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q8000845",
+    "imdb": "tt0337791",
+    "tmdb": 6401
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

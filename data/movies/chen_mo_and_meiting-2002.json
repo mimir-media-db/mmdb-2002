@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chen_mo_and_meiting_2002",
+  "title": "Chen Mo and Meiting",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5090856",
+    "imdb": "tt0310870",
+    "tmdb": 11735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 78
+}

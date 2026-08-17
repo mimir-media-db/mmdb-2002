@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_juulias_thruths",
+  "title": "Juulia's Thruths",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11868140",
+    "imdb": "tt0341162",
+    "tmdb": 319972
+  },
+  "last_updated": "2026-08-17"
+}

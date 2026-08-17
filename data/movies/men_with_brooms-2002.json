@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_men_with_brooms_2002",
+  "title": "Men with Brooms",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2474634",
+    "imdb": "tt0263734",
+    "tmdb": 34341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 102
+}

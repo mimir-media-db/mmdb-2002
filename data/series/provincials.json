@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_provincials",
+  "title": "Provincials",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4379634",
+    "imdb": "tt0383137"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

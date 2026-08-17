@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heavens_seven_2002",
+  "title": "Heaven's Seven",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13012321",
+    "imdb": "tt0329962",
+    "tmdb": 249612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_new_century_ultraman_legend_2002",
+  "title": "New Century Ultraman Legend",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11501093",
+    "imdb": "tt1260506",
+    "tmdb": 645093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

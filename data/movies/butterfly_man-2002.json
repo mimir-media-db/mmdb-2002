@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_butterfly_man_2002",
+  "title": "Butterfly Man",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5002948",
+    "imdb": "tt0283972",
+    "tmdb": 162168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

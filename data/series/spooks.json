@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_spooks",
+  "title": "Spooks",
+  "start_year": 2002,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q680722",
+    "imdb": "tt0160904",
+    "tmdb": 4046
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 86
+}

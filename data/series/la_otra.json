@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_otra",
+  "title": "La Otra",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q1248297",
+    "imdb": "tt0318915",
+    "tmdb": 16305
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 89
+}

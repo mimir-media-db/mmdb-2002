@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tree_that_remembers_2002",
+  "title": "The Tree That Remembers",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7770082",
+    "imdb": "tt0467419",
+    "tmdb": 274736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

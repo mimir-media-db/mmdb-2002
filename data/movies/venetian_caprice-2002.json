@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_venetian_caprice_2002",
+  "title": "Venetian Caprice",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3657868",
+    "imdb": "tt0407623",
+    "tmdb": 359087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crime_and_punishment_2002",
+  "title": "Crime and Punishment",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8911249",
+    "imdb": "tt0096056",
+    "tmdb": 109809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 126
+}

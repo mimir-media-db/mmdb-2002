@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angel_blade_2002",
+  "title": "Angel Blade",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4762087",
+    "imdb": "tt0291180",
+    "tmdb": 84800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 95
+}

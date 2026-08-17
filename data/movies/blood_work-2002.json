@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_work_2002",
+  "title": "Blood Work",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q598338",
+    "imdb": "tt0309377",
+    "tmdb": 9573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 106
+}

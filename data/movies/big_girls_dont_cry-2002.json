@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_girls_dont_cry_2002",
+  "title": "Big Girls Don't Cry",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q822177",
+    "imdb": "tt0291213",
+    "tmdb": 10636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 87
+}

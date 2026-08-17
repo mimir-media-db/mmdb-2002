@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_willfull_2002",
+  "title": "WillFull",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8002650",
+    "imdb": "tt0281370",
+    "tmdb": 41399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

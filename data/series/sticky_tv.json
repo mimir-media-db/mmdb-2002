@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_sticky_tv",
+  "title": "Sticky TV",
+  "start_year": 2001,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q7616321",
+    "imdb": "tt1405304"
+  },
+  "last_updated": "2026-08-17"
+}

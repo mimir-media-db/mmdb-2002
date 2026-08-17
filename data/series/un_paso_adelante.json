@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_un_paso_adelante",
+  "title": "Un Paso Adelante",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q602307",
+    "imdb": "tt0338639",
+    "tmdb": 6798
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 84
+}

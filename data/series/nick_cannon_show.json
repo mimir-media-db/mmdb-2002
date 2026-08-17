@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nick_cannon_show",
+  "title": "The Nick Cannon Show",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7754033",
+    "imdb": "tt0298682",
+    "tmdb": 1910
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 27
+}

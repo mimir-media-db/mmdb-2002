@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tigress_of_king_river_2002",
+  "title": "Tigress of King River",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16139631",
+    "imdb": "tt2581670",
+    "tmdb": 244307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

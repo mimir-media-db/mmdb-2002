@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_taboo",
+  "title": "Taboo",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3623684",
+    "imdb": "tt0330958",
+    "tmdb": 6733
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 78
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ballistic_ecks_vs_sever_2002",
+  "title": "Ballistic: Ecks vs. Sever",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q789477",
+    "imdb": "tt0308208",
+    "tmdb": 10550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_and_mrs_iyer_2002",
+  "title": "Mr. and Mrs. Iyer",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3524880",
+    "imdb": "tt0329393",
+    "tmdb": 41184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 123
+}

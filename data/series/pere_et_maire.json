@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pere_et_maire",
+  "title": "Père et maire",
+  "start_year": 2001,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3411601",
+    "imdb": "tt0310511",
+    "tmdb": 72064
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

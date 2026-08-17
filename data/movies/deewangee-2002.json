@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deewangee_2002",
+  "title": "Deewangee",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5251032",
+    "imdb": "tt0337971",
+    "tmdb": 78827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_story_makers",
+  "title": "The Story Makers",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7766717",
+    "imdb": "tt0313130",
+    "tmdb": 3468
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 245
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_children_on_their_birthdays_2002",
+  "title": "Children on Their Birthdays",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3818457",
+    "imdb": "tt0283991",
+    "tmdb": 206042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 102
+}

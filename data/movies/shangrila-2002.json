@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shangrila_2002",
+  "title": "Shangri-La",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3481408",
+    "imdb": "tt0316819",
+    "tmdb": 46130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 105
+}

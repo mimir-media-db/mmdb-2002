@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_greg_the_bunny",
+  "title": "Greg the Bunny",
+  "start_year": 2002,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1325997",
+    "imdb": "tt0280257",
+    "tmdb": 846
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 32
+}

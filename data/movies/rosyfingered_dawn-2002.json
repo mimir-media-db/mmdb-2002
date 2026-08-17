@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rosyfingered_dawn_2002",
+  "title": "Rosy-Fingered Dawn",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3941726",
+    "imdb": "tt0332741",
+    "tmdb": 221889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

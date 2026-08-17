@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_subete_a_mi_moto",
+  "title": "Súbete A Mi Moto",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7666664",
+    "imdb": "tt0326710",
+    "tmdb": 33262
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 150
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_breeze_block",
+  "title": "Breeze Block",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q4960334",
+    "imdb": "tt0328735",
+    "tmdb": 7465
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dave_mason_live_at_sunrise_2002",
+  "title": "Dave Mason: Live at Sunrise",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5229291",
+    "imdb": "tt0847479",
+    "tmdb": 274256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_la_nit_al_dia",
+  "title": "La nit al dia",
+  "start_year": 2002,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q948133",
+    "imdb": "tt0454030"
+  },
+  "last_updated": "2026-08-17"
+}

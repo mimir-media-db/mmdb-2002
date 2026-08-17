@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_franklins_magic_christmas_2002",
+  "title": "Franklin's Magic Christmas",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5491136",
+    "imdb": "tt0329098",
+    "tmdb": 26995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

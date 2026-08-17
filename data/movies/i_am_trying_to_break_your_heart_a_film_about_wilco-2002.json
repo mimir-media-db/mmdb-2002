@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_trying_to_break_your_heart_a_film_about_wilco_2002",
+  "title": "I Am Trying to Break Your Heart: A Film About Wilco",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3147043",
+    "imdb": "tt0327920",
+    "tmdb": 14308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 92
+}

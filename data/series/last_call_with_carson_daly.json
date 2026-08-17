@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_last_call_with_carson_daly",
+  "title": "Last Call with Carson Daly",
+  "start_year": 2002,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q3075533",
+    "imdb": "tt0305056",
+    "tmdb": 5330
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 17,
+  "total_episodes": 2000
+}

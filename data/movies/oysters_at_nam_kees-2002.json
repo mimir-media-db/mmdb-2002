@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oysters_at_nam_kees_2002",
+  "title": "Oysters at Nam Kee's",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1875277",
+    "imdb": "tt0301245",
+    "tmdb": 37602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 99
+}

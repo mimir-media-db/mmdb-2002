@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_chhotisi_love_story_2002",
+  "title": "Ek Chhotisi Love Story",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5350180",
+    "imdb": "tt0331479",
+    "tmdb": 117142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

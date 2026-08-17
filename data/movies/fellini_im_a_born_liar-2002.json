@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fellini_im_a_born_liar_2002",
+  "title": "Fellini: I'm a Born Liar",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3068188",
+    "imdb": "tt0314062",
+    "tmdb": 203252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 105
+}

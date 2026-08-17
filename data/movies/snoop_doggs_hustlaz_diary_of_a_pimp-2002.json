@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snoop_doggs_hustlaz_diary_of_a_pimp_2002",
+  "title": "Snoop Dogg's Hustlaz: Diary of a Pimp",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q826678",
+    "imdb": "tt0337977",
+    "tmdb": 268034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 101
+}

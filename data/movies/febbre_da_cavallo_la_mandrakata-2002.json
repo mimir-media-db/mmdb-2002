@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_febbre_da_cavallo_la_mandrakata_2002",
+  "title": "Febbre da cavallo – La mandrakata",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3740608",
+    "imdb": "tt0338998",
+    "tmdb": 38529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 104
+}

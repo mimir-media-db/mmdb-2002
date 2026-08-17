@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_my_skin_2002",
+  "title": "In My Skin",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3015557",
+    "imdb": "tt0337961",
+    "tmdb": 1836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 93
+}

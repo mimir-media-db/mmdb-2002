@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intended_2002",
+  "title": "The Intended",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7742251",
+    "imdb": "tt0331525",
+    "tmdb": 205481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 110
+}

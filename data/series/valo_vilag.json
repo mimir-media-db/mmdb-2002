@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_valo_vilag",
+  "title": "Való Világ",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q832913",
+    "imdb": "tt12258134",
+    "tmdb": 20812
+  },
+  "last_updated": "2026-08-17"
+}

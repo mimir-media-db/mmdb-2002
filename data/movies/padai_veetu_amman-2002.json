@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_padai_veetu_amman_2002",
+  "title": "Padai Veetu Amman",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7123186",
+    "imdb": "tt0829141",
+    "tmdb": 502273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_idols",
+  "title": "Idols",
+  "start_year": 2002,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q685522",
+    "imdb": "tt0364820"
+  },
+  "last_updated": "2026-08-17"
+}

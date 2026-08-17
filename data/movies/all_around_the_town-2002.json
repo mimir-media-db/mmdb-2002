@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_around_the_town_2002",
+  "title": "All Around the Town",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1171944",
+    "imdb": "tt0302247",
+    "tmdb": 126960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 95
+}

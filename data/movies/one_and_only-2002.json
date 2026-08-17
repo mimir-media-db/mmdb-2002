@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_and_only_2002",
+  "title": "The One and Only",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3490017",
+    "imdb": "tt0286864",
+    "tmdb": 51873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nothing_so_strange_2002",
+  "title": "Nothing So Strange",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7062838",
+    "imdb": "tt0274639",
+    "tmdb": 219754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

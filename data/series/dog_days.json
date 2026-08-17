@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dog_days",
+  "title": "Dog Days",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5288170",
+    "imdb": "tt0338598",
+    "tmdb": 9333
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

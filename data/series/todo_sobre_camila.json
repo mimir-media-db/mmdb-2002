@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_todo_sobre_camila",
+  "title": "Todo Sobre Camila",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7812808",
+    "imdb": "tt0361247",
+    "tmdb": 137210
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 110
+}

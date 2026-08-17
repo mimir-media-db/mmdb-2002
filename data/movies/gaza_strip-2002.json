@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gaza_strip_2002",
+  "title": "Gaza Strip",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5528974",
+    "imdb": "tt0329112",
+    "tmdb": 61402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

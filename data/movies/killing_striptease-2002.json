@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_striptease_2002",
+  "title": "Killing Striptease",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3637765",
+    "imdb": "tt0421710",
+    "tmdb": 88662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 96
+}

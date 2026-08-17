@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_amants_du_nil_2002",
+  "title": "Les amants du Nil",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3230468",
+    "imdb": "tt0279871",
+    "tmdb": 119692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 90
+}

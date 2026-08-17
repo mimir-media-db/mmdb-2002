@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_csi_miami",
+  "title": "CSI: Miami",
+  "start_year": 2002,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q189411",
+    "imdb": "tt0313043",
+    "tmdb": 1620
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 232
+}

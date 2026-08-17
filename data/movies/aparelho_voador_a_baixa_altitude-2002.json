@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aparelho_voador_a_baixa_altitude_2002",
+  "title": "Aparelho Voador a Baixa Altitude",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4779138",
+    "imdb": "tt0190975",
+    "tmdb": 245896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 80
+}

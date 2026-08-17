@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karmegham_2002",
+  "title": "Karmegham",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6372731",
+    "imdb": "tt0364455",
+    "tmdb": 429780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

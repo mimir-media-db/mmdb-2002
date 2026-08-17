@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_square_pegs",
+  "title": "Square Pegs",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7582051",
+    "imdb": "tt6280256",
+    "tmdb": 17520
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

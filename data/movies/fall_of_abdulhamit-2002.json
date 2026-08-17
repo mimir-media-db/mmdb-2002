@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fall_of_abdulhamit_2002",
+  "title": "The Fall of Abdulhamit",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6094082",
+    "imdb": "tt0363410",
+    "tmdb": 52090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

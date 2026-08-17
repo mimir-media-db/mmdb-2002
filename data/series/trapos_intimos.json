@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_trapos_intimos",
+  "title": "Trapos íntimos",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3538048",
+    "imdb": "tt0348238",
+    "tmdb": 313322
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 188
+}

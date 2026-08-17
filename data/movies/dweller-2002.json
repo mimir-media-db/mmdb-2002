@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dweller_2002",
+  "title": "Dweller",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5318068",
+    "imdb": "tt0385667",
+    "tmdb": 147061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

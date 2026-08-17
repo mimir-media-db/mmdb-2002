@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_campeuses_de_sainttropez_2002",
+  "title": "Les Campeuses de Saint-Tropez",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3231256",
+    "imdb": "tt0358411",
+    "tmdb": 196457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_free_at_last_the_movie_2002",
+  "title": "Free at Last: The Movie",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5500188",
+    "imdb": "tt0359127",
+    "tmdb": 375257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

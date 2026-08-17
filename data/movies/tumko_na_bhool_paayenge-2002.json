@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tumko_na_bhool_paayenge_2002",
+  "title": "Tumko Na Bhool Paayenge",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q495113",
+    "imdb": "tt0310254",
+    "tmdb": 55212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 160
+}
