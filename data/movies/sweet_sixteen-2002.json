@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_sixteen_2002",
+  "title": "Sweet Sixteen",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1719141",
+    "imdb": "tt0313670",
+    "tmdb": 1376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-21",
+  "runtime_minutes": 102
+}

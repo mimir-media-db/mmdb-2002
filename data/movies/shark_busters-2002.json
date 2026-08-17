@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shark_busters_2002",
+  "title": "Shark Busters",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64515585",
+    "imdb": "tt0352190",
+    "tmdb": 311725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 95
+}

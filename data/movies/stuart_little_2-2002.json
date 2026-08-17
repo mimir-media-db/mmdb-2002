@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stuart_little_2_2002",
+  "title": "Stuart Little 2",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1070554",
+    "imdb": "tt0243585",
+    "tmdb": 10996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-19",
+  "runtime_minutes": 77
+}

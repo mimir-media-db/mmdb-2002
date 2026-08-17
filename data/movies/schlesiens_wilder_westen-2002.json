@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_schlesiens_wilder_westen_2002",
+  "title": "Schlesiens wilder Westen",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23793541",
+    "imdb": "tt0425432",
+    "tmdb": 1205898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-14"
+}

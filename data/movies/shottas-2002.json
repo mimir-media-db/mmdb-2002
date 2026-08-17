@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shottas_2002",
+  "title": "Shottas",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1859866",
+    "imdb": "tt0281190",
+    "tmdb": 13830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-27",
+  "runtime_minutes": 95
+}

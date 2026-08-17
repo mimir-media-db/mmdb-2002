@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sur_le_bout_des_doigts_2002",
+  "title": "Sur le bout des doigts",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39071485",
+    "imdb": "tt0297301",
+    "tmdb": 329538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

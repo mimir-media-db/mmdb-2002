@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_selen_the_girl_of_the_treasure_island_2002",
+  "title": "Selen The Girl of the Treasure Island",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135094718",
+    "imdb": "tt0271167",
+    "tmdb": 371448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-07-25",
+  "runtime_minutes": 95
+}

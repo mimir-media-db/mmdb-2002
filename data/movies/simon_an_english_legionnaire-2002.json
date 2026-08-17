@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_simon_an_english_legionnaire_2002",
+  "title": "Simon: An English Legionnaire",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21060579",
+    "imdb": "tt0313608",
+    "tmdb": 63971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

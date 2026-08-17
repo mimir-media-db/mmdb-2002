@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_simhadriya_simha_2002",
+  "title": "Simhadriya Simha",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254284",
+    "imdb": "tt4966270",
+    "tmdb": 1107402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-06-07"
+}

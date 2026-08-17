@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_and_the_teenage_mind_2002",
+  "title": "Sex and the Teenage Mind",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133461061",
+    "imdb": "tt0299203",
+    "tmdb": 26449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

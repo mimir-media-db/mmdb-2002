@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_and_lucia_2002",
+  "title": "Sex and Lucia",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1633225",
+    "imdb": "tt0254455",
+    "tmdb": 1364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-09-05",
+  "runtime_minutes": 123
+}

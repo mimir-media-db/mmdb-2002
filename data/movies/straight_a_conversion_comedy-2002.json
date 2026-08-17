@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_straight_a_conversion_comedy_2002",
+  "title": "Straight: A Conversion Comedy",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131574925",
+    "imdb": "tt11835994",
+    "tmdb": 754482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

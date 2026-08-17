@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_son_of_the_bride_2002",
+  "title": "Son of the Bride",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59543",
+    "imdb": "tt0292542",
+    "tmdb": 19460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-12-26",
+  "runtime_minutes": 123
+}

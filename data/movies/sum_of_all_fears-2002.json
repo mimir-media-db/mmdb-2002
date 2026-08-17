@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sum_of_all_fears_2002",
+  "title": "The Sum of All Fears",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1048846",
+    "imdb": "tt0164184",
+    "tmdb": 4614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-29",
+  "runtime_minutes": 119
+}

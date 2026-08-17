@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stones_2002",
+  "title": "Stones",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3902763",
+    "imdb": "tt0310001",
+    "tmdb": 28204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-08",
+  "runtime_minutes": 135
+}

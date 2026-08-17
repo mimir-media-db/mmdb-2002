@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sinodutch_war_1661_2002",
+  "title": "The Sino-Dutch War 1661",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15954711",
+    "imdb": "tt0368276",
+    "tmdb": 221462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-11-02",
+  "runtime_minutes": 101
+}

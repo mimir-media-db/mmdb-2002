@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_dogs_2002",
+  "title": "Snow Dogs",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q968587",
+    "imdb": "tt0281373",
+    "tmdb": 11888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-18",
+  "runtime_minutes": 95
+}

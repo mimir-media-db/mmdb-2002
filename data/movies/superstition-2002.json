@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_superstition_2002",
+  "title": "Superstition",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2368090",
+    "imdb": "tt0292707",
+    "tmdb": 149897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-23",
+  "runtime_minutes": 90
+}

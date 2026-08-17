@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_star_of_christmas_2002",
+  "title": "The Star of Christmas",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7766294",
+    "imdb": "tt0399837",
+    "tmdb": 275068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-10-26",
+  "runtime_minutes": 48
+}

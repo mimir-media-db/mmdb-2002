@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spilt_gravy_on_rice_2002",
+  "title": "Spilt Gravy on Rice",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85982358",
+    "imdb": "tt2583428",
+    "tmdb": 985416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-06-01"
+}
