@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_family_affair",
+  "title": "Family Affair",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q55611447",
+    "imdb": "tt0318886",
+    "tmdb": 78945
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_flipside",
+  "title": "Flipside",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22032252",
+    "imdb": "tt0267178",
+    "tmdb": 25371
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_filter",
+  "title": "Filter",
+  "start_year": 2002,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1029390"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 129
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_flog_it",
+  "title": "Flog It!",
+  "start_year": 2002,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q5459980",
+    "imdb": "tt0320858",
+    "tmdb": 6434
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_friends",
+  "title": "Friends",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q623469",
+    "imdb": "tt0315608",
+    "tmdb": 4581
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

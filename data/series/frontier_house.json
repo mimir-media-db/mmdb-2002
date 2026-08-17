@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_frontier_house",
+  "title": "Frontier House",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5506004",
+    "imdb": "tt0320010",
+    "tmdb": 12079
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

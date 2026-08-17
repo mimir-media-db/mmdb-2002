@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fuori_corso",
+  "title": "Fuori corso",
+  "start_year": 2002,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3754682"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 205
+}
