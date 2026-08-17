@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_30_seconds_to_fame",
+  "title": "30 Seconds to Fame",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q4634534",
+    "imdb": "tt0329801",
+    "tmdb": 3179
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}
