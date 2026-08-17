@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_pepsi_battle_of_the_bands",
+  "title": "Pepsi Battle of the Bands",
+  "start_year": 2002,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q39058735"
+  },
+  "last_updated": "2026-08-17"
+}

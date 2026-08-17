@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pythagoraswitch",
+  "title": "PythagoraSwitch",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1062644",
+    "imdb": "tt0991057",
+    "tmdb": 13775
+  },
+  "last_updated": "2026-08-17"
+}

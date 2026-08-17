@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_private_detective_mike",
+  "title": "The Private Detective Mike",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q113993542",
+    "imdb": "tt0339390",
+    "tmdb": 135481
+  },
+  "last_updated": "2026-08-17"
+}

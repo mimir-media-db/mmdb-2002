@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_play_with_me_sesame",
+  "title": "Play with Me Sesame",
+  "start_year": 2002,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3235315",
+    "imdb": "tt0315045",
+    "tmdb": 10480
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 104
+}
