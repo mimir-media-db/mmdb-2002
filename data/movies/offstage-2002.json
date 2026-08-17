@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_offstage_2002",
+  "title": "Offstage",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44870434",
+    "imdb": "tt6355650",
+    "tmdb": 457944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
