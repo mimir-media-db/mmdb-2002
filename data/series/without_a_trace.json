@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_without_a_trace",
+  "title": "Without a Trace",
+  "start_year": 2002,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q826477",
+    "imdb": "tt0321021",
+    "tmdb": 2593
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 160
+}

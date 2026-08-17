@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_western_front",
+  "title": "The Western Front",
+  "start_year": 2001,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7774305",
+    "imdb": "tt0829079"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10
+}

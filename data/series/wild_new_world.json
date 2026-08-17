@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wild_new_world",
+  "title": "Wild New World",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q8000729",
+    "imdb": "tt10057864",
+    "tmdb": 8633
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

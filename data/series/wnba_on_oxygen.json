@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_wnba_on_oxygen",
+  "title": "WNBA on Oxygen",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q96414153"
+  },
+  "last_updated": "2026-08-17"
+}

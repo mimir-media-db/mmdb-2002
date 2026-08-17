@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_what_the_tudors_did_for_us",
+  "title": "What the Tudors Did for Us",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7991639",
+    "imdb": "tt0424743",
+    "tmdb": 7338
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

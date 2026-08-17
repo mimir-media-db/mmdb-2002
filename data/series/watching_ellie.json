@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_watching_ellie",
+  "title": "Watching Ellie",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q537116",
+    "imdb": "tt0306410",
+    "tmdb": 847
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

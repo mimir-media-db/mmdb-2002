@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_white_collar_blue",
+  "title": "White Collar Blue",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7994591",
+    "imdb": "tt0327379",
+    "tmdb": 2154
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 44
+}
