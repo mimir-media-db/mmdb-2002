@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gautam_govinda_2002",
+  "title": "Gautam Govinda",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5527879",
+    "imdb": "tt2009480",
+    "tmdb": 378948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

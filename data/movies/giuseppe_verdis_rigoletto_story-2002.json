@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_giuseppe_verdis_rigoletto_story_2002",
+  "title": "Giuseppe Verdi's Rigoletto Story",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5565539",
+    "imdb": "tt0757889",
+    "tmdb": 309932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}
