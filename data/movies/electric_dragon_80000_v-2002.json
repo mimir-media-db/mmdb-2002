@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_electric_dragon_80000_v_2002",
+  "title": "Electric Dragon 80.000 V",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3050556",
+    "imdb": "tt0276935",
+    "tmdb": 27245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-03-07",
+  "runtime_minutes": 55
+}

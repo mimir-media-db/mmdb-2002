@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_negre_es_el_color_dels_deus_2002",
+  "title": "El negre és el color dels déus",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85880743",
+    "imdb": "tt0336902",
+    "tmdb": 480696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 10
+}

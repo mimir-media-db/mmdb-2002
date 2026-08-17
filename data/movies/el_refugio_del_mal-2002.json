@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_refugio_del_mal_2002",
+  "title": "El refugio del mal",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87072011",
+    "imdb": "tt0318021",
+    "tmdb": 119259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-12-20",
+  "runtime_minutes": 96
+}

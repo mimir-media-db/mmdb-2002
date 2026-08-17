@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_eri_naam_dosti_2002",
+  "title": "Eri Naam Dosti",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96211931",
+    "imdb": "tt2171464"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01"
+}

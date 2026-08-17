@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enough_2002",
+  "title": "Enough",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q179100",
+    "imdb": "tt0278435",
+    "tmdb": 1957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-24",
+  "runtime_minutes": 110
+}

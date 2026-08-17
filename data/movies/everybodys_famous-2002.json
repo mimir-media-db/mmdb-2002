@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everybodys_famous_2002",
+  "title": "Everybody's Famous!",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q485756",
+    "imdb": "tt0209037",
+    "tmdb": 58886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-02-07",
+  "runtime_minutes": 97
+}

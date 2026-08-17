@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elling_2002",
+  "title": "Elling",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q303312",
+    "imdb": "tt0279064",
+    "tmdb": 6007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-05-02",
+  "runtime_minutes": 85
+}

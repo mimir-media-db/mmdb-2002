@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_caina_los_chicos_de_la_calle_2002",
+  "title": "El c.A.I.N.A.: Los chicos de la calle",
+  "year": 2002,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111672638",
+    "imdb": "tt0343511",
+    "tmdb": 721465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2002-01-01",
+  "runtime_minutes": 75
+}
