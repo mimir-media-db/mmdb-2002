@@ -15,5 +15,10 @@
   "genres": [
     "Short"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "FR",
+    "MX",
+    "PE"
+  ]
 }
