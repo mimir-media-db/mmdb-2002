@@ -9,7 +9,13 @@
     "imdb": "tt0307873",
     "tmdb": 20731
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2002-03-12",
-  "runtime_minutes": 151
+  "runtime_minutes": 151,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Musical"
+  ],
+  "is_adult": false
 }

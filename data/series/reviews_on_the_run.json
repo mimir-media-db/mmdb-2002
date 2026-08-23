@@ -9,6 +9,12 @@
     "imdb": "tt0367347",
     "tmdb": 11143
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 8
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "genres": [
+    "Family",
+    "Reality-TV",
+    "Talk-Show"
+  ],
+  "is_adult": false
 }

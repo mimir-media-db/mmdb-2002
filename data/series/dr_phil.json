@@ -9,7 +9,12 @@
     "imdb": "tt0329824",
     "tmdb": 4652
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 21,
-  "total_episodes": 3505
+  "total_episodes": 3505,
+  "genres": [
+    "Drama",
+    "Talk-Show"
+  ],
+  "is_adult": false
 }

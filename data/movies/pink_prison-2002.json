@@ -9,7 +9,12 @@
     "imdb": "tt0221479",
     "tmdb": 259636
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2002-06-01",
-  "runtime_minutes": 86
+  "runtime_minutes": 86,
+  "genres": [
+    "Adult",
+    "Thriller"
+  ],
+  "is_adult": true
 }

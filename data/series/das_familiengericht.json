@@ -8,5 +8,9 @@
     "wikidata": "Q1167783",
     "imdb": "tt0355081"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false
 }

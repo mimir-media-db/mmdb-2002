@@ -8,6 +8,10 @@
     "wikidata": "Q6181237",
     "tmdb": 42322
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 5
+  "last_updated": "2026-08-23",
+  "total_episodes": 5,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false
 }

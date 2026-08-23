@@ -9,6 +9,12 @@
     "imdb": "tt0335057",
     "tmdb": 253085
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2002-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2002-01-01",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "is_adult": false
 }

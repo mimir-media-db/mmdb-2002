@@ -9,7 +9,12 @@
     "imdb": "tt0245171",
     "tmdb": 68569
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2002-01-17",
-  "runtime_minutes": 133
+  "runtime_minutes": 133,
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "is_adult": false
 }

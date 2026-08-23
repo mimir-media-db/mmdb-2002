@@ -7,7 +7,11 @@
   "external_ids": {
     "wikidata": "Q26869601"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 7,
-  "total_episodes": 300
+  "total_episodes": 300,
+  "genres": [
+    "Televised theater"
+  ],
+  "is_adult": false
 }

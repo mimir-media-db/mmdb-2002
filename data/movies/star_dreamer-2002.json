@@ -9,7 +9,13 @@
     "imdb": "tt0339723",
     "tmdb": 335058
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2002-09-12",
-  "runtime_minutes": 55
+  "runtime_minutes": 55,
+  "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false
 }

@@ -9,6 +9,10 @@
     "imdb": "tt0483282",
     "tmdb": 476894
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2002-09-13"
+  "last_updated": "2026-08-23",
+  "release_date": "2002-09-13",
+  "genres": [
+    "Action"
+  ],
+  "is_adult": false
 }

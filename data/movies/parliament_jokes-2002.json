@@ -8,6 +8,10 @@
     "wikidata": "Q30592625",
     "imdb": "tt7731610"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2002-02-23"
+  "last_updated": "2026-08-23",
+  "release_date": "2002-02-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false
 }

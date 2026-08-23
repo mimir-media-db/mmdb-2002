@@ -8,7 +8,12 @@
     "wikidata": "Q62132686",
     "imdb": "tt0390061"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2002-01-01",
-  "runtime_minutes": 60
+  "runtime_minutes": 60,
+  "genres": [
+    "Comedy",
+    "Musical"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,12 @@
     "imdb": "tt0271259",
     "tmdb": 9260
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2002-05-24",
-  "runtime_minutes": 86
+  "runtime_minutes": 86,
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false
 }

@@ -8,6 +8,11 @@
     "wikidata": "Q624459",
     "tmdb": 26117
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 94
+  "last_updated": "2026-08-23",
+  "total_episodes": 94,
+  "genres": [
+    "historical fiction",
+    "drama television series"
+  ],
+  "is_adult": false
 }

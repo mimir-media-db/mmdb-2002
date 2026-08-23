@@ -9,7 +9,11 @@
     "imdb": "tt0329794",
     "tmdb": 432423
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2002-06-07",
-  "runtime_minutes": 80
+  "runtime_minutes": 80,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false
 }

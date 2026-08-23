@@ -9,6 +9,11 @@
     "imdb": "tt0301808",
     "tmdb": 167949
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2002-02-22"
+  "last_updated": "2026-08-23",
+  "release_date": "2002-02-22",
+  "genres": [
+    "Action",
+    "War"
+  ],
+  "is_adult": false
 }
