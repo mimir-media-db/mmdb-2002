@@ -9,7 +9,13 @@
     "imdb": "tt0309832",
     "tmdb": 46025
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2002-11-09",
-  "runtime_minutes": 86
+  "runtime_minutes": 86,
+  "genres": [
+    "Fantasy",
+    "Horror",
+    "Mystery"
+  ],
+  "is_adult": false
 }

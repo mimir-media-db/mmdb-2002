@@ -9,6 +9,11 @@
     "imdb": "tt6801910",
     "tmdb": 339829
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2002-04-14"
+  "last_updated": "2026-08-23",
+  "release_date": "2002-04-14",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "is_adult": false
 }

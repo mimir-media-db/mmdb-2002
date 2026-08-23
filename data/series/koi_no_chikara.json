@@ -8,6 +8,10 @@
     "wikidata": "Q5368373",
     "tmdb": 36091
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 12
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false
 }

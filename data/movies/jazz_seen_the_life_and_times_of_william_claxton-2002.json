@@ -9,6 +9,10 @@
     "imdb": "tt0206893",
     "tmdb": 861921
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2002-04-25"
+  "last_updated": "2026-08-23",
+  "release_date": "2002-04-25",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false
 }

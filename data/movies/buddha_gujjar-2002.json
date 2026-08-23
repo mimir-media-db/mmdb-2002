@@ -8,6 +8,12 @@
     "wikidata": "Q4984152",
     "imdb": "tt14216834"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2002-12-06"
+  "last_updated": "2026-08-23",
+  "release_date": "2002-12-06",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "is_adult": false
 }

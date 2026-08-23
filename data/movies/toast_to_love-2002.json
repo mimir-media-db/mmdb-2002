@@ -9,6 +9,12 @@
     "imdb": "tt0354684",
     "tmdb": 903885
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2002-11-16"
+  "last_updated": "2026-08-23",
+  "release_date": "2002-11-16",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Musical"
+  ],
+  "is_adult": false
 }

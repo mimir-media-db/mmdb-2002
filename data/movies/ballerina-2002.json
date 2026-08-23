@@ -8,7 +8,12 @@
     "wikidata": "Q33526957",
     "imdb": "tt2060482"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2002-01-01",
-  "runtime_minutes": 11
+  "runtime_minutes": 11,
+  "genres": [
+    "Animation",
+    "Short"
+  ],
+  "is_adult": false
 }

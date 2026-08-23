@@ -9,7 +9,11 @@
     "imdb": "tt0288115",
     "tmdb": 125794
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2002-01-03",
-  "runtime_minutes": 61
+  "runtime_minutes": 61,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false
 }

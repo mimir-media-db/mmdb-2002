@@ -9,6 +9,11 @@
     "imdb": "tt0369099",
     "tmdb": 2011
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 8
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Music"
+  ],
+  "is_adult": false
 }

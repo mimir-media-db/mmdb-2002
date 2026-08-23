@@ -9,6 +9,11 @@
     "imdb": "tt0367349",
     "tmdb": 3356
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 512
+  "last_updated": "2026-08-23",
+  "total_episodes": 512,
+  "genres": [
+    "Game-Show",
+    "Music"
+  ],
+  "is_adult": false
 }

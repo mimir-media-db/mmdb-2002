@@ -8,6 +8,10 @@
     "wikidata": "Q56490055",
     "imdb": "tt1449840"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2002-05-05"
+  "last_updated": "2026-08-23",
+  "release_date": "2002-05-05",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false
 }

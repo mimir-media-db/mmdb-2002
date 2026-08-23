@@ -8,6 +8,12 @@
     "wikidata": "Q58640399",
     "imdb": "tt4390072"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2002-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2002-01-01",
+  "genres": [
+    "Adult",
+    "Animation",
+    "Drama"
+  ],
+  "is_adult": true
 }

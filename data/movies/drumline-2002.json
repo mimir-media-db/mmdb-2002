@@ -9,7 +9,13 @@
     "imdb": "tt0303933",
     "tmdb": 13497
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2002-12-13",
-  "runtime_minutes": 113
+  "runtime_minutes": 113,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "is_adult": false
 }

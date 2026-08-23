@@ -8,5 +8,11 @@
     "wikidata": "Q10852257",
     "tmdb": 194487
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "variety show",
+    "talent show",
+    "owarai bangumi"
+  ],
+  "is_adult": false
 }

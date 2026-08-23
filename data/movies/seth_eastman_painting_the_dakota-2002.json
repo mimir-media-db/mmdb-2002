@@ -8,7 +8,12 @@
     "wikidata": "Q3958284",
     "imdb": "tt0297386"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2002-01-01",
-  "runtime_minutes": 60
+  "runtime_minutes": 60,
+  "genres": [
+    "Biography",
+    "Documentary"
+  ],
+  "is_adult": false
 }

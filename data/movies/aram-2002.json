@@ -9,6 +9,12 @@
     "imdb": "tt0338732",
     "tmdb": 110185
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2002-11-27"
+  "last_updated": "2026-08-23",
+  "release_date": "2002-11-27",
+  "genres": [
+    "Crime",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false
 }

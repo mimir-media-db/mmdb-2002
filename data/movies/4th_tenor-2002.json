@@ -9,6 +9,12 @@
     "imdb": "tt0275170",
     "tmdb": 61113
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2002-12-03"
+  "last_updated": "2026-08-23",
+  "release_date": "2002-12-03",
+  "genres": [
+    "Comedy",
+    "Music",
+    "Romance"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,12 @@
     "imdb": "tt0327408",
     "tmdb": 391418
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2002-07-26",
-  "runtime_minutes": 90
+  "runtime_minutes": 90,
+  "genres": [
+    "Adventure",
+    "Animation"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,13 @@
     "imdb": "tt0248667",
     "tmdb": 8489
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2002-08-15",
-  "runtime_minutes": 157
+  "runtime_minutes": 157,
+  "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "is_adult": false
 }
