@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_timm_thaler_2002",
+  "title": "Timm Thaler",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q1292042",
+    "imdb": "tt0390781",
+    "tmdb": 94395
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 26,
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_season_of_the_sun_2002",
+  "title": "Season of the Sun",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7441901",
+    "imdb": "tt0416428",
+    "tmdb": 8855
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

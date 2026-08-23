@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_great_ambition_2002",
+  "title": "The Great Ambition",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7246946"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 26,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

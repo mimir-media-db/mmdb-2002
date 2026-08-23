@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_forsyte_saga_2002",
+  "title": "The Forsyte Saga",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7734872",
+    "imdb": "tt0260615",
+    "tmdb": 19077
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 10,
+  "genres": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

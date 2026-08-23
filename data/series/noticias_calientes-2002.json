@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_noticias_calientes_2002",
+  "title": "Noticias Calientes",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q17996214",
+    "imdb": "tt0315692"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 130,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_howdi_gaudi_2001",
+  "title": "Howdi Gaudi",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q134624380"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "children's television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES",
+    "FR",
+    "GB",
+    "HK",
+    "US"
+  ]
+}

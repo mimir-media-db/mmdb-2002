@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_impact_xplosion_2002",
+  "title": "Impact! Xplosion",
+  "start_year": 2002,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q607183",
+    "imdb": "tt4368588",
+    "tmdb": 628
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 662,
+  "genres": [
+    "Action",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

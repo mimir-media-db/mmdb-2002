@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_kapalaran_2002",
+  "title": "Kapalaran",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q6366405",
+    "imdb": "tt0329861",
+    "tmdb": 39719
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 175,
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

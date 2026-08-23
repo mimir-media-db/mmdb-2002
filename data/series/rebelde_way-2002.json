@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_rebelde_way_2002",
+  "title": "Rebelde Way",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q1120316",
+    "imdb": "tt0328789",
+    "tmdb": 9027
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 318,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

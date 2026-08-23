@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_campfire_cafe_2002",
+  "title": "Campfire Café",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5028333"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

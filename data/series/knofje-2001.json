@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_knofje_2001",
+  "title": "Knofje",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q13744452",
+    "imdb": "tt0278211",
+    "tmdb": 35830
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": []
+}

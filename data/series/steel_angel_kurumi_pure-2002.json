@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_steel_angel_kurumi_pure_2002",
+  "title": "Steel Angel Kurumi Pure",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q132194617",
+    "imdb": "tt0991053"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 24,
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

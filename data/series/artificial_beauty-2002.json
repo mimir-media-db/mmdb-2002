@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_artificial_beauty_2002",
+  "title": "Artificial Beauty",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q11499652",
+    "imdb": "tt0327357",
+    "tmdb": 36917
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 11,
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

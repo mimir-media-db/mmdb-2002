@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_foyles_war_2002",
+  "title": "Foyle's War",
+  "start_year": 2002,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q2377188",
+    "imdb": "tt0310455",
+    "tmdb": 3163
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 28,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

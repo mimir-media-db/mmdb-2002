@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_most_haunted_live_2002",
+  "title": "Most Haunted Live!",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6916751",
+    "imdb": "tt0362355",
+    "tmdb": 5207
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Horror",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

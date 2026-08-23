@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_golden_bowl_2001",
+  "title": "Golden Bowl",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5356399",
+    "imdb": "tt0439071",
+    "tmdb": 36841
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

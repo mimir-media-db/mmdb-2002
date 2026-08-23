@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_american_family_2002",
+  "title": "American Family",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q4743725",
+    "imdb": "tt0303635",
+    "tmdb": 22859
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 35,
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

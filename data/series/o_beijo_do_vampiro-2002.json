@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_o_beijo_do_vampiro_2002",
+  "title": "O Beijo do Vampiro",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7073210",
+    "imdb": "tt0310419",
+    "tmdb": 8335
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 215,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

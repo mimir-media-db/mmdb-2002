@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_popstars_the_rivals_2002",
+  "title": "Popstars: The Rivals",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q7229624",
+    "imdb": "tt0328787",
+    "tmdb": 8178
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 18,
+  "genres": [
+    "Music",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

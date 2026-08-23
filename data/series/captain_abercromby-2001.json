@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_captain_abercromby_2001",
+  "title": "Captain Abercromby",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5036527"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 26,
+  "countries": [
+    "GB"
+  ]
+}

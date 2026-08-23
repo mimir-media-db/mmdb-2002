@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_magpakailanman_2002",
+  "title": "Magpakailanman",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6732403",
+    "imdb": "tt0399991",
+    "tmdb": 1313
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 265,
+  "genres": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

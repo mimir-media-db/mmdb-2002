@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_she_spies_2002",
+  "title": "She Spies",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q1970993",
+    "imdb": "tt0315064",
+    "tmdb": 476
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 40,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

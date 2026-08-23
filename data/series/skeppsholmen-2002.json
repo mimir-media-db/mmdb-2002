@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_skeppsholmen_2002",
+  "title": "Skeppsholmen",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q10670068",
+    "imdb": "tt0320958",
+    "tmdb": 246629
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 52,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

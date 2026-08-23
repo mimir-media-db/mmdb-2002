@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "s_lost_world_2001",
+  "title": "The Lost World",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2873489",
+    "imdb": "tt1071624",
+    "tmdb": 213319
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 26,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Animation"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "FR",
+    "LU"
+  ]
+}

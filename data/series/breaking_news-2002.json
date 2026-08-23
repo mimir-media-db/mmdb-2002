@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_breaking_news_2002",
+  "title": "Breaking News",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q4959563",
+    "imdb": "tt0245022",
+    "tmdb": 10728
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

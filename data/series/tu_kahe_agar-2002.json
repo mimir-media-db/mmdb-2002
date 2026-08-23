@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_tu_kahe_agar_2002",
+  "title": "Tu Kahe Agar",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7850524"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

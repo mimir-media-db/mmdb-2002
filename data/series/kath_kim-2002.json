@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_kath_kim_2002",
+  "title": "Kath & Kim",
+  "start_year": 2002,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6376050",
+    "imdb": "tt0272397",
+    "tmdb": 1772
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 32,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

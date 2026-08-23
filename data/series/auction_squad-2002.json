@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_auction_squad_2002",
+  "title": "Auction Squad",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q16826255"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

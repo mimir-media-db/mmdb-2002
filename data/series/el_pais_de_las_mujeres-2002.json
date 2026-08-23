@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_el_pais_de_las_mujeres_2002",
+  "title": "El país de las mujeres",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5826080",
+    "imdb": "tt0315043",
+    "tmdb": 318467
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 70,
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

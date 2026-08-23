@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_les_poupees_russes_2002",
+  "title": "Les Poupées russes",
+  "start_year": 2002,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3234864",
+    "imdb": "tt0307809"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 108,
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

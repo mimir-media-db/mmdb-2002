@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_jeremiah_2002",
+  "title": "Jeremiah",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q751059",
+    "imdb": "tt0290966",
+    "tmdb": 184
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 35,
+  "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

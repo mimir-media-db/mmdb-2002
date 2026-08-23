@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_mirall_trencat_2002",
+  "title": "Mirall trencat",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q108419031",
+    "imdb": "tt0343282"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_album_of_life_2002",
+  "title": "Album of Life",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11267297"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 219,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

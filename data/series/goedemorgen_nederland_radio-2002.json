@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_goedemorgen_nederland_radio_2002",
+  "title": "Goedemorgen Nederland Radio",
+  "start_year": 2002,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2612969"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "current affairs"
+  ],
+  "is_adult": false,
+  "countries": []
+}

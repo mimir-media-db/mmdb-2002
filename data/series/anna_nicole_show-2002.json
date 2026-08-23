@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_anna_nicole_show_2002",
+  "title": "The Anna Nicole Show",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q4347120",
+    "imdb": "tt0328732",
+    "tmdb": 10947
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 28,
+  "genres": [
+    "Comedy",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

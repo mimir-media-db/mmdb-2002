@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_crank_yankers_2002",
+  "title": "Crank Yankers",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1138905",
+    "imdb": "tt0318959",
+    "tmdb": 2097
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 70,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

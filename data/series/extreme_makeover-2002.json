@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_extreme_makeover_2002",
+  "title": "Extreme Makeover",
+  "start_year": 2002,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q923377",
+    "imdb": "tt0364807",
+    "tmdb": 976
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 54,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

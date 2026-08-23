@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ace_lightning_2002",
+  "title": "Ace Lightning",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q3604226",
+    "imdb": "tt0309125",
+    "tmdb": 506
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 39,
+  "genres": [
+    "Action",
+    "Animation",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

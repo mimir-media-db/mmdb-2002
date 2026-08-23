@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_bootleg_2002",
+  "title": "Bootleg",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4943988",
+    "imdb": "tt0329814",
+    "tmdb": 13322
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

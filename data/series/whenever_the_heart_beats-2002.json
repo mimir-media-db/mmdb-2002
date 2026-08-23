@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_whenever_the_heart_beats_2002",
+  "title": "Whenever the Heart Beats",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12972558"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 29,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

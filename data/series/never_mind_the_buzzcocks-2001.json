@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_never_mind_the_buzzcocks_2001",
+  "title": "Never Mind the Buzzcocks",
+  "start_year": 2001,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q63439902",
+    "imdb": "tt0310500",
+    "tmdb": 23626
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "genres": [
+    "Comedy",
+    "Game-Show",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

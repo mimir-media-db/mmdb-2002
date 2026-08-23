@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_guinevere_jones_2002",
+  "title": "Guinevere Jones",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q1168528",
+    "imdb": "tt0316985",
+    "tmdb": 11128
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Drama",
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU",
+    "CA"
+  ]
+}

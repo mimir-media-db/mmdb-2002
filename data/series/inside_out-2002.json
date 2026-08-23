@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_inside_out_2002",
+  "title": "Inside Out",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q14954392"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

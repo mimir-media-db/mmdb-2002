@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_cleo_2002",
+  "title": "Cleo",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3680496",
+    "imdb": "tt0310435",
+    "tmdb": 9293
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 27,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}
