@@ -11,5 +11,12 @@
   "genres": [
     "children's television series"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "ES",
+    "FR",
+    "GB",
+    "HK",
+    "US"
+  ]
 }

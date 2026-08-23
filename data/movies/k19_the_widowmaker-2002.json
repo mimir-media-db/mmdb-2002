@@ -17,5 +17,12 @@
     "History",
     "Thriller"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "DE",
+    "GB",
+    "RU",
+    "US"
+  ]
 }

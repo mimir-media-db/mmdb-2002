@@ -17,5 +17,9 @@
     "Sci-Fi",
     "Sport"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "US"
+  ]
 }

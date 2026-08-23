@@ -8,6 +8,9 @@
     "wikidata": "Q493928",
     "tmdb": 16601
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 16
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "countries": [
+    "KR"
+  ]
 }
