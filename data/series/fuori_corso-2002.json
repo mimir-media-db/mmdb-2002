@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_fuori_corso_2002",
+  "title": "Fuori corso",
+  "start_year": 2002,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3754682"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 205,
+  "genres": [
+    "sitcom"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

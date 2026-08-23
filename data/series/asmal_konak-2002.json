@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_asmal_konak_2002",
+  "title": "Asmalı Konak",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2250216",
+    "imdb": "tt0365980",
+    "tmdb": 32107
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 53,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

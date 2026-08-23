@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_sue_thomas_fbeye_2002",
+  "title": "Sue Thomas: F.B.Eye",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q799584",
+    "imdb": "tt0329934",
+    "tmdb": 1625
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 56,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

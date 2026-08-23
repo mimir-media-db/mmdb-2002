@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_world_film_report_2001",
+  "title": "World Film Report",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q8035725"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "CN"
+  ]
+}

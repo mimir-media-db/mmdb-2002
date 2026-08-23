@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_osbournes_2002",
+  "title": "The Osbournes",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q1145002",
+    "imdb": "tt0306370",
+    "tmdb": 499
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 52,
+  "genres": [
+    "Comedy",
+    "Music",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

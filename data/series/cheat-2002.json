@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_cheat_2002",
+  "title": "Cheat!",
+  "start_year": 2002,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5088902",
+    "imdb": "tt0367302",
+    "tmdb": 14713
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 174,
+  "genres": [
+    "Action",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

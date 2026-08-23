@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_profiel_2001",
+  "title": "Profiel",
+  "start_year": 2001,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q2400123"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 235,
+  "countries": []
+}

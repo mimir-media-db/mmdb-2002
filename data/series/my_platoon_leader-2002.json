@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_my_platoon_leader_2002",
+  "title": "My Platoon Leader",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12968450",
+    "tmdb": 209227
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "drama",
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

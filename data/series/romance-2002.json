@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_romance_2002",
+  "title": "Romance",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q498450",
+    "imdb": "tt0499281",
+    "tmdb": 52725
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

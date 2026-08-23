@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_korner_und_koter_2002",
+  "title": "Körner und Köter",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1796622",
+    "imdb": "tt0386213",
+    "tmdb": 40783
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 9,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

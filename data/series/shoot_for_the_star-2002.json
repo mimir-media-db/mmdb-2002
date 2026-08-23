@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_shoot_for_the_star_2002",
+  "title": "Shoot for the Star",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q12598245",
+    "tmdb": 35731
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "drama",
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

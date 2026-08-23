@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_scouts_safari_2002",
+  "title": "Scout's Safari",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q7438306",
+    "imdb": "tt0353101",
+    "tmdb": 2201
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

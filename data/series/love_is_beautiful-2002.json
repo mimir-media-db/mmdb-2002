@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_love_is_beautiful_2002",
+  "title": "Love is Beautiful",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q6691886",
+    "imdb": "tt9637440",
+    "tmdb": 97651
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 30,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HK"
+  ]
+}

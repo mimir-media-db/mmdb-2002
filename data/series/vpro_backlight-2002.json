@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_vpro_backlight_2002",
+  "title": "VPRO Backlight",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2300619",
+    "imdb": "tt0913290",
+    "tmdb": 42577
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 451,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": []
+}

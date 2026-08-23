@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_endelig_fredag_2001",
+  "title": "Endelig fredag",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11967431",
+    "imdb": "tt0312123"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NO"
+  ]
+}

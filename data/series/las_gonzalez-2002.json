@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_las_gonzalez_2002",
+  "title": "Las González",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q6492224",
+    "imdb": "tt0355087",
+    "tmdb": 17295
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 91,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "VE"
+  ]
+}

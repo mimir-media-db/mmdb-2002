@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_back_mountain_sunshine_2002",
+  "title": "Back Mountain Sunshine",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q11070221",
+    "imdb": "tt11268760",
+    "tmdb": 201713
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

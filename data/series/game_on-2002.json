@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_game_on_2002",
+  "title": "Game On",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5519867"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

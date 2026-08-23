@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ultimate_force_2002",
+  "title": "Ultimate Force",
+  "start_year": 2002,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2535174",
+    "imdb": "tt0334874",
+    "tmdb": 347
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 21,
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

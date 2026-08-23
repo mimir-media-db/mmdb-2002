@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_for_heavens_sake_2002",
+  "title": "For Heaven's Sake",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q319082",
+    "imdb": "tt0305132",
+    "tmdb": 40891
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 20,
+  "total_episodes": 238,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

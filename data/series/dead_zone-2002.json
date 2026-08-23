@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_dead_zone_2002",
+  "title": "The Dead Zone",
+  "start_year": 2002,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q1180873",
+    "imdb": "tt0281432",
+    "tmdb": 1475
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 80,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

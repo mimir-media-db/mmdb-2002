@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_ferdinand_le_magnifique_2001",
+  "title": "Ferdinand le Magnifique",
+  "start_year": 2001,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q16356466"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 68,
+  "countries": [
+    "LV"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_whos_my_love_2002",
+  "title": "Who's My Love",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12972563"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 84,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

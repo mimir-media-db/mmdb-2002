@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_politibongo_2002",
+  "title": "Politibongo",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q2101380",
+    "imdb": "tt0488694",
+    "tmdb": 80764
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 13,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

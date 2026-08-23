@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_wwe_confidential_2002",
+  "title": "WWE Confidential",
+  "start_year": 2002,
+  "end_year": 2004,
+  "external_ids": {
+    "wikidata": "Q14920481",
+    "imdb": "tt0324932",
+    "tmdb": 2888
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 83,
+  "genres": [
+    "Sport",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

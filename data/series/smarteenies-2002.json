@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_smarteenies_2002",
+  "title": "SMarteenies",
+  "start_year": 2002,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7391769",
+    "imdb": "tt0327355"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 50,
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_jawbreaker_2002",
+  "title": "Jawbreaker",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6166077",
+    "imdb": "tt1202647"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 27,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_dhadkan_2002",
+  "title": "Dhadkan",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16835184",
+    "imdb": "tt5029068",
+    "tmdb": 57762
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

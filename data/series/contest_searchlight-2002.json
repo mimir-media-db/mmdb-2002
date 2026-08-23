@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_contest_searchlight_2002",
+  "title": "Contest Searchlight",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5165146",
+    "imdb": "tt0337543",
+    "tmdb": 8782
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

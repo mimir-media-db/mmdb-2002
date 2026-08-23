@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ode_to_gallantry_2001",
+  "title": "Ode to Gallantry",
+  "start_year": 2001,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7077585",
+    "imdb": "tt21294926",
+    "tmdb": 94070
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 40,
+  "genres": [
+    "Action"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_four_lives_2002",
+  "title": "Four Lives",
+  "start_year": 2002,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q96408424",
+    "imdb": "tt7428760",
+    "tmdb": 153936
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Crime",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

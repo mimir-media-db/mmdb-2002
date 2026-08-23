@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_chased_by_dinosaurs_2002",
+  "title": "Chased by Dinosaurs",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q3132869",
+    "imdb": "tt0380862",
+    "tmdb": 232763
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 2,
+  "genres": [
+    "Animation",
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

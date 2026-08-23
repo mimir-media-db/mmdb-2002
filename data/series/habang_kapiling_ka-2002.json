@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_habang_kapiling_ka_2002",
+  "title": "Habang Kapiling Ka",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q5636615",
+    "imdb": "tt0370147",
+    "tmdb": 15445
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 248,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

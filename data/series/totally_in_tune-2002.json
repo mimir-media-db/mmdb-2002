@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_totally_in_tune_2002",
+  "title": "Totally in Tune",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q3995978",
+    "imdb": "tt0370214",
+    "tmdb": 10165
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Music",
+    "Reality-TV",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_combat_missions_2002",
+  "title": "Combat Missions",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q5150658",
+    "imdb": "tt0283177",
+    "tmdb": 11123
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 15,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

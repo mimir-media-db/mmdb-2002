@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_pequena_travessa_2002",
+  "title": "Pequena Travessa",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q10348453",
+    "imdb": "tt0344195",
+    "tmdb": 203492
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 140,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

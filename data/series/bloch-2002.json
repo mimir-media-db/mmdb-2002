@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_bloch_2002",
+  "title": "Bloch",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q884595",
+    "imdb": "tt0889263",
+    "tmdb": 40699
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 24,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

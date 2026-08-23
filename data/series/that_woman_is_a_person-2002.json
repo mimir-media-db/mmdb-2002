@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_that_woman_is_a_person_2002",
+  "title": "That woman is a person",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16169018",
+    "tmdb": 129649
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 51,
+  "countries": [
+    "KR"
+  ]
+}

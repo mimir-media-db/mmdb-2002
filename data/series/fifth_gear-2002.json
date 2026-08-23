@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_fifth_gear_2002",
+  "title": "Fifth Gear",
+  "start_year": 2002,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2157052",
+    "imdb": "tt0324679",
+    "tmdb": 1592
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 26,
+  "total_episodes": 237,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

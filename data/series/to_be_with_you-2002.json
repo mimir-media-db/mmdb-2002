@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_to_be_with_you_2002",
+  "title": "To Be With You",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12591095",
+    "tmdb": 128852
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 146,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

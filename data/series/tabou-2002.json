@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_tabou_2002",
+  "title": "Tabou",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q3513529",
+    "imdb": "tt0299395",
+    "tmdb": 281234
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 24,
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

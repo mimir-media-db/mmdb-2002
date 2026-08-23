@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_doctor_zhivago_2002",
+  "title": "Doctor Zhivago",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q573376",
+    "imdb": "tt0324937",
+    "tmdb": 11203
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 2,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "GB",
+    "US"
+  ]
+}

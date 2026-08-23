@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_inspektors_grauds_2002",
+  "title": "Inspektors Grauds",
+  "start_year": 2002,
+  "end_year": 2001,
+  "external_ids": {
+    "wikidata": "Q61121145",
+    "imdb": "tt2164011",
+    "tmdb": 297854
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "LV"
+  ]
+}

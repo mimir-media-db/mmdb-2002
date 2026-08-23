@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_confession_2002",
+  "title": "Confession",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12584224",
+    "tmdb": 308756
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

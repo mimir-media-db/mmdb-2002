@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_ripley_and_scuff_2002",
+  "title": "Ripley and Scuff",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7335641"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "children's television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

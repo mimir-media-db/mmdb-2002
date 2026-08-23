@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_coracao_de_estudante_2002",
+  "title": "Coração de Estudante",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q10260512",
+    "imdb": "tt0300746",
+    "tmdb": 46119
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 185,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

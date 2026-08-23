@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_whammy_the_allnew_press_your_luck_2002",
+  "title": "Whammy! The All-New Press Your Luck",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q7990592",
+    "imdb": "tt0312253",
+    "tmdb": 4152
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 130,
+  "genres": [
+    "Family",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_siete_veces_amada_2002",
+  "title": "Siete veces Amada",
+  "start_year": 2002,
+  "end_year": 2002,
+  "external_ids": {
+    "wikidata": "Q6128123",
+    "imdb": "tt0320955",
+    "tmdb": 107030
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 109,
+  "genres": [
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

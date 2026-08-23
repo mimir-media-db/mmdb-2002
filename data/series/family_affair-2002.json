@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_family_affair_2002",
+  "title": "Family Affair",
+  "start_year": 2002,
+  "end_year": 2003,
+  "external_ids": {
+    "wikidata": "Q55611447",
+    "imdb": "tt0318886",
+    "tmdb": 78945
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

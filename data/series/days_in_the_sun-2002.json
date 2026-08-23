@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_days_in_the_sun_2002",
+  "title": "Days in the Sun",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12624691"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "drama television series",
+    "romantic fiction",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

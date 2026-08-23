@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_wie_erziehe_ich_meine_eltern_2002",
+  "title": "Wie erziehe ich meine Eltern?",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q967440",
+    "imdb": "tt0428186",
+    "tmdb": 40713
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 39,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_upick_live_2002",
+  "title": "U-Pick Live",
+  "start_year": 2002,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q2340539",
+    "imdb": "tt0423760",
+    "tmdb": 725
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 401,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

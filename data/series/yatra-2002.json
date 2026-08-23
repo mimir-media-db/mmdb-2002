@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yatra_2002",
+  "title": "Yatra",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q8050259"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "countries": [
+    "IN"
+  ]
+}

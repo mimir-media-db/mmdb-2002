@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_saturday_night_football_2002",
+  "title": "Saturday Night Football",
+  "start_year": 2002,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7426666"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 13,
+  "countries": [
+    "AU"
+  ]
+}

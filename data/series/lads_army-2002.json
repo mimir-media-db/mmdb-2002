@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_lads_army_2002",
+  "title": "Lads' Army",
+  "start_year": 2002,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q6469833",
+    "imdb": "tt0417301",
+    "tmdb": 747
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 32,
+  "genres": [
+    "Comedy",
+    "History",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}
